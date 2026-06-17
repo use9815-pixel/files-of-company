@@ -1,0 +1,2119 @@
+{
+  "services_link": "Dienstleistungen",
+  "projects": "Projekte",
+  "cases": "Fallstudien",
+  "testimonials": "Referenzen",
+  "contact_link": "Kontakt",
+  "contact": {
+    "title": "Kontaktieren Sie uns",
+    "subtitle": "Lassen Sie uns Ihr nächstes Projekt besprechen",
+    "form": {
+      "name": "Vollständiger Name",
+      "email": "E-Mail-Adresse",
+      "phone": "Telefonnummer",
+      "company": "Unternehmen (Optional)",
+      "service": "Wählen Sie eine Dienstleistung",
+      "budget": "Geschätztes Budget",
+      "message": "Projektdetails",
+      "submit": "Mein Briefing senden →",
+      "success": "Nachricht erfolgreich gesendet!",
+      "error_reject": "ABLEHNUNG DURCH ÜBERMITTLUNGSSYSTEM",
+      "projectType": "Projekttyp",
+      "projectType_1": "Schnelle Aufgabe — Einzelnes Ergebnis",
+      "projectType_2": "Wachstumsprojekt — Mehrphasig",
+      "projectType_3": "Unternehmenslösung — Gesamtes Spektrum",
+      "messagePlaceholder": "Erzählen Sie uns von Ihren Projektzielen, Ihrem Zeitplan, Ihren Anforderungen...",
+      "sending": "Wird gesendet..."
+    },
+    "validation_error": "Bitte füllen Sie alle Pflichtfelder aus (Vollständiger Name, E-Mail und Projektbriefing).",
+    "badge": "Kontaktieren Sie uns",
+    "title_main": "Lassen Sie uns über Ihre Vision sprechen.",
+    "title_highlight": "Unverbindlich.",
+    "desc": "Haben Sie ein neues Projekt im Sinn oder müssen Sie ein bestehendes System skalieren? Schreiben Sie uns eine kurze Nachricht darüber, was Sie erreichen möchten. Unser Team wird Ihre Anforderungen prüfen und die genauen Schritte skizzieren, die wir für den Aufbau des Systems vorschlagen.",
+    "success_title": "Projektbriefing übermittelt!",
+    "success_button": "Weitere Nachricht senden",
+    "mailto_success": "Ihr E-Mail-Client wurde mit Ihrem vorausgefüllten Briefing geöffnet. Bitte klicken Sie auf Senden, um Ihre Anfrage abzuschließen. Wir werden innerhalb von 24 Stunden antworten!",
+    "info": {
+      "email_label": "Schreiben Sie uns",
+      "email_value": "contact@sqodex.com",
+      "phone_label": "WhatsApp & Anruf",
+      "phone_value": "+92 327 9048797",
+      "address_label": "Hauptsitz",
+      "address_value": "Peshawar, KPK, Pakistan",
+      "response_time": "Garantierte Antwortzeit: Unter 24 Stunden"
+    },
+    "placeholders": {
+      "name": "Max Mustermann",
+      "email": "max@example.com",
+      "phone": "+1 (555) 000-0000",
+      "company": "Acme Corp"
+    }
+  },
+  "proposal": "Sofortiges Angebot",
+  "agency": "Squad | Connect | Conquer",
+  "header": {
+    "toggle_language": "Sprache wechseln",
+    "toggle_theme": "App-Designfarbe wechseln",
+    "support_line": "SUPPORT-HOTLINE",
+    "hq_location": "HQ: Peshawar, Pakistan",
+    "languages": {
+      "en": "English",
+      "ur": "اردو",
+      "es": "Español",
+      "hi": "हिन्दी",
+      "ar": "العربية",
+      "zh": "中文",
+      "de": "Deutsch",
+      "la": "Latin",
+      "ja": "日本語"
+    }
+  },
+  "hero": {
+    "description": "Vom maßgeschneiderten Design bis zum finalen Launch entwickeln wir leistungsstarke digitale Produkte, die Ihrer Marke helfen zu skalieren, Kunden zu gewinnen und den Umsatz zu steigern.",
+    "badgeText": "UNSERE EXPERTISE",
+    "primaryBtnText": "Unsere Dienstleistungen entdecken",
+    "secondaryBtnText": "Kostenlose Beratung anfordern",
+    "star_rated": "Mit 5.0 Sternen bewertetes Hub",
+    "secp_integrity": "Registrierte SECP-Integrität",
+    "projects_delivered": "Über 200 erfolgreich ausgelieferte App-Projekte",
+    "saas_systems": "Gebaute SaaS-Systeme",
+    "trusted_by": "Geschätzt von Gründern & Unternehmen",
+    "categories": {
+      "website-development": {
+        "title_prefix": "Maßgeschneiderte Web-\\n Entwicklung &",
+        "title_suffix": "Next.js",
+        "subtitle": "Wir entwickeln souveräne, hochgeschwindigkeits- Webportale, responsive statische Seiten und robuste Headless-APIs mit Echtzeit-Telemetrie, extremen Indexierungsgeschwindigkeiten und konversionsoptimierten Architekturen.",
+        "badge": "Web-Systemarchitekten",
+        "primary_btn": "Webentwickler einstellen",
+        "secondary_btn": "Kostenlose Web-Schätzung erhalten",
+        "agent_msg": "Schnittstelle vollständig für 99+ Core Web Vitals optimiert.",
+        "mockup": {
+          "local_render": "💻 Lokales Rendering",
+          "schema_json": "⚡ schema.json",
+          "latency_monitoring": "Latenzüberwachung",
+          "performance_index": "Performance-Index-Score",
+          "fully_hydrated": "Vollständig hydrierte Komponenten",
+          "reduce_latency": "Latenz reduzieren",
+          "hydration_renders": "Hydrations-Renderings",
+          "component_builds": "Komponenten-Builds",
+          "sovereign_standard": "Souveräner Standard",
+          "strictly_ssl": "Streng SSL-signiert"
+        }
+      },
+      "mobile-apps": {
+        "title_prefix": "Mobile App-\\n Entwicklung &",
+        "title_suffix": "Flutter",
+        "subtitle": "Wir entwickeln blitzschnell reagierende Flutter- und React-Native-Anwendungen. Flüssige 60fps-Gestensteuerungsraster, automatisierte Offline-SQLite-Datenbanksynchronisierung und schnelle biometrische Anmeldungen.",
+        "badge": "Native App-Entwicklung",
+        "primary_btn": "App-Entwickler einstellen",
+        "secondary_btn": "Kostenloses App-Angebot erhalten",
+        "agent_msg": "Universelle Flutter-Integrationen erfolgreich bereitgestellt.",
+        "mockup": {
+          "good_morning": "Guten Morgen,",
+          "total_balance": "Gesamtsaldo",
+          "send": "Senden",
+          "receive": "Empfangen",
+          "swap": "Tauschen",
+          "more": "Mehr",
+          "recent_activity": "Letzte Aktivitäten",
+          "view_all": "Alle anzeigen",
+          "home": "Startseite"
+        }
+      },
+      "digital-marketing": {
+        "title_prefix": "Suchmaschinen-\\n Optimierung &",
+        "title_suffix": "SEO",
+        "subtitle": "Schalten Sie erstklassige Indexierungsgeschwindigkeiten, organische semantische Optimierungen und zielgerichtete Werbekonversionen frei. Erstellen Sie Autoritäts-Schemas, die Google-Indexing-Crawler sofort triggern.",
+        "badge": "Renditestarkes SEO-Wachstum",
+        "primary_btn": "Platz 1 bei Google erreichen",
+        "secondary_btn": "Kostenloses SEO-Audit",
+        "agent_msg": "Traffic-Indizes organisch um über 240 % erweitert.",
+        "mockup": {
+          "funnel_logs": "KONVERSIONSTRICHTER-LOGS",
+          "agent": "Sqodex-Agent",
+          "customers_served": "Logbuch bedienter Kunden",
+          "growth": "Wachstum",
+          "boost_funnel": "Trichterfluss ankurbeln",
+          "authority_index": "Autoritätsindex-Lift-Metriken (60 Tage)",
+          "indexing_audits": "Indexierungs-Keyword-Audits",
+          "indexed": "● Indexiert",
+          "pending": "○ Ausstehend"
+        }
+      },
+      "hosting": {
+        "title_prefix": "Verwaltetes Cloud-\\n Hosting &",
+        "title_suffix": "AWS DevOps",
+        "subtitle": "Hosten Sie mit erstklassiger Zuverlässigkeit. Bereitgestellt auf Multi-Verfügbarkeits-Mikroservice-Pods, verwalteten AWS-Load-Balancern, CDN-Caching-Lookup-Netzwerken und automatisierten Snapshot-Backup-Layern.",
+        "badge": "Hochverfügbarkeits-DevOps",
+        "primary_btn": "Hochgeschwindigkeits-Cloud bereitstellen",
+        "secondary_btn": "Server-Angebot anfordern",
+        "agent_msg": "Port 3000 sicher. Aktive Ping-Rate von 8.4ms.",
+        "mockup": {
+          "terminal": "SHELL-SICHERHEITSTERMINAL",
+          "clusters_online": "CLUSTER_ONLINE",
+          "cpu_load": "Kern-CPU-Auslastung",
+          "utilization": "Auslastung",
+          "deploy_commands": "Sandbox-Befehle bereitstellen",
+          "webhooks_ready": "Webhooks bereit",
+          "scale_container": "Container skalieren"
+        }
+      },
+      "ai-solutions": {
+        "title_prefix": "Maßgeschneiderte KI-\\n Integration &",
+        "title_suffix": "LLM-Agenten",
+        "subtitle": "Integrieren Sie robuste Unternehmens-LLMs nahtlos in sichere lokale Datenbanken. Erstellen Sie automatisierte Pipeline-Ticket-Router, konversationelle Wissensdatenbanken und automatische Datenkategorisierungsknoten.",
+        "badge": "KI-Engine-Integratoren",
+        "primary_btn": "Maßgeschneiderte KI integrieren",
+        "secondary_btn": "KI-Strategie entwerfen",
+        "agent_msg": "Synchronisierung der Vektordatenbank erfolgreich abgeschlossen.",
+        "mockup": {
+          "orchestrator": "KI-WORKFLOW-ORCHESTRATOR",
+          "active_module": "AKTIVES MODUL",
+          "visitor_request": "Besucher-Anfrage-Benutzer",
+          "autonomous_agent": "Autonomer Router-Agent",
+          "processing": "Verarbeite Antwort durch neuronale Pipelines...",
+          "select_params": "Simulierte Anfrageparameter auswählen",
+          "trigger_secp": "🚀 SECP-Knoten-Parameterintegration auslösen",
+          "generate_vector": "🤖 Vektor-Schema-Optimierung generieren"
+        }
+      },
+      "graphic-designing": {
+        "title_prefix": "Grafik- & \\n Marken-",
+        "title_suffix": "Identität",
+        "subtitle": "Etablieren Sie souveräne kommerzielle Identitäts-Assets. Moderne Typografie-Formeln, integrierte Figma-Systeme, Farbharmonie-Metriken und editierbare, hochwertige Branding-Assets.",
+        "badge": "Kreative UX/UI-Design-Labs",
+        "primary_btn": "Individuelles UI-Design anfordern",
+        "secondary_btn": "Markendesign-Angebot anfordern",
+        "agent_msg": "Neue Typografie-Handbücher & Marken-Styleguides erstellt.",
+        "mockup": {
+          "workbench": "KREATIVE DESIGN-WERKBANK",
+          "figma_canvas": "FIGMA-ZEICHENFLÄCHE",
+          "identity_pro": "Lumio Identity Pro",
+          "dimensions": "Vektordimensionen:",
+          "angle": "Winkel:",
+          "select_themes": "Simulierte Farbthemen-Paletten auswählen",
+          "width": "Breite:"
+        }
+      },
+      "saas-systems": {
+        "title_prefix": "SaaS-Systeme \\n & Individuelle",
+        "title_suffix": "Software",
+        "subtitle": "Wir konzipieren und bauen voll funktionsfähige SaaS-Plattformen von Grund auf — Multi-Tenant-Datenbankarchitektur, Stripe/Paddle-Abonnementabrechnung, Admin-Super-Dashboards und rollenbasierte Zugriffskontrolle.",
+        "badge": "Enterprise SaaS-Studio",
+        "primary_btn": "SaaS-System bauen",
+        "secondary_btn": "SaaS-Beratung anfordern",
+        "agent_msg": "Überprüfung der Systemarchitektur abgeschlossen.",
+        "mockup": {
+          "metrics": "SAAS-ADMIN-METRIKEN",
+          "clusters": "AKTIVE CLUSTER",
+          "db_connection": "Datenbankverbindung",
+          "active": "● Aktiv",
+          "api_health": "API-Gesundheitsindex",
+          "tenancies": "Gesamtzahl aktiver Mandanten",
+          "nodes": "Knoten"
+        }
+      },
+      "ui-ux-design": {
+        "title_prefix": "UI/UX-Design \\n & Interaktive",
+        "title_suffix": "Prototypen",
+        "subtitle": "Wir liefern Wireframes, interaktive Prototypen, vollständige Design-Systeme und entwicklerfertige Figma-Übergaben. Jedes Pixel hat seine Berechtigung und ist auf Konversion ausgelegt.",
+        "badge": "UI/UX-Design-Studio",
+        "primary_btn": "UI/UX-Designer einstellen",
+        "secondary_btn": "UI/UX-Angebot anfordern",
+        "agent_msg": "Figma-Designsystem aktualisiert.",
+        "mockup": {
+          "workbench": "KREATIVE DESIGN-WERKBANK",
+          "canvas": "FIGMA-ZEICHENFLÄCHE",
+          "zoom": "100 % Zoom",
+          "switch_viewports": "Zeichenflächen-Ansichtsfenster wechseln",
+          "wireframes": "Wireframes",
+          "design_system": "Design-System",
+          "mobile_prototype": "Mobiler Prototyp"
+        }
+      },
+      "video-editing": {
+        "title_prefix": "Videobearbeitung \\n & Motion-",
+        "title_suffix": "Graphics",
+        "subtitle": "Produktdemovideos, Erkläranimationen und hochwirksame Social-Media-Inhalte, die für die Algorithmen von YouTube, Instagram Reels, TikTok und LinkedIn optimiert sind.",
+        "badge": "Motion-Graphics-Lab",
+        "primary_btn": "Videoprojekt starten",
+        "secondary_btn": "Videoschnitt-Angebot einholen",
+        "agent_msg": "Social-Video-Timelines optimiert.",
+        "mockup": {
+          "renderer": "TIMELINE-RENDERER",
+          "ultra_comp": "4K_ULTRA_COMP",
+          "live_preview": "LIVE-VORSCHAU",
+          "telemetry": "Video-Rendering-Telemetrie",
+          "active_encoder": "Aktiver Encoder",
+          "timeline_latency": "Timeline-Latenz",
+          "zero_lag": "0.8ms (Keine Frame-Verzögerung)"
+        }
+      }
+    },
+    "default": {
+      "title": {
+        "1": "Erstklassige digitale Dienste",
+        "2": "&",
+        "3": "Software-Engineering"
+      },
+      "badges": {
+        "0": "Next.js & React 19 Core",
+        "1": "Framer Fluid Motion",
+        "2": "Strikte SSL-Sicherheit",
+        "3": "99+ Lighthouse-Scores"
+      },
+      "mockup": {
+        "sandbox": "Interaktive Schätzungs-Sandbox bereit",
+        "select_pillars": "Wählen Sie unten die digitalen Säulen aus, um maßgeschneiderte SaaS-Dashboards zu laden."
+      }
+    },
+    "web": {
+      "title": {
+        "1": "Maßgeschneiderte Web-",
+        "2": "Entwicklung &",
+        "3": "Next.js"
+      },
+      "subtitle": "Wir entwickeln souveräne, hochgeschwindigkeits- Webportale, responsive statische Seiten und robuste Headless-APIs mit Echtzeit-Telemetrie, extremen Indexierungsgeschwindigkeiten und konversionsoptimierten Architekturen.",
+      "badgeText": "Web-Systemarchitekten",
+      "badges": {
+        "0": "Server-Side Rendering",
+        "1": "Globale Edge-CDNs",
+        "2": "Sicheres REST/GraphQL",
+        "3": "99 Lighthouse-Perf"
+      },
+      "btn_primary": "Webentwickler einstellen",
+      "btn_secondary": "Kostenlose Web-Schätzung erhalten",
+      "agent": {
+        "role": "Chefarchitekt",
+        "msg": "Schnittstelle vollständig für 99+ Core Web Vitals optimiert."
+      },
+      "mockup": {
+        "local_render": "💻 Lokales Rendering",
+        "schema_json": "⚡ schema.json",
+        "latency_monitoring": "Latenzüberwachung",
+        "performance_score": "Performance-Index-Score",
+        "fully_hydrated": "Vollständig hydrierte Komponenten",
+        "reduce_latency": "Latenz reduzieren",
+        "hydration_renders": "Hydrations-Renderings",
+        "component_builds": "Komponenten-Builds",
+        "sovereign_standard": "Souveräner Standard",
+        "ssl": "Streng SSL-signiert"
+      }
+    },
+    "mobile": {
+      "title": {
+        "1": "Mobile App-",
+        "2": "Entwicklung &",
+        "3": "Flutter"
+      },
+      "subtitle": "Wir entwickeln blitzschnell reagierende Flutter- und React-Native-Anwendungen. Flüssige 60fps-Gestensteuerungsraster, automatisierte Offline-SQLite-Datenbanksynchronisierung und schnelle biometrische Anmeldungen.",
+      "badgeText": "Native App-Entwicklung",
+      "badges": {
+        "0": "Duale iOS/Android-Builds",
+        "1": "Biometrischer Touch aktiviert",
+        "2": "Flüssige Gesten-Engine",
+        "3": "6 Monate Fehlergarantie"
+      },
+      "btn_primary": "App-Entwickler einstellen",
+      "btn_secondary": "Kostenloses App-Angebot erhalten",
+      "agent": {
+        "role": "App-Chefarchitekt",
+        "msg": "Universelle Flutter-Integrationen erfolgreich bereitgestellt."
+      },
+      "mockup": {
+        "greeting": "Guten Morgen,",
+        "user": "Sarah Johnson",
+        "total_balance": "Gesamtsaldo",
+        "send": "Senden",
+        "receive": "Empfangen",
+        "swap": "Tauschen",
+        "more": "Mehr",
+        "recent_activity": "Letzte Aktivitäten",
+        "view_all": "Alle anzeigen"
+      }
+    },
+    "marketing": {
+      "title": {
+        "1": "Suchmaschinen-",
+        "2": "Optimierung &",
+        "3": "SEO"
+      },
+      "subtitle": "Schalten Sie erstklassige Indexierungsgeschwindigkeiten, organische semantische Optimierungen und zielgerichtete Werbekonversionen frei. Erstellen Sie Autoritäts-Schemas, die Google-Indexing-Crawler sofort triggern.",
+      "badgeText": "Renditestarkes SEO-Wachstum",
+      "badges": {
+        "0": "Programmatisches SEO",
+        "1": "PPC-Werbe-Webhooks",
+        "2": "Keyword-Crawl-Engine",
+        "3": "Live-Echtzeit-Dashboards"
+      },
+      "btn_primary": "Platz 1 bei Google erreichen",
+      "btn_secondary": "Kostenloses SEO-Audit",
+      "agent": {
+        "role": "Chief of Operations HQ",
+        "msg": "Traffic-Indizes organisch um über 240 % erweitert."
+      },
+      "mockup": {
+        "funnel_logs": "KONVERSIONSTRICHTER-LOGS",
+        "agent": "Sqodex-Agent",
+        "customers": "Logbuch bedienter Kunden",
+        "growth": "Wachstum",
+        "btn_boost": "Trichterfluss ankurbeln",
+        "metrics_title": "Autoritätsindex-Lift-Metriken (60 Tage)",
+        "audits": "Indexierungs-Keyword-Audits",
+        "indexed": "● Indexiert",
+        "pending": "○ Ausstehend"
+      }
+    },
+    "hosting": {
+      "title": {
+        "1": "Verwaltetes Cloud-",
+        "2": "Hosting &",
+        "3": "AWS DevOps"
+      },
+      "subtitle": "Hosten Sie mit erstklassiger Zuverlässigkeit. Bereitgestellt auf Multi-Verfügbarkeits-Mikroservice-Pods, verwalteten AWS-Load-Balancern, CDN-Caching-Lookup-Netzwerken und automatisierten Snapshot-Backup-Layern.",
+      "badgeText": "Hochverfügbarkeits-DevOps",
+      "badges": {
+        "0": "Multi-Zonen-Container",
+        "1": "ECDSA-TLS-Sicherheit",
+        "2": "Nginx-Route-Caching",
+        "3": "Grafana-Telemetriemetriken"
+      },
+      "btn_primary": "Hochgeschwindigkeits-Cloud bereitstellen",
+      "btn_secondary": "Server-Angebot anfordern",
+      "agent": {
+        "role": "Sicherheits-Cluster-Supervisor",
+        "msg": "Port 3000 sicher. Aktive Ping-Rate von 8.4ms."
+      },
+      "mockup": {
+        "terminal": "SHELL-SICHERHEITSTERMINAL",
+        "status": "CLUSTER_ONLINE",
+        "cpu_load": "Kern-CPU-Auslastung",
+        "cpu_util": "Auslastung",
+        "deploy_cmds": "Sandbox-Befehle bereitstellen",
+        "btn_webhooks": "Webhooks bereit",
+        "btn_scale": "Container skalieren"
+      }
+    },
+    "ai": {
+      "title": {
+        "1": "Maßgeschneiderte KI-",
+        "2": "Integration &",
+        "3": "LLM-Agenten"
+      },
+      "subtitle": "Integrieren Sie robuste Unternehmens-LLMs nahtlos in sichere lokale Datenbanken. Erstellen Sie automatisierte Pipeline-Ticket-Router, konversationelle Wissensdatenbanken und automatic data categorization nodes.",
+      "badgeText": "KI-Engine-Integratoren",
+      "badges": {
+        "0": "Gemini / OpenAI API",
+        "1": "Vektordatenbank-Sync",
+        "2": "Autonome Routing-KI",
+        "3": "CRM-System-Webhooks"
+      },
+      "btn_primary": "Maßgeschneiderte KI integrieren",
+      "btn_secondary": "KI-Strategie entwerfen",
+      "agent": {
+        "role": "Principal LLM Architect",
+        "msg": "Synchronisierung der Vektordatenbank erfolgreich abgeschlossen."
+      },
+      "mockup": {
+        "orchestrator": "KI-WORKFLOW-ORCHESTRATOR",
+        "active_module": "AKTIVES MODUL",
+        "user_role": "Besucher-Anfrage-Benutzer",
+        "agent_role": "Autonomer Router-Agent",
+        "processing": "Verarbeite Antwort durch neuronale Pipelines...",
+        "select_params": "Simulierte Anfrageparameter auswählen",
+        "btn_trigger_secp": "🚀 SECP-Knoten-Parameterintegration auslösen",
+        "btn_generate_vector": "🤖 Vektor-Schema-Optimierung generieren"
+      },
+      "online_msg": "Systeme online. Wählen Sie unten einen automatisierten Workflow-Parameter aus, um eine Live-Sandbox-Antwort zu generieren.",
+      "default_response": "Synchronisierungen des autonomen Routing-Workflows aktiv.",
+      "streaming": {
+        "0": "Sichere Routenparameter... API-Layer bereit zum Binden an Peshawar-Unternehmensknoten.",
+        "1": "Synchronisiere Schemas. 14 dynamische Klassifizierungsvektoren mit OpenAI/Gemini-Logik generiert.",
+        "2": "Optimiere. Gebe vollständig antwortbereite semantische Strukturen aus, die kontinuierliches Crawlen unterstützen."
+      }
+    },
+    "uiux": {
+      "title": {
+        "1": "UI/UX-Design",
+        "2": "& Interaktive",
+        "3": "Prototypen"
+      },
+      "subtitle": "Wir liefern Wireframes, interaktive Prototypen, vollständige Design-Systeme und entwicklerfertige Figma-Übergaben. Jedes Pixel hat seine Berechtigung und ist auf Konversion ausgelegt.",
+      "badgeText": "UI/UX-Design-Studio",
+      "badges": {
+        "0": "Figma-Arbeitsbereich",
+        "1": "Interaktive Prototypen",
+        "2": "Entwickler-Übergabe",
+        "3": "Benutzergetestete Layouts"
+      },
+      "btn_primary": "UI/UX-Designer einstellen",
+      "btn_secondary": "UI/UX-Angebot anfordern",
+      "agent": {
+        "role": "Lead UI-Designer",
+        "msg": "Figma-Designsystem updated."
+      },
+      "mockup": {
+        "workbench": "KREATIVE DESIGN-WERKBANK",
+        "canvas": "FIGMA-ZEICHENFLÄCHE",
+        "zoom": "100 % Zoom",
+        "switch": "Zeichenflächen-Ansichtsfenster wechseln",
+        "btn_wireframes": "Wireframes",
+        "btn_system": "Design-System",
+        "btn_mobile": "Mobiler Prototyp"
+      }
+    },
+    "video": {
+      "title": {
+        "1": "Videobearbeitung",
+        "2": "& Motion-",
+        "3": "Graphics"
+      },
+      "subtitle": "Produktdemovideos, Erkläranimationen und hochwirksame Social-Media-Inhalte, die für die Algorithmen von YouTube, Instagram Reels, TikTok und LinkedIn optimiert sind.",
+      "badgeText": "Motion-Graphics-Lab",
+      "badges": {
+        "0": "After Effects",
+        "1": "Premiere Pro",
+        "2": "Erklärvideo",
+        "3": "Reels/TikTok ready"
+      },
+      "btn_primary": "Videoprojekt starten",
+      "btn_secondary": "Videoschnitt-Angebot einholen",
+      "agent": {
+        "role": "Lead Motion Designer",
+        "msg": "Social-Video-Timelines optimiert."
+      },
+      "mockup": {
+        "renderer": "TIMELINE-RENDERER",
+        "comp": "4K_ULTRA_COMP",
+        "live_preview": "LIVE-VORSCHAU",
+        "telemetry": "Video-Rendering-Telemetrie",
+        "encoder": "Aktiver Encoder",
+        "encoder_val": "AV1 High Profile",
+        "latency": "Timeline-Latenz",
+        "latency_val": "0.8ms (Keine Frame-Verzögerung)"
+      }
+    },
+    "saas": {
+      "title": {
+        "1": "SaaS-Systeme",
+        "2": "& Individuelle",
+        "3": "Software"
+      },
+      "subtitle": "Wir konzipieren und bauen voll funktionsfähige SaaS-Plattformen von Grund auf — Multi-Tenant-Datenbankarchitektur, Stripe/Paddle-Abonnementabrechnung, Admin-Super-Dashboards und rollenbasierte Zugriffskontrolle.",
+      "badgeText": "Enterprise SaaS-Studio",
+      "badges": {
+        "0": "Multi-Tenancy",
+        "1": "Rollenbasierter Zugriff",
+        "2": "Stripe-Abrechnung",
+        "3": "Horizontale AWS-Skalierung"
+      },
+      "btn_primary": "SaaS-System bauen",
+      "btn_secondary": "SaaS-Beratung anfordern",
+      "agent": {
+        "role": "Principal SaaS Architect",
+        "msg": "Überprüfung der Systemarchitektur abgeschlossen."
+      },
+      "mockup": {
+        "admin_metrics": "SAAS-ADMIN-METRIKEN",
+        "active_clusters": "AKTIVE CLUSTER",
+        "db_conn": "Datenbankverbindung",
+        "active": "● Aktiv",
+        "api_health": "API-Gesundheitsindex",
+        "tenancies": "Gesamtzahl aktiver Mandanten",
+        "nodes": "Knoten"
+      }
+    },
+    "graphics": {
+      "title": {
+        "1": "Grafik- &",
+        "2": "Marken-",
+        "3": "Identität"
+      },
+      "subtitle": "Etablieren Sie souveräne kommerzielle Identitäts-Assets. Moderne Typografie-Formeln, integrierte Figma-Systeme, Farbharmonie-Metriken und editierbare, hochwertige Branding-Assets.",
+      "badgeText": "Kreative UX/UI-Design-Labs",
+      "badges": {
+        "0": "Markenstrategie-Systeme",
+        "1": "Hochwertige Figma-Vektoren",
+        "2": "Markenhandbücher-Quelle",
+        "3": "Flexible Layout-Frameworks"
+      },
+      "btn_primary": "Individuelles UI-Design anfordern",
+      "btn_secondary": "Markendesign-Angebot anfordern",
+      "agent": {
+        "role": "Principal Product Designer",
+        "msg": "Neue Typografie-Handbücher & Marken-Styleguides erstellt."
+      },
+      "mockup": {
+        "workbench": "KREATIVE DESIGN-WERKBANK",
+        "figma_canvas": "FIGMA-ZEICHENFLÄCHE",
+        "identity_pro": "Lumio Identity Pro",
+        "dimensions": "Vektordimensionen:",
+        "angle": "Winkel:",
+        "select_themes": "Simulierte Farbthemen-Paletten auswählen",
+        "width": "Breite:"
+      }
+    },
+    "slogan": {
+      "squad": "Squad",
+      "connect": "Connect",
+      "conquer": "Conquer"
+    },
+    "robot": {
+      "click_me": "Klick mich!",
+      "switch_service": "Dienstleistung wechseln"
+    },
+    "short_name": {
+      "website_development": "Enterprise Web Dev",
+      "mobile_apps": "Mobile Anwendung",
+      "digital_marketing": "Wachstums-SEO-Marketing",
+      "hosting": "Cloud-System-Hosting",
+      "ai_solutions": "Autonome KI-LLMs",
+      "graphic_designing": "Grafikdesign",
+      "saas_systems": "SaaS-Systeme",
+      "web_development": "Webentwicklung",
+      "ui_ux_design": "UI/UX-Design",
+      "graphics_branding": "Branding & Grafik",
+      "video_editing": "Video & Motion",
+      "seo_marketing": "SEO-Marketing"
+    },
+    "form": {
+      "validation": "Bitte tragen Sie Ihren Namen und Ihre E-Mail-Adresse ein.",
+      "error": "Kommunikationsfehler bei der Verbindung mit den Backend-Diensten.",
+      "default_company": "Hero Intake Partner",
+      "default_rfp": "Hero Intake RFP-Anfrage für: {{service}} unter {{level}}",
+      "default_level": "MID-SCALE",
+      "default_service": "Dienstleistungen"
+    },
+    "hosting_logs": {
+      "0": "SQODEX_CORE :: LIVE-STATUS INITIALISIERT",
+      "1": "INGRESS_ZONE :: PK_PESHAWAR_PRIMARY",
+      "2": "DDoS_SHIELD_WALL :: AKTIVIERT AUF PORT 3000",
+      "3": "BEREIT ZUM EMPFANG VON BEFEHLSPAKETEN..."
+    },
+    "marketing_keywords": {
+      "0": {
+        "word": "Sqodex Peshawar",
+        "ranked": true
+      },
+      "1": {
+        "word": "Sovereign SEO App",
+        "ranked": true
+      },
+      "2": {
+        "word": "React Web Dev Pakistan",
+        "ranked": false
+      }
+    },
+    "pricing_tiers": {
+      "website-development": {
+        "0": {
+          "level": "Essentials-Paket",
+          "range": "$100 - $300",
+          "desc": "Perfekt für lokale Startups, die mit einfachen Layouts Autorität aufbauen möchten.",
+          "speed": "3-5 Tage Lieferung",
+          "metric": "SEO-geprüfter Kern"
+        },
+        "1": {
+          "level": "Professionelle Plattform",
+          "range": "$300 - $800",
+          "desc": "Für wachsende Marken, die maßgeschneiderte Portal-Integrationen, APIs und CMS-Kontrolle benötigen.",
+          "speed": "7-12 Tage Lieferung",
+          "metric": "Interaktives Echtzeit-CMS"
+        },
+        "2": {
+          "level": "Enterprise-Suite",
+          "range": "$800 - $2000+",
+          "desc": "Maßgeschneidertes High-Scale-Design mit automatisierten Replikationen, SLAs und dediziertem Knoten.",
+          "speed": "15-25 Tage Lieferung",
+          "metric": "99.9 % Cloud-Ingress-SLA"
+        }
+      },
+      "mobile-apps": {
+        "0": {
+          "level": "Individueller App-Shell",
+          "range": "$100 - $300",
+          "desc": "Eine elegante Single-Platform-Launcher-Vorlage für die schnelle Darstellung auf iOS oder Android.",
+          "speed": "10-14 Tage Lieferung",
+          "metric": "Lokaler SQLite/Hive-Speicher"
+        },
+        "1": {
+          "level": "Omni-Store-Sync",
+          "range": "$1500 - $2500",
+          "desc": "Einheitliche Flutter/React-Native-App, die dynamische Benutzerauthentifizierung & Cross-Store-Launch unterstützt.",
+          "speed": "15-25 Tage Lieferung",
+          "metric": "Social Sign-On bereit"
+        },
+        "2": {
+          "level": "Enterprise App-Suite",
+          "range": "$2500 - $8000",
+          "desc": "Hochkomplexes, sicheres mobiles System für Unternehmen mit Backend-API-Synchronisierung und Zahlungsterminals.",
+          "speed": "30-45 Tage Lieferung",
+          "metric": "6 Monate Support-Garantie"
+        }
+      },
+      "digital-marketing": {
+        "0": {
+          "level": "Rank Launch Node",
+          "range": "$50 - $400/Monat",
+          "desc": "Grundlegende Crawling-Optimierung, grundlegendes Keyword-Tracking und Behebung von Google-Indexierungsfehlern.",
+          "speed": "Fortlaufend monatlich",
+          "metric": "12 renditestarke Keywords"
+        },
+        "1": {
+          "level": "Authority Amplifier",
+          "range": "$400 - $900/Monat",
+          "desc": "Erstellung semantischer Seitenvorlagen, regelmäßiger Backlink-Aufbau und gezieltes Metrik-Tracking.",
+          "speed": "Fortlaufend monatlich",
+          "metric": "50+ Target-Keywords-Tracker"
+        },
+        "2": {
+          "level": "Hyper-Velocity-Skalierung",
+          "range": "$1200 - $2500/Monat",
+          "desc": "Vollständige Trichterbeschleunigung durch Verknüpfung semantischer SEO-Layouts, PPC und Retargeting-Frameworks.",
+          "speed": "Fortlaufend monatlich",
+          "metric": "Bi-wöchentliche Live-Audits"
+        }
+      },
+      "hosting": {
+        "0": {
+          "level": "Cloud Shield Instanz",
+          "range": "$25 - $50/Monat",
+          "desc": "Virtueller privater Knoten mit blitzschnellem CDN-Lookup und täglichen System-Snapshots.",
+          "speed": "Fortlaufend monatlich",
+          "metric": "DDoS-Mitigation"
+        },
+        "1": {
+          "level": "Lastverteilter Multi-Core",
+          "range": "$99 - $199/Monat",
+          "desc": "Hochverfügbarkeits-Cluster für performantes SaaS-Hosting mit geografischer Replikation.",
+          "speed": "Fortlaufend monatlich",
+          "metric": "99.99 % Verfügbarkeit garantiert"
+        },
+        "2": {
+          "level": "Kubernetes Enterprise Pod",
+          "range": "$350 - $800/Monat",
+          "desc": "Autoskalierender Container-Stack auf verteilten Cloud-Instanzen für extreme Traffic-Ströme.",
+          "speed": "Fortlaufend monatlich",
+          "metric": "Grafana Web-UI-Metriken"
+        }
+      },
+      "ai-solutions": {
+        "0": {
+          "level": "Orchestrator-Kit",
+          "range": "$500 - $900",
+          "desc": "Stellen Sie automatisierte, intelligente Klassifizierungs-Pipelines bereit, um Kundenanfragen zu organisieren.",
+          "speed": "7-10 Tage Lieferung",
+          "metric": "Gemini / OpenAI API Integration"
+        },
+        "1": {
+          "level": "Interaktiver smarter Chatbot",
+          "range": "$1200 - $2500",
+          "desc": "Maßgeschneiderter, auf Ihrer Wissensbasis trainierter Chat-Assistent zur kontextuellen Beantwortung von Kundenanfragen.",
+          "speed": "14-20 Tage Lieferung",
+          "metric": "Vektordatenbank-Synchronisierung"
+        },
+        "2": {
+          "level": "Autonome Agenten-Suite",
+          "range": "$4500 - $9000",
+          "desc": "Maßgeschneiderte Betriebsworkflows mit Multi-Agenten-Routing, LLM-Klassifikatoren und CRM-Synchronisierung.",
+          "speed": "25-40 Tage Lieferung",
+          "metric": "Sub-Sekunden KI-Routing-Pipeline"
+        }
+      },
+      "graphic-designing": {
+        "0": {
+          "level": "Core Identity Kit",
+          "range": "$150 - $300",
+          "desc": "Kontrastreiche Vektor-Logoformate, Entwürfe für den Markenstil und redaktionelle Hierarchie.",
+          "speed": "3-5 Tage Lieferung",
+          "metric": "Moderne Vektorformate"
+        },
+        "1": {
+          "level": "Kreative Unternehmensmarke",
+          "range": "$400 - $800",
+          "desc": "Integrierte visuelle Systeme, digitale Werbemittel und hochwertige Marketing-Assets.",
+          "speed": "6-10 Tage Lieferung",
+          "metric": "6 anpassbare Vorlagen"
+        },
+        "2": {
+          "level": "Umfassendes Produktsystem",
+          "range": "$1200 - $2500",
+          "desc": "Immersives, hochwertiges Figma-Komponenten-Repository, maßgeschneiderte Vektor-Ikonografien und vollständig responsive Layouts.",
+          "speed": "12-18 Tage Lieferung",
+          "metric": "Figma-Master-Quellzugriff"
+        }
+      }
+    }
+  },
+  "workflow": {
+    "process": "Unser Ablauf",
+    "title_main": "Von der Idee bis zum Launch in",
+    "title_highlight": "vier klaren Schritten.",
+    "desc": "Ein systematischer, vorhersehbarer Lebenszyklus, der darauf ausgelegt ist, leistungsstarke digitale Produkte von der Konzeption bis zur Skalierung zu liefern.",
+    "steps": {
+      "0": {
+        "title": "Discovery-Call",
+        "desc": "Wir lernen Ihre Ziele, Zielgruppen, Zeitpläne und Budgets in einer kostenlosen 30-minütigen Session kennen. Auf den Punkt gebracht."
+      },
+      "1": {
+        "title": "Angebot & Umfang",
+        "desc": "Sie erhalten innerhalb von 48 Stunden einen detaillierten Projektumfang, einen Zeitplan und ein Festpreisangebot."
+      },
+      "2": {
+        "title": "Design & Entwicklung",
+        "desc": "Unser Team legt los. Sie bleiben durch wöchentliche Check-ins und ein gemeinsames Projektboard immer auf dem Laufenden."
+      },
+      "3": {
+        "title": "Launch & Support",
+        "desc": "Wir stellen das Produkt bereit, testen es und übergeben ein poliertes Ergebnis — und bleiben für fortlaufenden Support an Ihrer Seite."
+      }
+    }
+  },
+  "why_choose_us": {
+    "badge": "WARUM SQODEX",
+    "title_main": "Warum",
+    "title_highlight": "SQODEX",
+    "desc": "Wir liefern leistungsstarke digitale Produkte, die Marken beim Skalieren helfen. So heben wir uns vom Wettbewerb ab.",
+    "card1": {
+      "title": "End-to-End-Lösungen",
+      "desc": "Von der strategischen Konzeption bis zur globalen Bereitstellung verwalten wir den gesamten technischen Lebenszyklus, damit sich Ihr Team auf die Marktexpansion konzentrieren kann."
+    },
+    "card2": {
+      "title": "Integration moderner Tech-Stacks",
+      "desc": "Entwickelt mit modernen Stacks wie React, Node.js, Flutter und Kotlin, um Performance und Skalierbarkeit zu garantieren."
+    },
+    "card3": {
+      "title": "Flexibilität beim Stack",
+      "desc": "Ein maßgeschneiderter Tech-Stack, der perfekt auf Ihre Geschäftsanforderungen abgestimmt ist, sorgt für optimale Leistung, Skalierbarkeit und langfristige Wartbarkeit. Ihre Vision, Ihr Stack, unsere Expertise."
+    },
+    "card4": {
+      "title": "Performance, Analytics & Support",
+      "desc": "Umfassende Wartung nach dem Launch, Leistungsüberwachung und kontinuierliche Optimierungsdienste stellen sicher, dass sich Ihre digitalen Assets mit Ihren Geschäftszielen weiterentwickeln."
+    },
+    "card5": {
+      "title": "Sicherheits-Audits & Recovery",
+      "desc": "Schützen Sie Ihre digitalen Assets mit unseren umfassenden Sicherheitsaudit-Diensten. Wir identifizieren Schwachstellen und bieten robuste Wiederherstellungslösungen, um Ihre Daten und Abläufe zu sichern."
+    },
+    "card6": {
+      "title": "Zukunftssichere Innovation",
+      "desc": "Sichern Sie sich einen sofortigen Wettbewerbsvorteil. Wir integrieren schon heute zukunftsweisende Funktionen — von KI/LLMs bis hin zu autonomen Mikroservices — in Ihr Kernprodukt."
+    }
+  },
+  "services": {
+    "what_we_do": "WAS WIR TUN",
+    "explore_our": "Entdecken Sie unsere",
+    "services": "Dienstleistungen",
+    "description": "Vom maßgeschneiderten Design bis zum finalen Launch entwickeln wir leistungsstarke digitale Produkte, die Ihrer Marke helfen zu skalieren, Kunden zu gewinnen und den Umsatz zu steigern."
+  },
+  "footer": {
+    "corporate_services": "Unternehmensdienste",
+    "newsletter_title": "Newsletter & Tech-Bulletins",
+    "newsletter_desc": "Erhalten Sie strategische Updates zu modernen Webarchitekturen, Produktdesign und KI-Strategien.",
+    "subscribe": "Abonnieren",
+    "subscribe_alert": "Simulierte Newsletter-Anmeldung abgeschlossen.",
+    "ssl_secured": "SSL-gesicherte Ebene",
+    "official_site": "Offizielle Seite",
+    "slogan": "Squad. Connect. Conquer.",
+    "description": "Maßgeschneiderte Webframeworks, hybride mobile Architekturen, Docker-Knoten auf Unternehmensebene und programmgesteuerte SEO-Kampagnen, verwaltet von erfahrenen Digitalingenieuren in Peshawar, Pakistan.",
+    "hq": "HQ: Peshawar, KPK",
+    "copyright": "Sqodex Digital Service Provider. Alle geistigen Eigentumsrechte vorbehalten.",
+    "ssl": "SSL-gesicherte Ebene",
+    "newsletter_placeholder": "name@company.com",
+    "back_to_top": "Nach oben"
+  },
+  "about": {
+    "slogan": "Squad | Connect | Conquer",
+    "title_prefix": "Bereit für das",
+    "title_suffix": "Wachstum Ihres Unternehmens?",
+    "p1_text": "ist eine Full-Service-Digitalagentur. Wir kombinieren kreative Marketingstrategien mit datengesteuerten Lösungen, um Ihre Marke zu skalieren, Premium-Kunden zu gewinnen und Ihren Umsatz zu beschleunigen.",
+    "p2_text": "Wir verwandeln Ihre großen Ideen in leistungsstarke digitale Kampagnen. Durch die Kombination von Marktstrategie mit innovativer Technologie bauen wir starke Markenidentitäten auf, die Aufmerksamkeit erregen, die Kundenbindung stärken und messbares Geschäftswachstum liefern.",
+    "values_title": "Unsere Grundwerte",
+    "stats": {
+      "0": {
+        "label": "Jahre Exzellenz"
+      },
+      "1": {
+        "label": "Marken weltweit"
+      },
+      "2": {
+        "label": "Ausgelieferte Projekte"
+      },
+      "3": {
+        "label": "Kundenzufriedenheit"
+      }
+    },
+    "values": {
+      "0": {
+        "title": "Zufriedenheit",
+        "desc": "Zufriedene Teams liefern außergewöhnliche Ergebnisse für Ihre Marke."
+      },
+      "1": {
+        "title": "Ehrlichkeit",
+        "desc": "Transparente Kommunikation schafft unerschütterliches Kundenvertrauen."
+      },
+      "2": {
+        "title": "Engagement",
+        "desc": "Ein unermüdlicher Fokus auf das Erreichen Ihrer geschäftlichen Wachstumsziele."
+      },
+      "3": {
+        "title": "Transparenz",
+        "desc": "Klare Entwicklungsprozesse und offene Berichterstattung bei jedem Schritt."
+      },
+      "4": {
+        "title": "Empathie",
+        "desc": "Ihre tiefen Herausforderungen verstehen, um maßgeschneiderte Lösungen zu entwickeln."
+      }
+    }
+  },
+  "data": {
+    "categories": {
+      "website-development": {
+        "name": "Full-Stack-Web-App-Entwicklung",
+        "desc": "Moderne Full-Stack-Webanwendungen, entwickelt mit Next.js, React, Node.js, MongoDB, PostgreSQL, Authentifizierung, Dashboards, APIs und Produktionsbereitstellung.",
+        "whatsIncluded": "Ich baue komplette Full-Stack-Webanwendungen von der Idee bis zur Produktion unter Verwendung moderner, schneller und skalierbarer Technologien. Diese Dienstleistung ist ideal, wenn Sie eine Business-App, eine SaaS-Plattform, ein Kundenportal, ein Admin-Dashboard, ein Buchungssystem, einen Marktplatz oder ein maßgeschneidertes Webprodukt benötigen.",
+        "bestFor": "Startups, Agenturen, Gründer und Unternehmen, die einen zuverlässigen Entwickler benötigen, um eine ernsthafte Webanwendung und nicht nur eine statische Website zu erstellen.",
+        "whatICanBuild": {
+          "0": "Full-Stack-Web-Apps mit Next.js, React, TypeScript und Node.js",
+          "1": "Authentifizierung, geschützte Routen, Benutzerrollen und Admin-Dashboards",
+          "2": "REST-APIs, Datenbankmodelle, Geschäftslogik und Backend-Workflows",
+          "3": "MongoDB oder PostgreSQL Datenbankdesign und Integration",
+          "4": "Responsive Frontend-UI mit sauberer UX und schneller Ladegeschwindigkeit",
+          "5": "Produktionsbereitstellung mit Umgebungsvariablen, Domains und SSL"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Anforderungsanalyse",
+            "desc": "Ich prüfe Ihre App-Idee, Funktionen, Benutzer, Workflows und technischen Anforderungen."
+          },
+          "1": {
+            "title": "Architekturplanung",
+            "desc": "Ich plane das Frontend, das Backend, die Datenbankmodelle, die APIs und den Entwicklungsablauf."
+          },
+          "2": {
+            "title": "Entwicklung",
+            "desc": "Ich baue die Anwendung mit sauberem Code, responsiver UI und Backend-Logik."
+          },
+          "3": {
+            "title": "Testen und Übergabe",
+            "desc": "Ich teste die wichtigsten Abläufe, behebe Fehler und bereite die App für die Produktion oder Übergabe vor."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Projektidee oder Feature-Liste",
+          "1": "Designdatei, Referenzwebsite oder grober Wireframe, falls vorhanden",
+          "2": "Bevorzugter Tech-Stack, falls bereits entschieden",
+          "3": "Datenbank- oder API-Anforderungen",
+          "4": "Bereitstellungsdetails, falls Sie bereits ein Hosting haben"
+        },
+        "faqs": {
+          "0": {
+            "question": "Können Sie sowohl Frontend als auch Backend bauen?",
+            "answer": "Ja, ich biete eine vollständige End-to-End-Full-Stack-Entwicklung an."
+          },
+          "1": {
+            "question": "Welchen Stack verwenden Sie?",
+            "answer": "Mein primärer Stack besteht aus Next.js, React, Node.js und MongoDB/PostgreSQL."
+          }
+        }
+      },
+      "mobile-apps": {
+        "name": "Mobile App-Entwicklung",
+        "desc": "Native & plattformübergreifende Apps für iOS und Android, die durch flüssige Frameraten, Offline-First-Zugriff und saubere Architekturen außergewöhnliche Nutzererlebnisse bieten. Ebenso React Native, Automatisierung, CI/CD, GitHub, Paywalls und RevenueCat-Implementierung.",
+        "whatsIncluded": "Leistungsstarke native und plattformübergreifende mobile App-Entwicklung für iOS und Android. Umfasst saubere mobile Architekturen, flüssige Animationen, Offline-Datenbankzustände, App-Store-Einreichungen und Monetarisierungsabläufe.",
+        "bestFor": "Startups und Unternehmen, die eine mobile Präsenz benötigen.",
+        "whatICanBuild": {
+          "0": "Plattformübergreifende mobile Apps (iOS & Android) via Flutter/React Native",
+          "1": "Interaktive Google Maps & standortbasierte Tracking-Dienste",
+          "2": "Geräteinterne KI-Funktionen & Integrationen von Machine-Learning-Modellen",
+          "3": "Biometrische Sicherheit (FaceID/Fingerabdruck-Authentifizierung)",
+          "4": "Google AdMob & Integrationen von benutzerdefinierten Banner-/Interstitial-Anzeigen",
+          "5": "RevenueCat-Paywalls & Abonnement-Setups für die Monetarisierung",
+          "6": "Offline-First-Datenbanken (SQLite, Realm, WatermelonDB)",
+          "7": "Automatisierte CI/CD-Pipelines & Fastlane App-Store-Einreichungen"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Konzeption",
+            "desc": "Analyse von Plattformzielen, User Journeys, App-Store-Einschränkungen und Monetarisierungsplänen."
+          },
+          "1": {
+            "title": "Design",
+            "desc": "Erstellung responsiver mobiler Layouts, Wireframes und sicherer Speicheroptionen."
+          },
+          "2": {
+            "title": "Entwicklung",
+            "desc": "Durchführung von lokalen Gerätetests, Offline-Datentests und Build-Auslieferungszyklen."
+          },
+          "3": {
+            "title": "Auslieferung",
+            "desc": "Vollständige Abwicklung der Veröffentlichung im Google Play Store und Apple App Store."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Ihre App-Idee",
+          "1": "Zielgruppe",
+          "2": "Design-Präferenzen"
+        },
+        "faqs": {
+          "0": {
+            "question": "Veröffentlichen Sie die Apps in den App Stores?",
+            "answer": "Ja, wir übernehmen den gesamten Veröffentlichungsprozess lückenlos von Ende zu Ende."
+          },
+          "1": {
+            "question": "Flutter oder React Native?",
+            "answer": "Wir empfehlen Flutter für visuell anspruchsvolle High-Performance-Apps und React Native für JavaScript-lastige Stacks."
+          }
+        }
+      },
+      "digital-marketing": {
+        "name": "Digitales Marketing",
+        "desc": "Vollständige SEO-Optimierung, semantische Verbesserungen, Google PPC, zielgerichtete Social-Media-Kampagnen und strategische Content-Planung, die das organische Wachstum und die messbare Kundengewinnung vorantreiben.",
+        "whatsIncluded": "Komplette, datengesteuerte Online-Marketingkampagnen, die Ihren Traffic und Ihre Konversionsraten steigern. Umfasst PPC-Setup, Social Advertising, Growth Analytics, E-Mail-Marketing und Audits zur Konversionsoptimierung.",
+        "bestFor": "Unternehmen, die Leads generieren, monatliche Umsätze skalieren und den Return on Ad Spend (ROAS) maximieren möchten.",
+        "whatICanBuild": {
+          "0": "Hochkonvertierende Suchanzeigen-Kampagnen auf Google Ads",
+          "1": "Zielgerichtete Social-Media-Anzeigentrichter (Meta, LinkedIn, TikTok)",
+          "2": "Optimierte Landingpages mit strikten A/B-Testing-Varianten",
+          "3": "Automatisiertes Lead-Tracking & CRM-Workflow-Integrationen",
+          "4": "Detailliertes Dashboard zur Abbildung von ROAS und Kundengewinnung",
+          "5": "Drip-E-Mail-Kampagnen mit automatisierten Trigger-Sequenzen",
+          "6": "Werbetexte, die gezielt auf Konversionen ausgelegt sind",
+          "7": "Pixel-Tracking und Setups für Conversion-API-Tracking (CAPI)"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Audit",
+            "desc": "Überprüfung Ihres aktuellen Akquisitionstrichters, der Zielgruppe und der Kampagnen der Wettbewerber."
+          },
+          "1": {
+            "title": "Strategie",
+            "desc": "Festlegung klarer Keyword-Zielisten, Entwürfe für Werbetexte und Budgetkontrollen."
+          },
+          "2": {
+            "title": "Ausführung",
+            "desc": "Launch zielgerichteter Anzeigen, Überwachung von Trackingsystemen und Analyse von Klickmetriken."
+          },
+          "3": {
+            "title": "Optimierung",
+            "desc": "Durchführung von A/B-Texttests, Ausschluss leistungsschwacher Platzierungen und Skalierung von Konversionsaktionen."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Richtlinien für das Werbebudget",
+          "1": "Zielgruppenprofile",
+          "2": "Markenmaterialien oder visuelle Assets"
+        },
+        "faqs": {
+          "0": {
+            "question": "Wie messen Sie den Kampagnenerfolg?",
+            "answer": "Wir verfolgen Konversionsmetriken wie die Kosten pro Lead, die Kosten pro Akquisition (CPA) und den gesamten Return on Ad Spend (ROAS)."
+          },
+          "1": {
+            "question": "Mit welchen Werbenetzwerken sollten wir beginnen?",
+            "answer": "Google Ads eignet sich am besten für Nutzer mit hoher Kaufabsicht, während Meta und LinkedIn optimal für visuelle und berufsspezifische demografische Reichweiten sind."
+          }
+        }
+      },
+      "hosting": {
+        "name": "Hosting & AWS DevOps",
+        "desc": "Cloud-Hosting-Operationen auf Unternehmensebene, persistente Zustandssicherheit, CDN-Lastverteilung und automatisierte Backups, verwaltet mit maximaler Geschwindigkeit und minimaler Latenz.",
+        "whatsIncluded": "Professionelle Konfiguration der Cloud-Architektur und Serververwaltung. Wir optimieren Bereitstellungsgeschwindigkeiten, richten Load Balancer ein, sichern Datenbanken, planen Backups und minimieren die Anwendungslatenz.",
+        "bestFor": "SaaS-Produkte, stark frequentierte Agenturen und aktive Portale, die maximale Zuverlässigkeit, Skalierbarkeit und Sicherheit benötigen.",
+        "whatICanBuild": {
+          "0": "Leistungsstarke Kubernetes- und Docker-Cluster-Umgebungen",
+          "1": "AWS (ECS/EKS), DigitalOcean oder Vercel Cloud-Architektur-Setups",
+          "2": "CDN-Lastverteilung & globale Content-Distribution-Setups",
+          "3": "Automatisierte Datenbank-Backup-Pläne mit sofortigen Wiederherstellungsläufen",
+          "4": "Server-Monitoring-Dashboards mit sofortigen SMS-Warnmeldungen",
+          "5": "Benutzerdefinierte Nginx- oder Apache-Lastverteilungskonfigurationen",
+          "6": "SSL-Zertifikatsinstallationen und strikte Firewall-Regeln",
+          "7": "Server-Migrationspfade zur Migration von Datenbanken ohne Ausfallzeiten"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Audit",
+            "desc": "Prüfung bestehender Host-Geschwindigkeiten, Ressourcennutzung und aktiver Sicherheitsanfälligkeiten."
+          },
+          "1": {
+            "title": "Setup",
+            "desc": "Konzeption virtueller privater Cloud-Netzwerke, Bereitstellung von Knoten und Installation von Firewalls."
+          },
+          "2": {
+            "title": "Migration",
+            "desc": "Sicheres Kopieren von Datenbanken, Konfigurationen und Skripten mit Testläufen."
+          },
+          "3": {
+            "title": "Support",
+            "desc": "Konfiguration von Überwachungsmetriken, Protokollsammlern und Warnmeldungen."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Aktuelle Server-Zugangsdaten",
+          "1": "Ungefähre Traffic- und Datenbankgrößenmetriken",
+          "2": "Skalierungserwartungen"
+        },
+        "faqs": {
+          "0": {
+            "question": "Wie garantieren Sie die Ausfallsicherheit?",
+            "answer": "Durch die Nutzung redundanter Serverstandorte, automatisches Knoten-Failover-Routing und aktive Datenbankspiegelung."
+          },
+          "1": {
+            "question": "Können Sie unsere Datenbanken ohne Ausfallzeit migrieren?",
+            "answer": "Ja, durch die Konfiguration von Lese-Replikaten, die Synchronisierung von Live-Transaktionen und die Änderung von DNS-Routen während der Nebenzeiten."
+          }
+        }
+      },
+      "ai-solutions": {
+        "name": "KI-Lösungen",
+        "desc": "Nahtlose Unternehmenseintragung von LLMs, automatische Betriebsabläufe, smarte Konversationsagenten und Datenkategorisierungsmodelle zur Senkung der Betriebskosten.",
+        "whatsIncluded": "Integration fortschrittlicher Modelle der künstlichen Intelligenz in Unternehmenssoftware. Umfasst maßgeschneidertes LLM-Feintuning, agentenbasierte Workflows, konversationelle Assistenten, Klassifizierungsmodelle und intelligente Datenextraktion.",
+        "bestFor": "Unternehmen, die betriebliche Abläufe reduzieren, manuelle Aufgaben automatisieren und Intelligenz in ihre Software einbringen möchten.",
+        "whatICanBuild": {
+          "0": "KI-Kundensupport-Agenten mit maßgeschneiderter Dokumentenabrufung (RAG)",
+          "1": "Automatische E-Mail-Sortierung, -Klassifizierung & Skripte zur Entwurfserstellung",
+          "2": "Intelligente Dokumentenanalyse- und Datenextraktionsmodelle",
+          "3": "Vektordatenbank-Integrationen (Pinecone, pgvector) für das Systemgedächtnis",
+          "4": "Maßgeschneiderte LLM-Integrationen (OpenAI, Claude, Gemini API)",
+          "5": "Speech-to-Text-Modelle & Integrationen für Sprachtranskription",
+          "6": "Automatisierte Workflow-Ketten via LangChain oder LlamaIndex",
+          "7": "Prädiktive Analysesysteme für Trends & Geschäftsplanung"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Analyse",
+            "desc": "Identifikation repetitiver Aufgaben, Überprüfung verfügbarer Datenstrukturen und Definition der Zielgenauigkeit."
+          },
+          "1": {
+            "title": "Konzeption",
+            "desc": "Formulierung von Prompt-Strategien, Speichern von Datenbanken und Festlegung sicherer Token-Budgets."
+          },
+          "2": {
+            "title": "Entwicklung",
+            "desc": "Erstellung von LLM-Skripten, Implementierung von RAG-Systemen und Verfeinerung von Kontextantworten."
+          },
+          "3": {
+            "title": "Bereitstellung",
+            "desc": "Integration in Kern-Dashboards, Aufbau von Überwachungssystemen und Durchführung von Evaluations-Benchmarks."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Eine klare Definition der zu automatisierenden Aufgabe",
+          "1": "Beispiele für erfolgreiche Aufgabenergebnisse",
+          "2": "API-Schlüssel oder rohe Geschäftsdokumente"
+        },
+        "faqs": {
+          "0": {
+            "question": "Wie verhindern Sie Halluzinationen von KI-Modellen?",
+            "answer": "Indem wir das LLM mittels Retrieval-Augmented Generation (RAG) in Vektordatenbanken verankern und strikte Systemvalidierungsregeln anwenden."
+          },
+          "1": {
+            "question": "Werden meine Daten zum Trainieren öffentlicher Modelle verwendet?",
+            "answer": "Nein. Wir konfigurieren API-Routen, die Ihre Transaktionen nicht für das Training öffentlicher Modelle speichern oder nutzen."
+          }
+        }
+      },
+      "graphic-designing": {
+        "name": "Grafikdesign",
+        "desc": "Kreative visuelle Markenidentitäten, interaktive Figma-Systeme, professionelle Social-Media-Visuals und hochwertige Marketingmaterialien, die Sie von der Konkurrenz abheben.",
+        "whatsIncluded": "Hochwertiges visuelles Kommunikationsdesign. Wir erstellen ansprechende Marketingmaterialien, professionelle Social-Media-Vorlagen, Pitch-Decks, Infografiken und Corporate-Design-Kits.",
+        "bestFor": "Marken, die hochwertige visuelle Inhalte benötigen, um ihre Positionierung zu stärken, Investoren zu überzeugen oder Kunden in den sozialen Medien zu konvertieren.",
+        "whatICanBuild": {
+          "0": "Erstklassige Marketingmaterialien und Unternehmensbroschüren",
+          "1": "Hochkonvertierende, maßgeschneiderte Pitch-Decks & Präsentations-Frameworks",
+          "2": "Social-Media-Vorlagen (Assets für Instagram, LinkedIn, YouTube)",
+          "3": "Visuelle Infografiken zur Darstellung komplexer Datensätze",
+          "4": "Maßgeschneiderte Vektorillustrationen & Icon-Sets",
+          "5": "Druckfertiges Verpackungs- & Firmenbriefpapier-Design",
+          "6": "Interaktive PDF-Dateien & digitale E-Books",
+          "7": "Design-Systeme in Figma mit wiederverwendbaren Text-/Layout-Styles"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Konzeption",
+            "desc": "Erforschung der Markenidentität, der Design-Präferenzen und der Richtlinien für Kernbotschaften."
+          },
+          "1": {
+            "title": "Konzept",
+            "desc": "Präsentation von visuellen Entwürfen, Farbpaletten und typografischen Style-Layouts."
+          },
+          "2": {
+            "title": "Produktion",
+            "desc": "Entwicklung verfeinerter Layouts, Icons und Infografiken in hoher Auflösung."
+          },
+          "3": {
+            "title": "Lieferung",
+            "desc": "Bereitstellung finaler Vektorergebnisse, Vektor-Assets und editierbarer Figma-Entwürfe."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Logo und Branding-Richtlinien, falls vorhanden",
+          "1": "Entwurf der Textinhalte",
+          "2": "Inspirierende Referenzbilder"
+        },
+        "faqs": {
+          "0": {
+            "question": "Erhalte ich das vollständige Eigentum an den Grafiken?",
+            "answer": "Ja, Sie erhalten das vollständige Urheberrecht und die originalen Quelldateien."
+          },
+          "1": {
+            "question": "Entwerfen Sie auch Visitenkarten?",
+            "answer": "Ja, Standard-Briefpapierartikel sind in unserem Markenidentitäts-Kit enthalten."
+          }
+        }
+      },
+      "saas-systems": {
+        "name": "SaaS-Systeme & Individuelle Software",
+        "desc": "Wir konzipieren und bauen voll funktionsfähige SaaS-Plattformen von Grund auf — Multi-Tenant-Architektur, Abonnementabrechnung, Admin-Dashboards, Benutzerverwaltung und API-Integrationen. Wenn Sie eine SaaS-Idee haben, verwandeln wir sie in ein produktionsreifes System.",
+        "whatsIncluded": "Vollständige Konzeption und Erstellung von Software-as-a-Service-Plattformen. Umfasst Multi-Tenant-Datenbanken, robuste Organisationsmodelle für Benutzer, Stripe-Billing-Abonnements, Audit-Trails und moderne API-Schlüsselsysteme für Entwickler.",
+        "bestFor": "Unternehmer und Unternehmen, die ein neues SaaS-Startup gründen oder ihre internen Geschäftsabläufe in ein Cloud-System digitalisieren möchten.",
+        "whatICanBuild": {
+          "0": "SaaS-Systeme mit Multi-Tenant-Datenbankdesigns",
+          "1": "Stripe- oder Paddle-Zahlungsintegrationen mit gestaffelten Plänen",
+          "2": "Detaillierte Abrechnungsportale mit Nutzungsmetriken und Rechnungen",
+          "3": "Admin-Dashboards für Systemüberwachung und Benutzer-Overrides",
+          "4": "Automatisierte Transaktions-E-Mail-Systeme (Postmark, SendGrid)",
+          "5": "API-Schlüssel-Verwaltungssysteme für Integrationskunden",
+          "6": "Multi-Faktor-Authentifizierung (MFA) & sichere Passwortabläufe",
+          "7": "Skalierbare Serverbereitstellungen mit Lastverteilungsregeln"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Planung",
+            "desc": "Entwurf von Benutzer-Workflows, Berechtigungsregeln und Abonnementpfaden."
+          },
+          "1": {
+            "title": "Architektur",
+            "desc": "Etablierung sicherer Datenmodelle, Pfade zur Datenbankskalierung und Cloud-Umgebungen."
+          },
+          "2": {
+            "title": "Entwicklung",
+            "desc": "Aufbau modularer Client-Frontends, Backend-Systeme und Zahlungs-Webhooks."
+          },
+          "3": {
+            "title": "Launch",
+            "desc": "Durchführung von Sicherheits-Penetrationstests, Konfiguration von Domains und Launch in der Produktion."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Detaillierte Feature-Checkliste",
+          "1": "Zielgruppen-Staffelung & Preismodelle",
+          "2": "Mockups oder Referenzportale"
+        },
+        "faqs": {
+          "0": {
+            "question": "Wie werden Abonnement-Events wie Kündigungen verarbeitet?",
+            "answer": "Durch die Nutzung sicherer Webhooks, die automatisch auf Abrechnungsereignisse hören und die Benutzerkonten-Privilegien anpassen."
+          },
+          "1": {
+            "question": "Können wir Subdomains für jeden Kunden unterstützen?",
+            "answer": "Ja, wir richten ein dynamisches Routing ein, sodass Kunden über `kundenname.ihrsaas.com` auf ihre Plattform zugreifen können."
+          }
+        }
+      },
+      "web-development": {
+        "name": "Webentwicklung",
+        "desc": "Leistungsstarke Webanwendungen und Marketing-Websites auf Basis moderner JavaScript-Stacks. React-SPAs, Next.js SSR-Plattformen, Full-Stack MERN-Anwendungen — geliefert mit sauberem Code, starken SEO-Fundamenten und ohne unnötigen Ballast.",
+        "whatsIncluded": "Erstellung responsiver, moderner und blitzschneller Websites. Umfasst Optimierung der Seitengeschwindigkeit, saubere HTML-Struktur, interaktive UI-Elemente und suchmaschinenfreundliche Layouts.",
+        "bestFor": "Unternehmen, die eine saubere Webpräsenz, maximale Ladegeschwindigkeiten und ein modernes visuelles Design wünschen.",
+        "whatICanBuild": {
+          "0": "Schnelle React und Next.js Single-Page-Anwendungen",
+          "1": "Responsive Unternehmens-Websites mit klaren visuellen Stilen",
+          "2": "Optimierte Marketing-Landingpages, die auf Konversion ausgelegt sind",
+          "3": "Maßgeschneiderte Blog-Layouts mit suchmaschinenfreundlichen Schema-Codes",
+          "4": "Interaktive UI-Animationen unter Verwendung von Framer Motion",
+          "5": "Websites mit Anbindung an CMS-Plattformen (Sanity, Headless WordPress)",
+          "6": "Vollständig responsive CSS-Raster für Mobil- und Desktop-Bildschirme",
+          "7": "Optimierte Bildladestrukturen für schnelles Rendering"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Wireframing",
+            "desc": "Abstimmung über visuelle Struktur, Typografie und Seitenhierarchien."
+          },
+          "1": {
+            "title": "Entwicklung",
+            "desc": "Schreiben von sauberem, semantischem Code mit optimiertem responsivem Styling."
+          },
+          "2": {
+            "title": "SEO-Audit",
+            "desc": "Überprüfung schneller Ladezeiten, Hinzufügen von Metadaten-Tags und Prüfung von Layoutelementen."
+          },
+          "3": {
+            "title": "Übergabe",
+            "desc": "Konfiguration der DNS, Transfer des Hostings und Übergabe der originalen Quelldateien."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Textinhalte der Seiten",
+          "1": "Branding-Richtlinien oder Stilreferenzen",
+          "2": "Bevorzugter Domainname"
+        },
+        "faqs": {
+          "0": {
+            "question": "Wie schnell wird die Website laden?",
+            "answer": "Wir optimieren Code, Bilder und Auslieferungsrouten, um PageSpeed-Scores von 90+ zu erzielen."
+          },
+          "1": {
+            "question": "Sind die Seiten für Mobilgeräte optimiert?",
+            "answer": "Ja, wir programmieren Layouts dynamisch, sodass sie auf alle Mobil-, Tablet- und Desktop-Bildschirme passen."
+          }
+        }
+      },
+      "ui-ux-design": {
+        "name": "UI/UX-Design",
+        "desc": "Fundiertes, benutzergetestetes Design, das Besucher in Kunden verwandelt. Wir liefern Wireframes, interaktive Prototypen, vollständige Design-Systeme und entwicklerfertige Figma-Übergaben. Jedes Pixel hat seine Berechtigung.",
+        "whatsIncluded": "Forschungsbasiertes Interface- und Experience-Design. Umfasst detaillierte User Journeys, klare Wireframes, ansprechende High-Fidelity-Designs, interaktive Prototypen und modulare Figma-Designsysteme.",
+        "bestFor": "Teams, die ein neues Softwareprodukt auf den Markt bringen oder ihre aktuelle Benutzeroberfläche aufrüsten möchten, um die Kennzahlen aktiver Nutzer zu verbessern und die Abwanderung zu senken.",
+        "whatICanBuild": {
+          "0": "High-Fidelity-UI-Designs für SaaS-Plattformen & Web-Apps",
+          "1": "Visuelle Interfaces für mobile Apps (iOS & Android) in Figma",
+          "2": "Interaktive Prototypen zur Veranschaulichung von Benutzerflüssen und -aktionen",
+          "3": "Figma Design-Systeme mit wiederverwendbaren Komponenten & Farben",
+          "4": "Wireframes zur Strukturierung komplexer Seiten und Layouts",
+          "5": "User-Journey-Diagramme & Usability-Karten",
+          "6": "Konversionsoptimierte Landingpage-Entwürfe",
+          "7": "Entwicklerfertige Asset-Pakete & Design-Spezifikationen"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Analyse",
+            "desc": "Überprüfung der Nutzerziele, Analyse von Wettbewerber-Layouts und Festlegung von Usability-Zielen."
+          },
+          "1": {
+            "title": "Wireframing",
+            "desc": "Erstellung grundlegender Schwarz-Weiß-Seitenstrukturen zur Abbildung der Bildschirmhierarchie."
+          },
+          "2": {
+            "title": "Design",
+            "desc": "Erstellung ansprechender Layouts, Einführung von Farben und Aufbau des Design-Systems."
+          },
+          "3": {
+            "title": "Prototyping",
+            "desc": "Verknüpfung von Layouts, Konfiguration von Animationen und Testen von Kundenabläufen."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Feature-Liste des Systems",
+          "1": "Zielgruppenprofile",
+          "2": "Inspirierende Apps oder Website-Layouts"
+        },
+        "faqs": {
+          "0": {
+            "question": "Welche Tools nutzen Sie für das Design?",
+            "answer": "Wir nutzen ausschließlich Figma, da es Echtzeit-Prüfungen ermöglicht und hervorragende Tools für die Übergabe an Entwickler bietet."
+          },
+          "1": {
+            "question": "Wie übergeben Sie Designs an die Entwickler?",
+            "answer": "Durch eine saubere Strukturierung der Seiten, die Nutzung von CSS-Variablen-Design-Tokens und das strukturierte Organisieren von Assets."
+          }
+        }
+      },
+      "graphics-branding": {
+        "name": "Grafik- & Markenidentität",
+        "desc": "Logos, Brand-Kits, Social-Media-Vorlagen, Pitch-Deck-Design, Marketingmaterialien und alles dazwischen. Wir machen Ihre Marke unübersehbar.",
+        "whatsIncluded": "Erstellung einprägsamer Unternehmensmarken-Identitäten. Umfasst maßgeschneiderte Logo-Systeme, einheitliche Markenrichtlinien, Corporate-Typografie-Setups, Farbbücher und Social-Media-Kits.",
+        "bestFor": "Neue Unternehmen, die ihre Marktpositionierung etablieren wollen, oder etablierte Marken, die einen visuellen Refresh durchführen möchten.",
+        "whatICanBuild": {
+          "0": "Maßgeschneiderte Corporate-Logo-Systeme (Wortmarken & Icons)",
+          "1": "Detaillierte Markenrichtlinien & Typografie-Farbbücher",
+          "2": "Pitch-Decks zur Darstellung von Unternehmenswerten & Dienstleistungen",
+          "3": "Einheitliche Visitenkarten- & Firmenbriefpapier-Designs",
+          "4": "Gebrandete Social-Media-Header & -Vorlagen",
+          "5": "Digitale Asset-Branding-Kits (Icons, Präsentationsfolien)",
+          "6": "Verpackungsetiketten & Grafiken für Firmenboxen",
+          "7": "Richtlinien für Vektor-Assets zur Abbildung von Druck- und Webgrenzen"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Konzeption",
+            "desc": "Aufdeckung von Unternehmenswerten, Marktpositionierung und Designstilen."
+          },
+          "1": {
+            "title": "Identität",
+            "desc": "Skizzieren visueller Konzepte, Testen von Logos und Aufbau von Farbharmonien."
+          },
+          "2": {
+            "title": "Richtlinien",
+            "desc": "Entwicklung von Branding-Regeln, Festlegung von Schrifthierarchien und Bestimmung von Abstandsparametern."
+          },
+          "3": {
+            "title": "Lieferung",
+            "desc": "Export skalierbarer Vektor-Layouts (SVG, AI, PDF) und Bereitstellung von Benutzerrichtlinien."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Unternehmensname und Werte",
+          "1": "Zielbranchensektor",
+          "2": "Referenzlogos, die Ihnen gefallen"
+        },
+        "faqs": {
+          "0": {
+            "question": "Welche Dateien liefern Sie?",
+            "answer": "Wir liefern saubere Vektordateien (AI, EPS, SVG) für den Druck und die digitale Nutzung sowie transparente PNG-Bilder."
+          },
+          "1": {
+            "question": "Entwerfen Sie Visitenkarten?",
+            "answer": "Ja, Standard-Briefpapierartikel sind in unserem Markenidentitäts-Kit enthalten."
+          }
+        }
+      },
+      "video-editing": {
+        "name": "Videobearbeitung & Motion",
+        "desc": "Von Produktdemovideos und Social-Media-Inhalten bis hin zu Unternehmens-Testimonials und Erkläranimationen — unsere Editoren bringen Ihre Marke in Bewegung. Optimiert für YouTube, Instagram Reels, TikTok und LinkedIn.",
+        "whatsIncluded": "Professionelle Video-Postproduktion und Animation. Umfasst Audio-Bereinigungen, Color Grading, Titelanimationen, Motion Graphics, Sounddesign und Optimierung für alle sozialen Netzwerke.",
+        "bestFor": "Unternehmen, die Video nutzen, um Produkte zu vermarkten, komplexe Dienstleistungen zu erklären oder ihre Social-Media-Kanäle zu skalieren.",
+        "whatICanBuild": {
+          "0": "Hochkonvertierende Produktdemo- und SaaS-Promovideos",
+          "1": "Ansprechende Social-Media-Videos (YouTube, Reels, TikTok)",
+          "2": "Erkläranimationen mit Integration von Voiceover",
+          "3": "Dynamische Titeltypografie & Untertitel-Integrationen",
+          "4": "Motion Graphics zur Darstellung von Diagrammen & Anwendungsoberflächen",
+          "5": "Unternehmens-Testimonials und Interview-Schnitte",
+          "6": "Professionelle Audio-Bereinigungen und Sounddesign-Konzeptionen",
+          "7": "Cinematic Color-Grading und Grafik-Overlays"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Analyse",
+            "desc": "Organisieren von Rohclips, Überprüfung von Sprechertexten und Definition des Zieltempos."
+          },
+          "1": {
+            "title": "Rohschnitt",
+            "desc": "Abstimmen von Sprachspuren, Platzieren der Hauptclips und Festlegen von Editing-Layouts."
+          },
+          "2": {
+            "title": "Feinschnitt",
+            "desc": "Einfügen von Animationen, Erstellen von Textuntertiteln, Synchronisieren von Audio und Color Grading der Dateien."
+          },
+          "3": {
+            "title": "Lieferung",
+            "desc": "Rendering der Dateien in den Ziel-Dimensionen (16:9, 9:16), optimiert für den Web-Upload."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Rohe Videoaufnahmen oder Assets",
+          "1": "Sprechertexte, falls vorhanden",
+          "2": "Beispiele für den gewünschten Schnittstil"
+        },
+        "faqs": {
+          "0": {
+            "question": "Stellen Sie Stockmusik bereit?",
+            "answer": "Ja, wir integrieren lizenzfreie Musik und Soundeffekte in alle Schnitte."
+          },
+          "1": {
+            "question": "Können Sie vertikale Videos für Social-Media-Kanäle bearbeiten?",
+            "answer": "Ja, wir rendern vertikale Ausschnitte, die für Instagram, TikTok und YouTube Shorts optimiert sind."
+          }
+        }
+      },
+      "seo-marketing": {
+        "name": "SEO & Digitales Marketing",
+        "desc": "Technische SEO-Audits, On-Page-Optimierung, Content-Strategie, Keyword-Recherche, Backlink-Aufbau und lokales SEO. Wir platzieren Ihr Produkt dort, wo Ihre Kunden bereits suchen.",
+        "whatsIncluded": "Komplette Suchmaschinenoptimierungs-Dienste zur Steigerung organischer Keyword-Rankings. Umfasst detaillierte technische Website-Audits, semantische Content-Karten, Keyword-Recherche, Linkbuilding-Outreach und lokalisiertes SEO.",
+        "bestFor": "Unternehmen, die ein nachhaltiges, langfristiges organisches Lead-Wachstum mit hoher Suchsichtbarkeit anstreben.",
+        "whatICanBuild": {
+          "0": "Keyword-Rechercheberichte, die auf stark frequentierte Nutzersuchen abzielen",
+          "1": "Technische Audits zur Diagnose von Website-Geschwindigkeit und Crawling-Fehlern",
+          "2": "Programmatische SEO-Landingpage-Layouts für Suchbegriffe",
+          "3": "Optimierte Meta-Beschreibungen, Titel und Header-Hierarchien",
+          "4": "Strukturierte Daten- und Schema-Markup-Setups für Suchseiten",
+          "5": "Wettbewerber-Analyseberichte zur Ermittlung von Ranking-Chancen",
+          "6": "Content-Kalender zur Planung zielgerichteter Informationsartikel",
+          "7": "Lokalisierte SEO-Setups (Optimierung des Google Business Profils)"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Audit",
+            "desc": "Durchführung technischer Website-Gesundheitsprüfungen, Überprüfung aktueller Rankings und Analyse von Indexfehlern."
+          },
+          "1": {
+            "title": "Planung",
+            "desc": "Kartierung von Informations-Keywords, Planung von Textänderungen und Identifikation von Backlink-Optionen."
+          },
+          "2": {
+            "title": "Optimierung",
+            "desc": "Aktualisierung von Header-Tags, Korrektur von strukturellem Code und Umschreiben von Beschreibungsskripten."
+          },
+          "3": {
+            "title": "Wachstum",
+            "desc": "Entwicklung zielgerichteter Blogartikel, Aufbau von Links und wöchentliches Tracking des Indexierungsfortschritts."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Ihre Ziel-Website-URL",
+          "1": "Ziel-Dienstleistungen oder Standorte",
+          "2": "Zugriff auf aktuelle Suchtraffic-Analysen"
+        },
+        "faqs": {
+          "0": {
+            "question": "Wie lange dauert es, bis man Suchergebnisse sieht?",
+            "answer": "Erste Crawling-Updates zeigen sich in 2-4 Wochen. Signifikantes Ranking-Wachstum ist in 3-6 Monaten sichtbar, abhängig vom Keyword-Wettbewerb."
+          },
+          "1": {
+            "question": "Schreiben Sie die Zielartikel?",
+            "answer": "Ja, wir erstellen eine suchmaschinenoptimierte Content-Roadmap und schreiben informative Artikel."
+          }
+        }
+      }
+    },
+    "projects": {
+      "proj-1": {
+        "title": "E-Commerce Velocity Hub",
+        "desc": "Ein vollständig maßgeschneidertes, headless React & Node Storefront, das für extrem niedrige Core Web Vitals optimiert wurde. Erreichte 99+ auf Google PageSpeed Insights, was zu einer sofortigen Steigerung der Standardkonversion um 42 % führte.",
+        "clientName": "Velocity Retail Global",
+        "results": {
+          "0": {
+            "value": "99+",
+            "label": "Google PageSpeed Score",
+            "sublabel": "Alle Core Web Vitals im grünen Bereich"
+          },
+          "1": {
+            "value": "42 %",
+            "label": "Konversionsraten-Steigerung",
+            "sublabel": "Sofort nach dem Launch"
+          },
+          "2": {
+            "value": "<1s",
+            "label": "Time to Interactive",
+            "sublabel": "Auf 4G-Mobilgeräten"
+          }
+        },
+        "challengesSolved": {
+          "0": {
+            "title": "Langsame Legacy-Storefront",
+            "desc": "Die vorherige Plattform erzielte weniger als 40 Punkte bei PageSpeed. Der Neuaufbau mit ISR und Edge-Caching steigerte den Wert auf über 99."
+          },
+          "1": {
+            "title": "Hohe Absprungrate auf Mobilgeräten",
+            "desc": "Optimistic UI, Skeleton-Loading und eine TTI von unter einer Sekunde eliminierten die Wartezeiten, die zu mobilen Kaufabbrüchen führten."
+          },
+          "2": {
+            "title": "Veraltete Produktdaten",
+            "desc": "Webhook-gesteuerte Cache-Invalidierung stellt sicher, dass Seiten in dem Moment neu aufgebaut werden, in dem sich Inventar oder Preise ändern."
+          },
+          "3": {
+            "title": "Abbrüche im Checkout",
+            "desc": "Ein maßgeschneiderter Single-Page-Checkout mit persistentem Warenkorb und automatischer Ausfüllung reduzierte die Abbruchquote um 28 %."
+          }
+        },
+        "deliverables": {
+          "0": "Headless React-Frontend, entkoppelt vom Commerce-Backend für unabhängige Skalierung",
+          "1": "Next.js ISR — Produktseiten bauen sich im Hintergrund neu auf, keine vollständigen Redeps bei Inhaltsänderungen",
+          "2": "Maßgeschneiderter Node.js API-Layer zur Abwicklung von Produktkatalog, Suche und Personalisierung",
+          "3": "Edge-CDN-Bereitstellung mit Webhook-getriggerter Cache-Invalidierung bei Inventar-Updates",
+          "4": "Single-Page-Checkout mit Warenkorb-Persistenz, Promotion-Codes und Multi-Währung",
+          "5": "Vollständiges Core Web Vitals Audit und Sanierung — LCP, CLS, FID auf allen Seiten im grünen Bereich",
+          "6": "CI/CD-Pipeline mit automatisierten Lighthouse-Prüfungen vor jeder Bereitstellung"
+        }
+      },
+      "proj-2": {
+        "title": "KI-gestützte Patientenfluss-Systeme",
+        "desc": "Ein intelligentes Portal für die medizinische Triage, das medizinische Anfragen automatisch kategorisiert, klinische Tickets weiterleitet und Kalenderereignisse unter strikten Compliance-Richtlinien plant.",
+        "clientName": "Sana Care MedLabs LLC",
+        "results": {
+          "0": {
+            "value": "85 %",
+            "label": "Triage-Automatisierung",
+            "sublabel": "Ohne menschliches Eingreifen"
+          },
+          "1": {
+            "value": "14m",
+            "label": "Eingesparte durchschn. Patientenwartezeit",
+            "sublabel": "Von der Ankunft bis zum Routing"
+          },
+          "2": {
+            "value": "0",
+            "label": "Compliance-Verstöße",
+            "sublabel": "Unter strengen Audit-Läufen"
+          }
+        },
+        "challengesSolved": {
+          "0": {
+            "title": "Verzögerungen durch manuelles Ticketing",
+            "desc": "Eingehende Anfragen wurden manuell in Warteschlangen eingereiht, was bis zu 45 Minuten dauerte, um sie an Standardkliniken weiterzuleiten."
+          },
+          "1": {
+            "title": "Sicherheitsanfälligkeiten",
+            "desc": "Sensible Krankenakten wurden über ungesicherte interne Chats verarbeitet. Eine End-zu-End-Verschlüsselung war erforderlich."
+          },
+          "2": {
+            "title": "Unflexible Planung",
+            "desc": "Doppelbuchungen und manuelle Schichten verursachten hohe Burnout-Raten beim medizinischen Personal."
+          }
+        },
+        "deliverables": {
+          "0": "Sicheres klinisches Patienten-Triage-Portal mit fortschrittlichen LangChain-Flows",
+          "1": "End-zu-End verschlüsselte Nachrichtenwege mit Verifizierung der HIPAA-Compliance",
+          "2": "Multi-Agenten-Planungsmanager zur Konfliktlösung in Kalendern in Echtzeit",
+          "3": "SMS-Alerts-Gateway zur Benachrichtigung von Benutzern bei Warteschlangen-Updates"
+        }
+      },
+      "proj-3": {
+        "title": "Zenith Real Estate iOS-App",
+        "desc": "Eine standortbezogene native Anwendung mit reaktivem Echtzeit-Karten-Clustering, vielschichtigen Immobilienfiltern und virtuellen 3D-Touren direkt auf dem Gerät.",
+        "clientName": "Zenith Property LLC",
+        "results": {
+          "0": {
+            "value": "250k+",
+            "label": "App-Downloads",
+            "sublabel": "In den ersten 3 Monaten"
+          },
+          "1": {
+            "value": "3.2x",
+            "label": "Nutzer-Interaktionszeit",
+            "sublabel": "Im Vergleich zum mobilen Web"
+          },
+          "2": {
+            "value": "4.8★",
+            "label": "App Store Rating",
+            "sublabel": "Über 5.000 aktive Bewertungen"
+          }
+        },
+        "challengesSolved": {
+          "0": {
+            "title": "Träges Rendering der Karte",
+            "desc": "Das Laden tausender Immobilien-Pins führte dazu, dass Standardkarten auf Mittelklassegeräten verzögerten oder abstürzten."
+          },
+          "1": {
+            "title": "Hohe Abwanderung bei Registrierung",
+            "desc": "Erzwungene Login-Strukturen hinderten Nutzer am Erkunden. Ein reibungsloser Gast-Ablauf wurde benötigt."
+          }
+        },
+        "deliverables": {
+          "0": "Maßgeschneiderte Flutter-Anwendung mit nativem Karten-Clustering und Speichermanagement",
+          "1": "Dynamische Suchfilter mit Multi-Attribut-Schiebereglern und sofortigen Ergebnissen",
+          "2": "RevenueCat Paywall-Integration für Premium-Immobilienanzeigen",
+          "3": "Fastlane CI/CD-Pipeline-Automatisierung für die Bereitstellung im App Store"
+        }
+      },
+      "proj-4": {
+        "title": "SaaS Organische Traffic-Explosion",
+        "desc": "Eine technisch konzipierte SEO-Strukturkampagne unter Verwendung von programmatischen Keywords, semantischen Seitenvorlagen, hochwertigen Backlink-Partnerschaften und responsivem Schema-Markup.",
+        "clientName": "Aura Metrics SaaS",
+        "results": {
+          "0": {
+            "value": "340 %",
+            "label": "Organisches Traffic-Wachstum",
+            "sublabel": "Innerhalb der ersten 4 Monate"
+          },
+          "1": {
+            "value": "18.5k",
+            "label": "Rankende Keywords",
+            "sublabel": "Positioniert in den Top 10"
+          },
+          "2": {
+            "value": "$24k",
+            "label": "Eingespartes monatliches Werbebudget",
+            "sublabel": "Äquivalenter Traffic-Wert"
+          }
+        },
+        "challengesSolved": {
+          "0": {
+            "title": "Keine Domain-Autorität",
+            "desc": "Frische Marke mit null Backlink-Profil und Indexierungsproblemen in der Google Search Console."
+          },
+          "1": {
+            "title": "Blockaden durch dünnen Content",
+            "desc": "Doppelte Titelstrukturen und schlechte Header-Semantik verhinderten ein hohes Suchranking."
+          }
+        },
+        "deliverables": {
+          "0": "Technisches Audit zur Behebung von Crawling-Blockaden und für Geschwindigkeitsverbesserungen",
+          "1": "Semantische HTML-Struktur-Updates über alle Ziel-Landing-Vorlagen hinweg",
+          "2": "Dynamische Schema-Markup-Integration für Rich-Snippets in der Suche",
+          "3": "Strukturierte Backlink-Aufbaukampagne mit Fokus auf Nischen-Ressourcen"
+        }
+      },
+      "proj-5": {
+        "title": "Hochverfügbarkeits-Docker-Plattform",
+        "desc": "Eine Kubernetes-Mikroservice-Infrastruktur, die ein hochaktives Legacy-Backend auf skalierbare AWS-ECS-Knoten mit Echtzeit-Replikation und Failover-Garantien migriert.",
+        "clientName": "Apex FinTech Services",
+        "results": {
+          "0": {
+            "value": "99.99 %",
+            "label": "Uptime-Garantie",
+            "sublabel": "Konsistent geliefert"
+          },
+          "1": {
+            "value": "2.4x",
+            "label": "Schnellere Backend-Antwort",
+            "sublabel": "Durch CDN-Lastverteilung"
+          },
+          "2": {
+            "value": "0",
+            "label": "Service-Unterbrechungen",
+            "sublabel": "Während dynamischer Migrationen"
+          }
+        },
+        "challengesSolved": {
+          "0": {
+            "title": "Legacy Single-Node-Server",
+            "desc": "Die vorherige Plattform wurde auf einem einzelnen VPS gehostet, mit häufigen Speicherlecks und Ausfällen bei hohem Traffic."
+          },
+          "1": {
+            "title": "Fehler bei Datenbanksperren",
+            "desc": "Gleichzeitige Schreibzyklen von Clients verursachten Tabellensperren und Transaktionsfehler."
+          }
+        },
+        "deliverables": {
+          "0": "Containerisierte Mikroservice-Umgebung mit Docker- und Kubernetes-Konfigurationen",
+          "1": "AWS-ECS-Clustering mit Multi-Zonen-Verfügbarkeit und Routing-Gesundheitsprüfungen",
+          "2": "CDN-Load-Balancer zur Konfiguration von globalem Caching und DDoS-Mitigation-Shields",
+          "3": "Automatisierte stündliche Datenbank-Snapshot-Replikationsskripte mit schnellen Wiederherstellungstriggern"
+        }
+      },
+      "proj-6": {
+        "title": "Lumio Rebranding und Design-Richtlinien",
+        "desc": "Entwicklung einer klaren, modernen visuellen Identität, komplett mit modularen Komponenten-Kits, Farbharmonie-Systemen, interaktiven Markenillustrationen und Produktdesign-Prototypen.",
+        "clientName": "Lumio Energy Corp",
+        "results": {
+          "0": {
+            "value": "100 %",
+            "label": "Modulares Design-Kit",
+            "sublabel": "Wiederverwendbare Figma-Komponenten"
+          },
+          "1": {
+            "value": "40 %",
+            "label": "Eingesparte Entwicklungszeit",
+            "sublabel": "Durch strikte Design-Tokens"
+          },
+          "2": {
+            "value": "2x",
+            "label": "Höhere Konversionsrate",
+            "sublabel": "Durch erstklassigen visuellen Refresh"
+          }
+        },
+        "challengesSolved": {
+          "0": {
+            "title": "Inkohärente visuelle Identität",
+            "desc": "Verschiedene Teams bauten Landingpages mit variierenden Farbpaletten, was zu einem fragmentierten Markenimage führte."
+          },
+          "1": {
+            "title": "Träge Komponenten-Übergaben",
+            "desc": "Entwickler bauten Buttons und Formulare für jedes neue Feature von Grund auf neu, was wertvolle Zeit kostete."
+          }
+        },
+        "deliverables": {
+          "0": "Vollständiges visuelles System, das maßgeschneiderte Logos, Farben und Typografie-Hierarchien abdeckt",
+          "1": "Figma-Designsystem mit gestylten Buttons, Eingabefeldern, Formularen und Layout-Rastern",
+          "2": "Visuelles Social-Media-Template-Kit für die Erstellung von Marketingmaterialien",
+          "3": "Druckfertige Verpackungsvorlagen für physische Produktverteilungen"
+        }
+      }
+    },
+    "testimonials": {
+      "test-1": {
+        "clientName": "Ahmed R.",
+        "companyName": "PackFlow",
+        "role": "Gründer",
+        "content": "Sqodex hat unsere Flutter-App in sechs Wochen gebaut und sie startete am ersten Tag mit absolut null Abstürzen. Diese Jungs verstehen ihr Handwerk."
+      },
+      "test-2": {
+        "clientName": "Sara M.",
+        "companyName": "TradeHub",
+        "role": "Marketingleiterin",
+        "content": "Unser SEO-Traffic ist in vier Monaten um 340 % gewachsen. Das Team ist reaktionsschnell, datengetrieben und erklärt tatsächlich, was es tut."
+      },
+      "test-3": {
+        "clientName": "Bilal K.",
+        "companyName": "MoneyMover",
+        "role": "CEO",
+        "content": "Wir brauchten ein komplettes SaaS-System und eine Markenidentität. Sqodex hat alles erledigt — im Zeitplan, im Budget und besser, als wir es uns vorgestellt hatten."
+      },
+      "test-ecommerce": {
+        "clientName": "Leiter Digitales",
+        "companyName": "Velocity Retail Global",
+        "role": "Leiter Digitales",
+        "content": "Die neue Storefront sah nicht nur besser aus — sie hat sich sofort spürbar auf den Umsatz ausgewirkt. Wir haben den Konversionsanstieg bereits in der ersten Woche nach dem Livegang gesehen. Die Besessenheit des Teams bezüglich Performance hat sich in hohem Maße ausgezahlt."
+      },
+      "test-ai": {
+        "clientName": "Klinischer Direktor",
+        "companyName": "Sana Care MedLabs LLC",
+        "role": "Klinischer Direktor",
+        "content": "Das Triage-System war ein echter Game-Changer. Wir haben über 85 % der Standard-Routings automatisiert, und die Compliance-Audits verliefen makellos."
+      },
+      "test-hosting": {
+        "clientName": "Lead DevOps",
+        "companyName": "Apex FinTech Services",
+        "role": "Lead DevOps",
+        "content": "Das Server-Setup läuft absolut kugelsicher. Wir bewältigen über 10-fache Traffic-Spitzen ohne jegliche Verlangsamungen oder Datenbanksperren."
+      },
+      "test-lumio": {
+        "clientName": "Markenleiter",
+        "companyName": "Lumio Energy Corp",
+        "role": "Markenleiter",
+        "content": "Die neuen Design-Tokens und das Figma-System haben unsere Produkte komplett vereinheitlicht. Die Entwicklungszeit ist sofort gesunken."
+      }
+    },
+    "pricing": {
+      "price-web-1": {
+        "name": "Growth Landing Node",
+        "description": "Ideal für frische Startups und erstklassige Marken-Launch-Präsentationen, die außergewöhnliche Geschwindigkeit wünschen.",
+        "period": "einmalig",
+        "features": {
+          "0": "Maßgeschneidertes React-Layout-Design",
+          "1": "Responsive Tailwind-Optimierung",
+          "2": "Integration von Core-SEO-Metadaten",
+          "3": "reCAPTCHA-verifizierte Formularintegration",
+          "4": "3 Monate Live-Server-Überwachung"
+        }
+      },
+      "price-web-2": {
+        "name": "Enterprise Multi-Core",
+        "description": "Umfassende, skalierbare Anwendung mit maßgeschneidertem Portal, API-Verknüpfungen und Backend-Synchronisierung.",
+        "period": "einmalig",
+        "features": {
+          "0": "Next.js Hybrid Static-SSR Server",
+          "1": "Umfassendes CMS-Dashboard-Hub-Setup",
+          "2": "Automatisierte Datenbank-Replikationen",
+          "3": "Sofortige Discord/Slack-Alert-Hooks",
+          "4": "Priorisierter 24/7-Server-Ops-Zugang"
+        }
+      },
+      "price-mob-1": {
+        "name": "Dynamic Launch Shell",
+        "description": "Hochgradig interaktive React-Native/Flutter-Anwendungsvorlage für eine einzelne Plattform.",
+        "period": "einmalig",
+        "features": {
+          "0": "Einzelne iOS- oder Android-Plattform",
+          "1": "Responsive, flüssige visuelle Frames",
+          "2": "Auth0 / Google Social Account Login",
+          "3": "Offline-Storage-Engine aktiviert",
+          "4": "Vorbereitung für die Store-Bereitstellung"
+        }
+      },
+      "price-mob-2": {
+        "name": "Universal Omni-Presence",
+        "description": "Natives Erlebnis, das gleichzeitig für beide großen App Stores mit vollständiger Cloud-Synchronisierung entwickelt wird.",
+        "period": "einmalig",
+        "features": {
+          "0": "Duale Store-Veröffentlichung (iOS & Android)",
+          "1": "Sichere Cloud-Synchronisierung",
+          "2": "Lokale Push-Benachrichtigungen in Echtzeit",
+          "3": "Integration von Zahlungsterminals",
+          "4": "6 Monate Garantie auf fehlerfreien Code"
+        }
+      },
+      "price-mkt-1": {
+        "name": "Base Rank Launch",
+        "description": "Strategische Kampagne mit Fokus auf den Aufbau organischer Autorität und die Behebung von Indexierungsblockaden.",
+        "period": "monatlich",
+        "features": {
+          "0": "Umfassender Crawl-Integritätsbericht",
+          "1": "Semantische HTML- & Schema-Injections",
+          "2": "12 renditestarke Nischen-Keyword-Tracks",
+          "3": "Performance-Dashboard-Tracking",
+          "4": "Monatlicher Wachstumsmetriken-Bericht"
+        }
+      },
+      "price-mkt-2": {
+        "name": "Hyper-Velocity-Skalierung",
+        "description": "Vollständiges digitales Trichter-Beschleunigungsprogramm, das SEO-, PPC- und Retargeting-Frameworks verknüpft.",
+        "period": "monatlich",
+        "features": {
+          "0": "Umfassendes organisches & bezahltes System",
+          "1": "Automatisierte Lead-Ad-Flow-Webhooks",
+          "2": "Zweimonatliche strategische Content-Infusion",
+          "3": "Hochwertige Empfehlungs-Links (6/Monat)",
+          "4": "Bi-wöchentliche Echtzeit-Live-Audits"
+        }
+      },
+      "price-hst-1": {
+        "name": "Cloud Shield Node",
+        "description": "Sicherer, zuverlässiger, verwalteter virtueller Serverknoten mit global schnellen Inhaltsladezeiten.",
+        "period": "monatlich",
+        "features": {
+          "0": "Hochgeschwindigkeits-SSD-Speicherstufe",
+          "1": "Edge-Router CDN Global Cache",
+          "2": "Automatisiertes tägliches Offline-Backup",
+          "3": "SSL-Zertifikat (ECDSA-Standard)",
+          "4": "DDoS-Abfang-Schutzmaßnahmen"
+        }
+      },
+      "price-hst-2": {
+        "name": "Kubernetes Multi-Zone",
+        "description": "Autoskalierender Container-Stack, verteilt für moderne SaaS-Endpunkte mit hohem Traffic.",
+        "period": "monatlich",
+        "features": {
+          "0": "Hochverfügbarkeits-Container-Pods",
+          "1": "Aktiv-Aktiv Geo-Replikation",
+          "2": "Grafana Echtzeit-Observability",
+          "3": "Custom CloudWatch-Alerts Setup",
+          "4": "Garantierte 99.99 % Knoten-SLA-Vereinbarung"
+        }
+      },
+      "price-ai-1": {
+        "name": "Agent Orchestrator Kit",
+        "description": "Stellen Sie hilfreiche KI-Routing-Pipelines bereit, um Kundenanfragen sofort zu filtern.",
+        "period": "einmalig",
+        "features": {
+          "0": "Gemini / OpenAI API Integration",
+          "1": "Konversationeller Ticket-Klassifikator",
+          "2": "Custom Knowledge-Base Document Sync",
+          "3": "Lead-Kontext-Injectionsfluss",
+          "4": "1 Monat Integrations-Support"
+        }
+      },
+      "price-dsn-1": {
+        "name": "Core Brand Framework",
+        "description": "Vollständig strukturiertes Identitäts-Asset-Paket, um Ihr Unternehmen für Enterprise-Wachstum aufzustellen.",
+        "period": "einmalig",
+        "features": {
+          "0": "Modernes Vektor-Logo-System",
+          "1": "Richtlinien für Typografie & Farbhierarchie",
+          "2": "6 editierbare, hochwertige Social-Media-Vorlagen",
+          "3": "Visitenkarten- & Briefpapier-Kit",
+          "4": "Figma-Assets Quellzugriff"
+        }
+      }
+    }
+  },
+  "brands": {
+    "title": "Vertraut von Top-Marken",
+    "digital_boost_world": "DIGITAL BOOST WORLD",
+    "digital": "DIGITAL",
+    "shoplite": "shoplite",
+    "ezaashop": "EZAASHOP",
+    "usecs": "USECS",
+    "codevenator": "CODEVENATOR",
+    "nexiestech": "nexiestech"
+  },
+  "whyChooseUs": {
+    "title": "Warum wir",
+    "subtitle": "Der Sqodex-Vorteil",
+    "cards": {
+      "0": {
+        "title": "Senior Engineering",
+        "desc": "Unser gesamter Code wird von erfahrenen Senior-Engineers geschrieben."
+      },
+      "1": {
+        "title": "Kein Ballast (Zero Bloat)",
+        "desc": "Wir bauen hochoptimierte Anwendungen ohne unnötige Plugins."
+      },
+      "2": {
+        "title": "Skalierbare Architektur",
+        "desc": "Ausgelegt auf die Verarbeitung tausender gleichzeitiger Nutzer."
+      }
+    }
+  },
+  "projects_page": {
+    "title": "Projekte",
+    "subtitle": "Entdecken Sie unsere jüngsten Arbeiten",
+    "view_project": "Projektdetails anzeigen",
+    "back": "Zurück zur Startseite",
+    "title_span": "Portal",
+    "desc": "Ein sicheres Repository für erfolgreiches Digital-Engineering. Tauchen Sie ein in unsere Live-Websites, mobilen Softwareprodukte und fortschrittlichen Systemintegrationen.",
+    "search_placeholder": "Suche nach Titel, Technologie, Kunde...",
+    "show_favs": "Nur Favoriten anzeigen",
+    "filter_cat": "Nach Kategorie filtern",
+    "all_projects": "Alle Projekte",
+    "no_matches": "Keine passenden Projekte gefunden",
+    "no_matches_fav": "Sie haben noch keine Projekte als Lesezeichen gespeichert. Versuchen Sie, einige mit dem Herz-Icon zu markieren.",
+    "no_matches_search": "Versuchen Sie, Ihre Suchbegriffe anzupassen oder eine andere Kategorie zu wählen, um andere Projekte zu sehen.",
+    "clear_favs": "Favoritenfilter löschen"
+  },
+  "services_page": {
+    "seo_title": "Unsere digitalen Dienstleistungen & Kompetenzen | Sqodex Peshawar",
+    "seo_description": "Entdecken Sie das vollständige Angebot digitaler Dienstleistungen von Sqodex: Webentwicklung, mobile Apps, SaaS-Systeme, UI/UX-Design und SEO.",
+    "back_to_home": "Zurück zur Startseite",
+    "title": "Unser",
+    "title_span": "Dienstleistungsportal",
+    "desc": "Vom ersten Wireframing und interaktiven Prototypen bis hin zu Enterprise-SaaS-Systemen und renditestarkem digitalem Marketing liefern wir robuste, SEO-optimierte Lösungen, die auf Unternehmensskalierung zugeschnitten sind.",
+    "search_placeholder": "Dienstleistungen, Tech-Stacks, Plattformen durchsuchen...",
+    "no_results_title": "Keine passenden Dienstleistungen gefunden",
+    "no_results_desc": "Versuchen Sie, Ihre Suchbegriffe anzupassen, um unsere Kernangebote zu entdecken.",
+    "service_prefix": "DIENSTLEISTUNG",
+    "more": "MEHR",
+    "view_service": "Mehr erfahren",
+    "all_services": "Alle Dienstleistungen"
+  },
+  "project_card": {
+    "featured": "FEATURED",
+    "live_demo": "Live-Demo",
+    "github": "GitHub",
+    "read_case_study": "Fallstudie lesen"
+  },
+  "project_detail": {
+    "not_found_title": "Fallstudie nicht gefunden",
+    "return_home": "Zurück zur Startseite",
+    "back": "Zurück",
+    "featured": "Featured",
+    "case_study": "Fallstudie",
+    "client": "Kunde",
+    "completed": "Abgeschlossen",
+    "category": "Kategorie",
+    "overview": "Übersicht",
+    "results": "Ergebnisse",
+    "challenges": "Herausforderungen, die wir gelöst haben",
+    "deliverables": "Was wir geliefert haben",
+    "tech_stack": "Tech-Stack",
+    "client_feedback": "Kunden-Feedback",
+    "gallery": "Fallstudien-Galerie",
+    "zoom": "Zoom",
+    "cta_title": "Wollen Sie Ergebnisse wie diese?",
+    "cta_desc": "Lassen Sie uns über Ihr Projekt sprechen und eine maßgeschneiderte Lösung entwickeln.",
+    "start_project": "Ein Projekt starten",
+    "ask_about": "Fragen dazu stellen",
+    "similar_projects": "Ähnliche Projekte",
+    "image": "Bild",
+    "of": "von",
+    "key_results": "Wichtige Ergebnisse",
+    "the_challenge": "Die Herausforderung",
+    "the_solution": "Die Lösung",
+    "challenges_overcome": "Überwundene Herausforderungen",
+    "key_deliverables": "Wichtigste Ergebnisse",
+    "live_site": "Live-Website besuchen",
+    "related_projects": "Verwandte Projekte"
+  },
+  "service_detail": {
+    "not_found_title": "Dienstleistung nicht gefunden",
+    "return_home": "Zurück zur Startseite",
+    "back": "Zurück",
+    "service_label": "Dienstleistung —",
+    "start_project": "Ein Projekt starten",
+    "whats_included": "Was enthalten ist",
+    "what_i_can_build": "Was ich bauen kann",
+    "best_for": "Bestens geeignet für",
+    "how_we_work": "Wie wir arbeiten",
+    "how_we_work_title": "Ein klarer Pfad von der Idee bis zur Auslieferung",
+    "what_i_need": "What I need from you",
+    "cta_title": "Bereit, Ihr Projekt zu starten?",
+    "cta_desc": "Erzählen Sie mir von Ihrer Idee und wir finden den richtigen Weg nach vorne — völlig unverbindlich.",
+    "start_conversation": "Ein Gespräch beginnen",
+    "learn_more": "Mehr erfahren ↗",
+    "our_work": "Unsere Arbeit",
+    "related_projects": "Verwandte Projekte",
+    "back_to_services": "Zurück zu den Dienstleistungen",
+    "whats_included_label": "Was enthalten ist",
+    "what_we_build": "Was wir bauen",
+    "how_we_work_label": "Wie wir arbeiten",
+    "what_we_need": "Was wir von Ihnen benötigen",
+    "faqs": "Häufig gestellte Fragen (FAQs)",
+    "pricing": "Preispläne",
+    "popular": "Am beliebtesten",
+    "get_started": "Jetzt starten",
+    "monthly": "/Mo.",
+    "one_off": "einmalig"
+  },
+  "featured_projects": {
+    "badge": "Unsere Meisterwerke",
+    "title": "Ausgewählte",
+    "title_span": "Projekte",
+    "subtitle": "Jüngste Bereitstellungen und Fallstudien.",
+    "desc": "Entdecken Sie einige unserer wirkungsvollsten Arbeiten, die maßgeschneidert wurden, um hohe Leistung, ansprechende Ästhetik und messbares Wachstum zu liefern. Erfahren Sie, warum ambitionierte Marken Sqodex wählen, um digitale Produkte zu entwickeln, die bereit sind, ihr Geschäft auszubauen und den Umsatz zu beschleunigen.",
+    "view_all": "Alle Projekte erkunden"
+  },
+  "testimonials_section": {
+    "badge": "Kunden-Vertrauensbuch",
+    "title": "Was wachsende Marken über Sqodex sagen",
+    "desc": "Verifizierte Partner-Meinungen zu unseren schnellen Auslieferungs-Pipelines, struktureller Code-Genauigkeit und hochkonvertierenden Design-Layouts.",
+    "title_span": "Feedback",
+    "subtitle": "Was unsere Partner über uns sagen."
+  },
+  "app": {
+    "whatsapp_tooltip": "Chatten Sie mit einem Ingenieur",
+    "whatsapp_message": "Hallo Sqodex, ich möchte mich nach Ihren digitalen Dienstleistungen erkundigen.",
+    "whatsapp_cta": "Kontaktieren Sie Sqodex auf WhatsApp",
+    "projects_delivered": "Abgeschlossene Projekte",
+    "saas_systems": "SaaS-Systeme Live",
+    "trusted_by": "Geschätzte Partner"
+  },
+  "about_section": {
+    "slogan": "Souveräner Engineering-Standard",
+    "title_prefix": "Angetrieben von Leidenschaft,",
+    "title_suffix": "Konzipiert für Skalierung.",
+    "p1_text": "ist ein Kollektiv aus erstklassigen Software-Engineers, kreativen Architekten und Digitalstrategen. Wir spezialisieren sich auf den Aufbau sicherer, hochleistungsfähiger digitaler Produkte — von hyperoptimierten Webportalen bis hin zu komplexen, skalierbaren Enterprise-SaaS-Systemen.",
+    "p2_text": "Wir glauben an souveräne Entwicklung: das Schreiben von sauberem, modularem Code ohne unnötigen Ballast. Durch die Kombination modernster Frameworks mit kompromisslosen Qualitätsstandards liefern wir robuste Lösungen, die unseren Partnern einen klaren Vorsprung in ihrem Markt verschaffen.",
+    "stats": {
+      "0": {
+        "label": "Jahre Exzellenz"
+      },
+      "1": {
+        "label": "Marken weltweit"
+      },
+      "2": {
+        "label": "Ausgelieferte Projekte"
+      },
+      "3": {
+        "label": "Kundenzufriedenheit"
+      }
+    },
+    "values_title": "Unsere Grundprinzipien",
+    "values": {
+      "0": {
+        "title": "Zufriedenheit",
+        "desc": "Zufriedene Teams liefern außergewöhnliche Ergebnisse für Ihre Marke."
+      },
+      "1": {
+        "title": "Ehrlichkeit",
+        "desc": "Transparente Kommunikation schafft unerschütterliches Kundenvertrauen."
+      },
+      "2": {
+        "title": "Engagement",
+        "desc": "Ein unermüdlicher Fokus auf das Erreichen Ihrer geschäftlichen Wachstumsziele."
+      },
+      "3": {
+        "title": "Transparenz",
+        "desc": "Klare Entwicklungsprozesse und offene Berichterstattung bei jedem Schritt."
+      },
+      "4": {
+        "title": "Empathie",
+        "desc": "Ihre tiefen Herausforderungen verstehen, um maßgeschneiderte Lösungen zu entwickeln."
+      }
+    }
+  },
+  "why_choose_us_section": {
+    "badge": "WARUM SQODEX",
+    "title_main": "Warum",
+    "title_highlight": "SQODEX",
+    "desc": "Wir delivern leistungsstarke digitale Produkte, die Marken beim Skalieren helfen. So heben wir uns vom Wettbewerb ab.",
+    "card1": {
+      "title": "End-to-End-Lösungen",
+      "desc": "Von der strategischen Konzeption bis zur globalen Bereitstellung verwalten wir den gesamten technischen Lebenszyklus, damit sich Ihr Team auf die Marktexpansion konzentrieren kann."
+    },
+    "card2": {
+      "title": "Integration moderner Tech-Stacks",
+      "desc": "Entwickelt mit modernen Stacks wie React, Node.js, Flutter und Kotlin, um Performance und Skalierbarkeit zu garantieren."
+    },
+    "card3": {
+      "title": "Flexibilität beim Stack",
+      "desc": "Ein maßgeschneiderter Tech-Stack, der perfekt auf Ihre Geschäftsanforderungen abgestimmt ist, sorgt für optimale Leistung, Skalierbarkeit und langfristige Wartbarkeit. Ihre Vision, Ihr Stack, unsere Expertise."
+    },
+    "card4": {
+      "title": "Performance, Analytics & Support",
+      "desc": "Umfassende Wartung nach dem Launch, Leistungsüberwachung und kontinuierliche Optimierungsdienste stellen sicher, dass sich Ihre digitalen Assets mit Ihren Geschäftszielen weiterentwickeln."
+    },
+    "card5": {
+      "title": "Sicherheits-Audits & Recovery",
+      "desc": "Schützen Sie Ihre digitalen Assets mit unseren umfassenden Sicherheitsaudit-Diensten. Wir identifizieren Schwachstellen und bieten robuste Wiederherstellungslösungen, um Ihre Daten und Abläufe zu sichern."
+    },
+    "card6": {
+      "title": "Zukunftssichere Innovation",
+      "desc": "Sichern Sie sich einen sofortigen Wettbewerbsvorteil. Wir integrieren schon heute zukunftsweisende Funktionen — von KI/LLMs bis hin zu autonomen Mikroservices — in Ihr Kernprodukt."
+    }
+  },
+  "workflow_section": {
+    "process": "Unser Ablauf",
+    "title_main": "Von der Idee bis zum Launch in",
+    "title_highlight": "vier klaren Schritten.",
+    "desc": "Ein systematischer, vorhersehbarer Lebenszyklus, der darauf ausgelegt ist, leistungsstarke digitale Produkte von der Konzeption bis zur Skalierung zu liefern.",
+    "steps": {
+      "0": {
+        "title": "Discovery-Call",
+        "desc": "Wir lernen Ihre Ziele, Zielgruppen, Zeitpläne und Budgets in einer kostenlosen 30-minütigen Session kennen. Auf den Punkt gebracht."
+      },
+      "1": {
+        "title": "Angebot & Umfang",
+        "desc": "Sie erhalten innerhalb von 48 Stunden einen detaillierten Projektumfang, einen Zeitplan und ein Festpreisangebot."
+      },
+      "2": {
+        "title": "Design & Entwicklung",
+        "desc": "Unser Team legt los. Sie bleiben durch wöchentliche Check-ins und ein gemeinsames Projektboard immer auf dem Laufenden."
+      },
+      "3": {
+        "title": "Launch & Support",
+        "desc": "Wir stellen das  Produkt bereit, testen es und übergeben ein poliertes Ergebnis — und bleiben für fortlaufenden Support an Ihrer Seite."
+      }
+    }
+  }
+}

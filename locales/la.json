@@ -1,0 +1,2120 @@
+{
+  "services_link": "Servitia",
+  "projects": "Incepta",
+  "cases": "Studia Casuum",
+  "testimonials": "Testimonia",
+  "contact_link": "Contactus",
+  "contact": {
+    "title": "Inisce Nobiscum",
+    "subtitle": "De proximo incepto tuo disseramus",
+    "form": {
+      "name": "Nomen Plenum",
+      "email": "Inscriptio Electronica",
+      "phone": "Numerus Telephoni",
+      "company": "Societas (Optionale)",
+      "service": "Elige Servitium",
+      "budget": "Aestimatio Impensarum",
+      "message": "Singula Incepti",
+      "submit": "Mitte Breviarium Meum →",
+      "success": "Nuntius prospere missus est!",
+      "error_reject": "REIECTIO SYSTEMATIS SUBMISSIONIS",
+      "projectType": "Genus Incepti",
+      "projectType_1": "Pensum Celer — Unum Transmissibile",
+      "projectType_2": "Inceptum Incrementi — Multiphasicum",
+      "projectType_3": "Solutio Logistica — Plena Scala",
+      "messagePlaceholder": "Dic nobis de propositis, temporibus, et necessitatibus incepti tui...",
+      "sending": "Mittens..."
+    },
+    "validation_error": "Porrige omnes campos mandatorios (Nomen Plenum, Inscriptio Electronica, et Breviarium Incepti).",
+    "badge": "Inisce Nobiscum",
+    "title_main": "De visione tua disseramus.",
+    "title_highlight": "Sine ulla obligatione.",
+    "desc": "Habesne novum inceptum in animo vel opus est systema vigens amplificare? Mitte nobis brevem nuntium de eo quod efficere conaris. Turma nostra necessitates tuas perspicere et exactos gradus quos ad aedificandum caperemus adumbrabit.",
+    "success_title": "Breviarium Incepti Transmissum!",
+    "success_button": "Alium Nuntium Mitte",
+    "mailto_success": "Programma electronicum tuum apertum est cum breviario prae-repleto. Preme 'Mitte' ut inquisitionem perficias. Intra XXIV horas respondebimus!",
+    "info": {
+      "email_label": "Scribe Nobis",
+      "email_value": "contact@sqodex.com",
+      "phone_label": "WhatsApp & Vocatio",
+      "phone_value": "+92 327 9048797",
+      "address_label": "Praetorium",
+      "address_value": "Peshawar, KPK, Pakistan",
+      "response_time": "Sponsio temporis responsionis: Intra XXIV Horas"
+    },
+    "placeholders": {
+      "name": "Ioannes Doe",
+      "email": "ioannes@example.com",
+      "phone": "+1 (555) 000-0000",
+      "company": "Acme Corp"
+    }
+  },
+  "proposal": "Propositum Instans",
+  "agency": "Squad | Connect | Conquer",
+  "header": {
+    "toggle_language": "Muta Linguam",
+    "toggle_theme": "Muta Colorem Argumenti Applicationis",
+    "support_line": "LINEA AUXILII",
+    "hq_location": "HQ: Peshawar, Pakistan",
+    "languages": {
+      "en": "English",
+      "ur": "اردو",
+      "es": "Español",
+      "hi": "हिन्दी",
+      "ar": "العربية",
+      "zh": "中文",
+      "de": "Deutsch",
+      "la": "Latin",
+      "ja": "日本語"
+    }
+  },
+  "hero": {
+    "description": "A forma consuetudinis usque ad deductionem finalem, producta digitalia summae efficientiae aedificamus quae notam tuam adiuvant ut crescat, clientes attrahat, et reditus augeat.",
+    "badgeText": "PERITIA NOSTRA",
+    "primaryBtnText": "Explora Servitia Nostra",
+    "secondaryBtnText": "Accipe Consultationem Gratuitam",
+    "star_rated": "Hub Aestimatum V.0 Stellis",
+    "secp_integrity": "Integritas Registrata SECP",
+    "projects_delivered": "CC+ Incepta Applicationum Transmissa",
+    "saas_systems": "Systemata SaaS Aedificata",
+    "trusted_by": "Creditum a Conditoribus & Entreprisis",
+    "categories": {
+      "website-development": {
+        "title_prefix": "Evolutio Textuum \\n Contextorum &",
+        "title_suffix": "Next.js",
+        "subtitle": "Construimus portas virtuales summae celeritatis, situs staticos responsivos, et API headless robustas, quae telemetriam in tempore reali, celeritates indicis extremas, et architecturas ad conversionem optimizatas habent.",
+        "badge": "Architecti Systematum Textuum",
+        "primary_btn": "Conduce Evolutores Textuum",
+        "secondary_btn": "Accipe Aestimationem Textus Gratuitam",
+        "agent_msg": "Interface plene optimizata pro LXXXXIX+ Core Web Vitals.",
+        "mockup": {
+          "local_render": "💻 Redditio localis",
+          "schema_json": "⚡ schema.json",
+          "latency_monitoring": "Observatio Latentiae",
+          "performance_index": "Calculus Indicis Efficientiae",
+          "fully_hydrated": "Componentes plene hydrati",
+          "reduce_latency": "Minue Latentiam",
+          "hydration_renders": "Redditiones Hydrationis",
+          "component_builds": "aedificationes componentium",
+          "sovereign_standard": "Norma Suprema",
+          "strictly_ssl": "Stricte Subsignatum SSL"
+        }
+      },
+      "mobile-apps": {
+        "title_prefix": "Evolutio Applicationum \\n Mobilium &",
+        "title_suffix": "Flutter",
+        "subtitle": "Ingeniose aedificamus applicationes Flutter & React Native celerrime responsivas. Retia gestuum fluidorum LXfps, synchronizatio automataria datorum SQLite asynchrona, et accessus biometrici celeres.",
+        "badge": "Evolutio Applicationum Nativarum",
+        "primary_btn": "Conduce Evolutores Applicationum",
+        "secondary_btn": "Accipe Indicationem Preti Gratuitam",
+        "agent_msg": "Integrationes universales Flutter prospere dispositae.",
+        "mockup": {
+          "good_morning": "Bonum mane,",
+          "total_balance": "Plenum Sors",
+          "send": "Mitte",
+          "receive": "Accipe",
+          "swap": "Cambiari",
+          "more": "Plus",
+          "recent_activity": "Actus Recens",
+          "view_all": "Vide Omnia",
+          "home": "Domus"
+        }
+      },
+      "digital-marketing": {
+        "title_prefix": "Optimizatio Machinarum \\n Quaerendi &",
+        "title_suffix": "SEO",
+        "subtitle": "Aperi celeritates indicis praecipuas, optimizationes semanticas organicas, et conversiones praeconiorum destinatas. Construe schemata auctoritatis quae machinas indicis Google statim movent.",
+        "badge": "Incrementum SEO Magnae Utilitatis",
+        "primary_btn": "Obtine Locum #I in Google",
+        "secondary_btn": "Examen SEO Gratuitum",
+        "agent_msg": "Indices commeatus per CCXL% organice amplificati sunt.",
+        "mockup": {
+          "funnel_logs": "ACTA INFUNDIBULI CONVERSIONIS",
+          "agent": "Vicarius Sqodex",
+          "customers_served": "Acta Clientium Servitorum",
+          "growth": "Incrementum",
+          "boost_funnel": "Auge Fluxum Infundibuli",
+          "authority_index": "Metrica Auctus Indicis Auctoritatis (LXd)",
+          "indexing_audits": "Examina Verborum Clavium Indicis",
+          "indexed": "● In Indice",
+          "pending": "○ Pendens"
+        }
+      },
+      "hosting": {
+        "title_prefix": "Administratio Nubium \\n Hospitalitas &",
+        "title_suffix": "AWS DevOps",
+        "subtitle": "Hospitare cum firmitate praecipua. Dispositum in podis microservitii multiversorum locorum, libratoribus ponderis AWS administratis, retibus quaerendi CDN, et stratis imaginum subsidiariarum automatariis.",
+        "badge": "DevOps Summae Avaatibilitatis",
+        "primary_btn": "Dispone Nubem Summae Celeritatis",
+        "secondary_btn": "Accipe Precium Servatri",
+        "agent_msg": "Portus MMM securus. Incursus activus VIII.IVms.",
+        "mockup": {
+          "terminal": "TERMINALIS SECURITATIS SHELL",
+          "clusters_online": "CONGREGATIONES_ONLINE",
+          "cpu_load": "Pondus Core CPU",
+          "utilization": "Usus",
+          "deploy_commands": "Dispone mandata sandbox",
+          "webhooks_ready": "Webhooks Parata",
+          "scale_container": "Scande Receptaculum"
+        }
+      },
+      "ai-solutions": {
+        "title_prefix": "Integratio Intellegentiae \\n Artificiosae &",
+        "title_suffix": "Vicarii LLM",
+        "subtitle": "Incorporate sine sutura robustas LLM entreprisarum in repositoriis datorum localibus securis. Construe dispositores tesserarum automatarios, bases cognitionis colloquiales, et nodos classificationis datorum automatarios.",
+        "badge": "Integratores Machinarum IA",
+        "primary_btn": "Incorporate IA Consuetudinis",
+        "secondary_btn": "Adumbra Consilium IA",
+        "agent_msg": "Synchronizatio repositorii datorum vectoralis prospere perfecta est.",
+        "mockup": {
+          "orchestrator": "MODERATOR FLUXUS OPERIS IA",
+          "active_module": "MODULUS ACTIVUS",
+          "visitor_request": "Postulatio Usoris Visitantis",
+          "autonomous_agent": "Vicarius Dispositor Autonomus",
+          "processing": "Responsum per canales neurales paratur...",
+          "select_params": "Elige parametra postulationis simulata",
+          "trigger_secp": "🚀 Move integrationem parametri nodi SECP",
+          "generate_vector": "🤖 Gignere optimizationem schematum Vectorum"
+        }
+      },
+      "graphic-designing": {
+        "title_prefix": "Graphica & \\n Notae",
+        "title_suffix": "Identitas",
+        "subtitle": "Constitue res identitatis commercialis supremae. Formulae typographiae modernae, systemata Figma integrata, metrica harmoniae colorum, et res proprietatis notae editabiles summae qualitatis.",
+        "badge": "Laboratoria Creativa Graphices UX/UI",
+        "primary_btn": "Accipe Formam UI Consuetudinis",
+        "secondary_btn": "Accipe Precium Formae Notae",
+        "agent_msg": "Regulae typographiae et duces stili notae novi creati sunt.",
+        "mockup": {
+          "workbench": "MENSULA VISUALIS CREATIVA",
+          "figma_canvas": "CANVAS FIGMA",
+          "identity_pro": "Lumio Identity Pro",
+          "dimensions": "Dimensiones Vectoris:",
+          "angle": "Angulus:",
+          "select_themes": "Elige palettas colorum simulatas",
+          "width": "Latitudo:"
+        }
+      },
+      "saas-systems": {
+        "title_prefix": "Systemata SaaS \\n & Programmata",
+        "title_suffix": "Consuetudinis",
+        "subtitle": "Architectamur et aedificamus suggesta SaaS plenaria ab imo sursum — architectura datorum multitenentium, rationes subscriptionis Stripe/Paddle, moderacula super-administratoris, et imperium accessus in munere fundatum.",
+        "badge": "Studio SaaS Entreprisarum",
+        "primary_btn": "Aedifica Systema SaaS",
+        "secondary_btn": "Accipe Consultationem SaaS",
+        "agent_msg": "Recognitio architecturae systematis perfecta est.",
+        "mockup": {
+          "metrics": "METRICA ADMIN SaaS",
+          "clusters": "CONGREGATIONES ACTIVAE",
+          "db_connection": "Conexio Repositorii Datorum",
+          "active": "● Activa",
+          "api_health": "Index Salutis API",
+          "tenancies": "Omnes Tenentiae Activae",
+          "nodes": "Nodi"
+        }
+      },
+      "ui-ux-design": {
+        "title_prefix": "Forma UI/UX \\n & Prototypa",
+        "title_suffix": "Interactiva",
+        "subtitle": "Tradimus adumbrationes structurales, prototypa interactiva, systemata plena formae, et transitiones Figma evolutoribus paratas. Quisque pixel locum suum meretur et ad convertendum aedificatur.",
+        "badge": "Studio Formae UI/UX",
+        "primary_btn": "Conduce Formatorem UI/UX",
+        "secondary_btn": "Postula Precium UI/UX",
+        "agent_msg": "Systema formae Figma renovatum est.",
+        "mockup": {
+          "workbench": "MENSULA VISUALIS CREATIVA",
+          "canvas": "CANVAS FIGMA",
+          "zoom": "C% Magnitudo",
+          "switch_viewports": "Muta Conspectus Canvas",
+          "wireframes": "Adumbrationes Structurales",
+          "design_system": "Systema Formae",
+          "mobile_prototype": "Prototypum Mobile"
+        }
+      },
+      "video-editing": {
+        "title_prefix": "Redactio Video \\n & Graphica",
+        "title_suffix": "Movens",
+        "subtitle": "Video demonstrationis productorum, animationes explicativae, et materia socialis maximi effectus, optimizata pro algorithmis YouTube, Instagram Reels, TikTok, et LinkedIn.",
+        "badge": "Laboratorium Graphicae Moventis",
+        "primary_btn": "Incipe Inceptum Video",
+        "secondary_btn": "Accipe Propositum Redactionis",
+        "agent_msg": "Tempora video socialis optimizata sunt.",
+        "mockup": {
+          "renderer": "REDDITOR TEMPORIS",
+          "ultra_comp": "IVK_ULTRA_COMP",
+          "live_preview": "PRAEVENTUS RECTUS",
+          "telemetry": "Telemetria Redditionis Video",
+          "active_encoder": "Codificator Activus",
+          "timeline_latency": "Latentia Lineae Temporis",
+          "zero_lag": "0.Vms (Sine Mora Frami)"
+        }
+      }
+    },
+    "default": {
+      "title": {
+        "1": "Servitia Digitalia Elit",
+        "2": "&",
+        "3": "Ingenaria Programmatum"
+      },
+      "badges": {
+        "0": "Next.js & React XIX Core",
+        "1": "Motus Fluidus Framer",
+        "2": "Securitas Stricta SSL",
+        "3": "LXXXXIX+ Calculi Lighthouse"
+      },
+      "mockup": {
+        "sandbox": "Sandbox Aestimantis Interactivi Parata",
+        "select_pillars": "Elige columnas digitales infra ut moderacula SaaS argumentorum onerentur."
+      }
+    },
+    "web": {
+      "title": {
+        "1": "Evolutio Custom",
+        "2": "Textuum &",
+        "3": "Next.js"
+      },
+      "subtitle": "Construimus portas virtuales summae celeritatis, situs staticos responsivos, et API headless robustas, quae telemetriam in tempore reali, celeritates indicis extremas, et architecturas ad conversionem optimizatas habent.",
+      "badgeText": "Architecti Systematum Textuum",
+      "badges": {
+        "0": "Redditio a Parte Servatri",
+        "1": "CDN Marginis Globalis",
+        "2": "REST/GraphQL Secura",
+        "3": "LXXXXIX Efficientia Lighthouse"
+      },
+      "btn_primary": "Conduce Evolutores Textuum",
+      "btn_secondary": "Accipe Aestimationem Textus Gratuitam",
+      "agent": {
+        "role": "Architectus Primarius",
+        "msg": "Interface plene optimizata pro LXXXXIX+ Core Web Vitals."
+      },
+      "mockup": {
+        "local_render": "💻 Redditio localis",
+        "schema_json": "⚡ schema.json",
+        "latency_monitoring": "Observatio Latentiae",
+        "performance_score": "Calculus Indicis Efficientiae",
+        "fully_hydrated": "Componentes plene hydrati",
+        "reduce_latency": "Minue Latentiam",
+        "hydration_renders": "Redditiones Hydrationis",
+        "component_builds": "aedificationes componentium",
+        "sovereign_standard": "Norma Suprema",
+        "ssl": "Stricte Subsignatum SSL"
+      }
+    },
+    "mobile": {
+      "title": {
+        "1": "Evolutio Applicationum",
+        "2": "Mobilium &",
+        "3": "Flutter"
+      },
+      "subtitle": "Ingeniose aedificamus applicationes Flutter & React Native celerrime responsivas. Retia gestuum fluidorum LXfps, synchronizatio automataria datorum SQLite asynchrona, et accessus biometrici celeres.",
+      "badgeText": "Evolutio Applicationum Nativarum",
+      "badges": {
+        "0": "Aedificationes duales iOS/Android",
+        "1": "Tactus Biometricus Activatus",
+        "2": "Machina Gestuum Fluida",
+        "3": "VI Menses Sponsio contra Vitia"
+      },
+      "btn_primary": "Conduce Evolutores Applicationum",
+      "btn_secondary": "Accipe Indicationem Preti Gratuitam",
+      "agent": {
+        "role": "Architectus Primarius App",
+        "msg": "Integrationes universales Flutter prospere dispositae."
+      },
+      "mockup": {
+        "greeting": "Bonum mane,",
+        "user": "Sarah Johnson",
+        "total_balance": "Plenum Sors",
+        "send": "Mitte",
+        "receive": "Accipe",
+        "swap": "Cambiari",
+        "more": "Plus",
+        "recent_activity": "Actus Recens",
+        "view_all": "Vide Omnia"
+      }
+    },
+    "marketing": {
+      "title": {
+        "1": "Optimizatio",
+        "2": "Machinarum Quaerendi &",
+        "3": "SEO"
+      },
+      "subtitle": "Aperi celeritates indicis praecipuas, optimizationes semanticas organicas, et conversiones praeconiorum destinatas. Construe schemata auctoritatis quae machinas indicis Google statim movent.",
+      "badgeText": "Incrementum SEO Magnae Utilitatis",
+      "badges": {
+        "0": "SEO programmaticum",
+        "1": "Webhooks praeconiorum PPC",
+        "2": "Machina rependi verborum clavium",
+        "3": "Moderacula viva in tempore reali"
+      },
+      "btn_primary": "Obtine Locum #I in Google",
+      "btn_secondary": "Examen SEO Gratuitum",
+      "agent": {
+        "role": "Director Operationum HQ",
+        "msg": "Indices commeatus per CCXL% organice amplificati sunt."
+      },
+      "mockup": {
+        "funnel_logs": "ACTA INFUNDIBULI CONVERSIONIS",
+        "agent": "Vicarius Sqodex",
+        "customers": "Acta Clientium Servitorum",
+        "growth": "Incrementum",
+        "btn_boost": "Auge Fluxum Infundibuli",
+        "metrics_title": "Metrica Auctus Indicis Auctoritatis (LXd)",
+        "audits": "Examina Verborum Clavium Indicis",
+        "indexed": "● In Indice",
+        "pending": "○ Pendens"
+      }
+    },
+    "hosting": {
+      "title": {
+        "1": "Administratio Nubium",
+        "2": "Hospitalitas &",
+        "3": "AWS DevOps"
+      },
+      "subtitle": "Hospitare cum firmitate praecipua. Dispositum in podis microservitii multiversorum locorum, libratoribus ponderis AWS administratis, retibus quaerendi CDN, et stratis imaginum subsidiariarum automatariis.",
+      "badgeText": "DevOps Summae Availability",
+      "badges": {
+        "0": "Receptacula Multiversorum Locorum",
+        "1": "Securitas TLS ECDSA",
+        "2": "Caching Itineris Nginx",
+        "3": "Metrica telemetriae Grafana"
+      },
+      "btn_primary": "Dispone Nubem Summae Celeritatis",
+      "btn_secondary": "Get Server Quote",
+      "agent": {
+        "role": "Supervisor Congregationis Securitatis",
+        "msg": "Portus MMM securus. Incursus activus VIII.IVms."
+      },
+      "mockup": {
+        "terminal": "TERMINALIS SECURITATIS SHELL",
+        "status": "CONGREGATIONES_ONLINE",
+        "cpu_title": "Pondus Core CPU",
+        "cpu_util": "Usus",
+        "deploy_cmds": "Dispone mandata sandbox",
+        "btn_webhooks": "Webhooks Parata",
+        "btn_scale": "Scande Receptaculum"
+      }
+    },
+    "ai": {
+      "title": {
+        "1": "Integration IA",
+        "2": "Consuetudinis &",
+        "3": "Vicarii LLM"
+      },
+      "subtitle": "Incorporate sine sutura robustas LLM entreprisarum in repositoriis datorum localibus securis. Construe dispositores tesserarum automatarios, bases cognitionis colloquiales, et nodos classificationis datorum automatarios.",
+      "badgeText": "AI Engine Integrators",
+      "badges": {
+        "0": "Gemini / OpenAI API",
+        "1": "Synchronizatio datorum vectoralis",
+        "2": "IA dispositionis autonomae",
+        "3": "Webhooks systematis CRM"
+      },
+      "btn_primary": "Incorporate IA Consuetudinis",
+      "btn_secondary": "Adumbra Consilium IA",
+      "agent": {
+        "role": "Architectus Principalis LLM",
+        "msg": "Synchronizatio repositorii datorum vectoralis prospere perfecta est."
+      },
+      "mockup": {
+        "orchestrator": "MODERATOR FLUXUS OPERIS IA",
+        "active_module": "MODULUS ACTIVUS",
+        "user_role": "Postulatio Usoris Visitantis",
+        "agent_role": "Vicarius Dispositor Autonomus",
+        "processing": "Responsum per canales neurales paratur...",
+        "select_params": "Elige parametra postulationis simulata",
+        "btn_trigger_secp": "🚀 Move integrationem parametri nodi SECP",
+        "btn_generate_vector": "🤖 Gignere optimizationem schematum Vectorum"
+      },
+      "online_msg": "Systemata in linea. Elige parametrum fluxus operis automatarium infra ut responsum sandbox vivum gignatur.",
+      "default_response": "Synchronizationes fluxus operis dispositionis autonomae activae.",
+      "streaming": {
+        "0": "Parametra itineris securantur... Strata API parata ad ligandum in nodis corporalibus Peshawar.",
+        "1": "Schemata synchronizantur. Creati sunt XIV vectores classificationis dynamici cum logica OpenAI/Gemini.",
+        "2": "Optimizatur. Proferuntur structurae semanticae plene paratae ad respondendum, quae repens continuum sustinent."
+      }
+    },
+    "uiux": {
+      "title": {
+        "1": "Forma UI/UX",
+        "2": "& Prototypa",
+        "3": "Interactiva"
+      },
+      "subtitle": "Tradimus adumbrationes structurales, prototypa interactiva, systemata plena formae, et transitiones Figma evolutoribus paratas. Quisque pixel locum suum meretur et ad convertendum aedificatur.",
+      "badgeText": "Studio Formae UI/UX",
+      "badges": {
+        "0": "Spatium Operis Figma",
+        "1": "Prototypa Interactiva",
+        "2": "Transitio ad Evolutores",
+        "3": "Formae ab Usoribus Probatae"
+      },
+      "btn_primary": "Conduce Formatorem UI/UX",
+      "btn_secondary": "Postula Precium UI/UX",
+      "agent": {
+        "role": "Formator Primarius UI",
+        "msg": "Systema formae Figma renovatum est."
+      },
+      "mockup": {
+        "workbench": "MENSULA VISUALIS CREATIVA",
+        "canvas": "CANVAS FIGMA",
+        "zoom": "C% Magnitudo",
+        "switch": "Muta Conspectus Canvas",
+        "btn_wireframes": "Adumbrationes Structurales",
+        "btn_system": "Systema Formae",
+        "btn_mobile": "Prototypum Mobile"
+      }
+    },
+    "video": {
+      "title": {
+        "1": "Redactio Video",
+        "2": "& Graphica",
+        "3": "Movens"
+      },
+      "subtitle": "Video demonstrationis productorum, animationes explicativae, et materia socialis maximi effectus, optimizata pro algorithmis YouTube, Instagram Reels, TikTok, et LinkedIn.",
+      "badgeText": "Laboratorium Graphicae Moventis",
+      "badges": {
+        "0": "After Effects",
+        "1": "Premiere Pro",
+        "2": "Video Explicativum",
+        "3": "Paratum pro Reels/TikTok"
+      },
+      "btn_primary": "Incipe Inceptum Video",
+      "btn_secondary": "Accipe Propositum Redactionis",
+      "agent": {
+        "role": "Formator Primarius Motus",
+        "msg": "Tempora video socialis optimizata sunt."
+      },
+      "mockup": {
+        "renderer": "REDDITOR TEMPORIS",
+        "comp": "IVK_ULTRA_COMP",
+        "live_preview": "PRAEVENTUS RECTUS",
+        "telemetry": "Telemetria Redditionis Video",
+        "encoder": "Codificator Activus",
+        "encoder_val": "AV1 High Profile",
+        "latency": "Latentia Lineae Temporis",
+        "latency_val": "0.Vms (Sine Mora Frami)"
+      }
+    },
+    "saas": {
+      "title": {
+        "1": "Systemata SaaS",
+        "2": "& Custom",
+        "3": "Software"
+      },
+      "subtitle": "We architect and build full-featured SaaS platforms from the ground up — multi-tenant database architecture, Stripe/Paddle subscription billing, admin super-dashboards, and role-based access control.",
+      "badgeText": "Enterprise SaaS Studio",
+      "badges": {
+        "0": "Multitenentia",
+        "1": "Accessus in Munere Fundatus",
+        "2": "Rationes Stripe",
+        "3": "Libramentum Horizontale AWS"
+      },
+      "btn_primary": "Aedifica Systema SaaS",
+      "btn_secondary": "Accipe Consultationem SaaS",
+      "agent": {
+        "role": "Architectus Principalis SaaS",
+        "msg": "Recognitio architecturae systematis perfecta est."
+      },
+      "mockup": {
+        "admin_metrics": "METRICA ADMIN SaaS",
+        "active_clusters": "CONGREGATIONES ACTIVAE",
+        "db_conn": "Conexio Repositorii Datorum",
+        "active": "● Activa",
+        "api_health": "Index Salutis API",
+        "tenancies": "Omnes Tenentiae Activae",
+        "nodes": "Nodi"
+      }
+    },
+    "graphics": {
+      "title": {
+        "1": "Graphica &",
+        "2": "Notae",
+        "3": "Identitas"
+      },
+      "subtitle": "Constitue res identitatis commercialis supremae. Formulae typographiae modernae, systemata Figma integrata, metrica harmoniae colorum, et res proprietatis notae editabiles summae qualitatis.",
+      "badgeText": "Laboratoria Creativa Graphices UX/UI",
+      "badges": {
+        "0": "Systemata consilii notae",
+        "1": "Vectores Figma summae fidelitatis",
+        "2": "Fons duces manualium notae",
+        "3": "Structurae dispositionis flexibiles"
+      },
+      "btn_primary": "Accipe Formam UI Consuetudinis",
+      "btn_secondary": "Accipe Precium Formae Notae",
+      "agent": {
+        "role": "Formator Principalis Producti",
+        "msg": "Regulae typographiae et duces stili notae novi creati sunt."
+      },
+      "mockup": {
+        "workbench": "MENSULA VISUALIS CREATIVA",
+        "figma_canvas": "CANVAS FIGMA",
+        "identity_pro": "Lumio Identity Pro",
+        "dimensions": "Dimensiones Vectoris:",
+        "angle": "Angulus:",
+        "select_themes": "Elige palettas colorum simulatas",
+        "width": "Latitudo:"
+      }
+    },
+    "slogan": {
+      "squad": "Squad",
+      "connect": "Connect",
+      "conquer": "Conquer"
+    },
+    "robot": {
+      "click_me": "Preme Me!",
+      "switch_service": "Ut mutes servitium"
+    },
+    "short_name": {
+      "website_development": "Evolutio Textuum Corp",
+      "mobile_apps": "Applicationes Mobiles",
+      "digital_marketing": "SEO Incrementi & Mercatus",
+      "hosting": "Hospitalitas Nubium",
+      "ai_solutions": "IA Autonoma LLM",
+      "graphic_designing": "Forma Graphica",
+      "saas_systems": "Systemata SaaS",
+      "web_development": "Evolutio Textuum",
+      "ui_ux_design": "Forma UI/UX",
+      "graphics_branding": "Notae & Graphica",
+      "video_editing": "Video & Motus",
+      "seo_marketing": "Mercatus SEO"
+    },
+    "form": {
+      "validation": "Porrige Nomen tuum et Inscriptionem Electronicam.",
+      "error": "Error communicationis in iungendo cum servitiis posterioribus.",
+      "default_company": "Socius Intracus Heroum",
+      "default_rfp": "Postulatio RFP Intracus Heroum pro: {{service}} sub {{level}}",
+      "default_level": "MEDIA SCALA",
+      "default_service": "Servitia"
+    },
+    "hosting_logs": {
+      "0": "SQODEX_CORE :: STATUS VIVUS INITIALIZATUS",
+      "1": "ZONA_INGRESSUS :: PK_PESHAWAR_PRIMARIA",
+      "2": "SCUTUM_DDoS :: ACTIVATUM IN PORTU MMM",
+      "3": "PARATUM AD ACCIPIENDUM PACKS MANDATORUM..."
+    },
+    "marketing_keywords": {
+      "0": {
+        "word": "Sqodex Peshawar",
+        "ranked": true
+      },
+      "1": {
+        "word": "Sovereign SEO App",
+        "ranked": true
+      },
+      "2": {
+        "word": "React Web Dev Pakistan",
+        "ranked": false
+      }
+    },
+    "pricing_tiers": {
+      "website-development": {
+        "0": {
+          "level": "Sarcina Essentialis",
+          "range": "$100 - $300",
+          "desc": "Perfectum pro inceptis novis localibus quae auctoritatem constituere volunt cum dispositionibus simplicibus.",
+          "speed": "Traditio intra 3-5 dies",
+          "metric": "Examen Core SEO Factum"
+        },
+        "1": {
+          "level": "Suggestum Professionale",
+          "range": "$300 - $800",
+          "desc": "Pro notis crescentibus quae integrationes portarum consuetudinis, API, et imperium CMS postulant.",
+          "speed": "Traditio intra 7-12 dies",
+          "metric": "CMS Interactivum in Tempore Reali"
+        },
+        "2": {
+          "level": "Series Entreprisarum",
+          "range": "$800 - $2000+",
+          "desc": "Forma consuetudinis summae scalae quae replicationes automatarias, SLA et Nodum Dedicatum continet.",
+          "speed": "Traditio intra 15-25 dies",
+          "metric": "99.9% Cloud Ingress SLA"
+        }
+      },
+      "mobile-apps": {
+        "0": {
+          "level": "Putamen App Consuetudinis",
+          "range": "$100 - $300",
+          "desc": "Formae praestantes unius suggesti ad ostentationem celerem iOS vel Android.",
+          "speed": "Traditio intra 10-14 dies",
+          "metric": "Repositorium Localis SQLite/Hive"
+        },
+        "1": {
+          "level": "Synchronizatio Omni-Store",
+          "range": "$1500 - $2500",
+          "desc": "App unificata Flutter/React Native quae accessum rationis dynamicum et deductionem trans-magazini sustinet.",
+          "speed": "Traditio intra 15-25 dies",
+          "metric": "Aditus Socialis Paratus"
+        },
+        "2": {
+          "level": "Series App Entreprisarum",
+          "range": "$2500 - $8000",
+          "desc": "Systema mobile corporale valde complexum et securum cum synchronisatione API posterioris et terminalibus solutionis.",
+          "speed": "Traditio intra 30-45 dies",
+          "metric": "VI Menses Sponsio Auxilii"
+        }
+      },
+      "digital-marketing": {
+        "0": {
+          "level": "Nodus Deductionis Loci",
+          "range": "$50 - $400/mo",
+          "desc": "Optimizatio core rependi, observatio verborum clavium basica, et reparationes indicis Google.",
+          "speed": "Continuum menstruum",
+          "metric": "XII Verba Clavia Magnae Utilitatis"
+        },
+        "1": {
+          "level": "Amplificator Auctoritatis",
+          "range": "$400 - $900/mo",
+          "desc": "Creatio formarum paginarum semanticarum, adquisitiones periodicis vinculorum externorum, et observatio metricae destinatae.",
+          "speed": "Continuum menstruum",
+          "metric": "L+ Verba Clavia Observata"
+        },
+        "2": {
+          "level": "Scala Summae Celeritatis",
+          "range": "$1200 - $2500/mo",
+          "desc": "Acceleratio plena infundibuli coniungens dispositiones SEO semanticas, PPC, et structuras Retargeting.",
+          "speed": "Continuum menstruum",
+          "metric": "Examina Viva Bis in Mense"
+        }
+      },
+      "hosting": {
+        "0": {
+          "level": "Instantia Scuti Nubis",
+          "range": "$25 - $50/mo",
+          "desc": "Nodus privatus virtualis qui celerrimam quaestionem CDN et imagines systematis quotidianas offert.",
+          "speed": "Continuum menstruum",
+          "metric": "Mitigatio DDoS"
+        },
+        "1": {
+          "level": "Multi-Core Librati Ponderis",
+          "range": "$99 - $199/mo",
+          "desc": "Congregationes summae avaetibilitatis pro hospitalitate SaaS efficientiae altae cum replicatione geographica.",
+          "speed": "Continuum menstruum",
+          "metric": "99.99% Avaetibilitas Sponsa"
+        },
+        "2": {
+          "level": "Pod Enterprise Kubernetes",
+          "range": "$350 - $800/mo",
+          "desc": "Series receptaculorum automataria scale built on distributed cloud instances pro influxibus commeatus extremis.",
+          "speed": "Continuum menstruum",
+          "metric": "Metrica Grafana Web UI"
+        }
+      },
+      "ai-solutions": {
+        "0": {
+          "level": "Sarcina Moderatoris",
+          "range": "$500 - $900",
+          "desc": "Dispone canales classificationis prudentis automatarios ad inquisitiones clientium ordinandas.",
+          "speed": "Traditio intra 7-10 dies",
+          "metric": "Integratio Gemini / OpenAI API"
+        },
+        "1": {
+          "level": "Chatbot Sapiens Interactivus",
+          "range": "$1200 - $2500",
+          "desc": "Adiutor colloquialis eruditus in base cognitionis consuetudinis ad breviaria clientium contextualiter servienda.",
+          "speed": "Traditio intra 14-20 dies",
+          "metric": "Synchronizatio Repositorii Datorum Vectoralis"
+        },
+        "2": {
+          "level": "Series Vicariorum Autonomorum",
+          "range": "$4500 - $9000",
+          "desc": "Fluxus operis operationum consuetudinis cum dispositione multiversorum vicariorum, classifieribus LLM, et sync CRM.",
+          "speed": "Traditio intra 25-40 dies",
+          "metric": "Canalis dispositionis IA sub-secundarius"
+        }
+      },
+      "graphic-designing": {
+        "0": {
+          "level": "Sarcina Identitatis Core",
+          "range": "$150 - $300",
+          "desc": "Formae insignis vectoris logotypi, lineae stili notae, et hierarchia editorialis.",
+          "speed": "Traditio intra 3-5 dies",
+          "metric": "Formae Vectoris Modernae"
+        },
+        "1": {
+          "level": "Nota Corp Creativa",
+          "range": "$400 - $800",
+          "desc": "Systemata visualia integrata, pignora digitalia, et res mercatus summae qualitatis.",
+          "speed": "Traditio intra 6-10 dies",
+          "metric": "VI Formae Consuetudinis Editabiles"
+        },
+        "2": {
+          "level": "Systema Plenum Producti",
+          "range": "$1200 - $2500",
+          "desc": "Bibliotheca componentium Figma summae fidelitatis, iconographiae vectoris consuetudinis, et dispositiones plene responsivae.",
+          "speed": "Traditio intra 12-18 dies",
+          "metric": "Aditus Ad Fontem Magistrum Figma"
+        }
+      }
+    }
+  },
+  "workflow": {
+    "process": "Processus Noster",
+    "title_main": "Ab idea usque ad deductionem in",
+    "title_highlight": "quattuor gradibus claris.",
+    "desc": "Cyclus vitae systematicus et praedicibilis designatus ad producta digitalia summae efficientiae ab initio ad scalam tradenda.",
+    "steps": {
+      "0": {
+        "title": "Vocatio Inventionis",
+        "desc": "Discimus fines, usores, tempora, et impensas tuas in sessione gratuita XXX minutarum. Sine nugis."
+      },
+      "1": {
+        "title": "Propositum & Scopus",
+        "desc": "Accipis scopum incepti detaliatum, tempora, et propositum preti fixi intra XLVIII horas."
+      },
+      "2": {
+        "title": "Forma & Aedificatio",
+        "desc": "Squadra nostra ad opus se confert. Certior fias cum inspectionibus hebdomadariis et tabula incepti communi."
+      },
+      "3": {
+        "title": "Deductio & Auxilium",
+        "desc": "Disponimus, probamus, et tradimus productum politum — deinde praesto manemus pro auxilio continuo."
+      }
+    }
+  },
+  "why_choose_us": {
+    "badge": "CUR SQODEX",
+    "title_main": "Cur Eligas",
+    "title_highlight": "SQODEX",
+    "desc": "Tradimus producta digitalia summae efficientiae quae marcas adiuvant ut crescant. Hic est quomodo nos ab aliis separamus.",
+    "card1": {
+      "title": "Solutiones Integerrimae",
+      "desc": "A descriptione strategica usque ad dispositionem globalem, integrum cyclum vitae technicum administramus ut turma tua in amplificationem mercati intendere possit."
+    },
+    "card2": {
+      "title": "Integratio Stack Proximae Generationis",
+      "desc": "Informatum utendo stack modernis inclusis React, Node.js, Flutter, et Kotlin cum efficientia et scalabilitate sponsis."
+    },
+    "card3": {
+      "title": "Flexibilitas Stack",
+      "desc": "Stack technica ex mensura perfecte accommodata ad necessitates negotii tui, curans efficientiam optimam, scalabilitatem, et conservationem longam. Visio tua, stack tuum, peritia nostra."
+    },
+    "card4": {
+      "title": "Efficientia, Analytica & Auxilium",
+      "desc": "Conservatio plena post deductionem, observatio efficientiae, et servitia emendationis continuae ut res tuae digitales cum finibus negotii tui evolvantur."
+    },
+    "card5": {
+      "title": "Examina Securitatis & Recuperatio",
+      "desc": "Protege res tuas digitales cum servitiis nostris examinis securitatis plenariis. Invenimus vulnera et praebemus solutiones robustas recuperationis ad data et operationes tuas tutandas."
+    },
+    "card6": {
+      "title": "Innovatio Futura Tuta",
+      "desc": "Obtine commodum ferox statim. Infundimus facultates novissimas — ab IA/LLM usque ad microservitia autonoma — in nucleo producti tui hodie."
+    }
+  },
+  "services": {
+    "what_we_do": "QUID FACIAMUS",
+    "explore_our": "Explora Nostra",
+    "services": "Servitia",
+    "description": "A forma consuetudinis usque ad deductionem finalem, producta digitalia summae efficientiae aedificamus quae notam tuam adiuvant ut crescat, clientes attrahat, et reditus augeat."
+  },
+  "footer": {
+    "corporate_services": "Servitia Corporalia",
+    "newsletter_title": "Epistulae Publicae & Acta Technica",
+    "newsletter_desc": "Accipe renovationes strategicas de architecturis textuum modernis, forma productorum, et consiliis IA.",
+    "subscribe": "Subscribe",
+    "subscribe_alert": "Subscriptio epistularum simulata perfecta est.",
+    "ssl_secured": "Stratum Securatum SSL",
+    "official_site": "Situs Officialis",
+    "slogan": "Squad. Connect. Conquer.",
+    "description": "Structurae textuum consuetudinis, architecturae mobiles hybridae, nodi Docker entreprisarum, et munera SEO programmata administrata ab ingeniariis digitalibus senioribus intra Peshawar, Pakistan.",
+    "hq": "HQ: Peshawar, KPK",
+    "copyright": "Sqodex Digital Service Provider. Iura Proprietatis Intellectualis Suprema Servata.",
+    "ssl": "Stratum Securatum SSL",
+    "newsletter_placeholder": "nomen@societas.com",
+    "back_to_top": "Sursum redi"
+  },
+  "about": {
+    "slogan": "Squad | Connect | Conquer",
+    "title_prefix": "Paratus Es Crescere",
+    "title_suffix": "Negotium Tuum?",
+    "p1_text": "est procuratio digitalis plenaria. Coniungimus consilia mercatus creativa cum solutionibus datis nixis ad notam tuam amplificandam, clientes praecipuos attrahendos, et reditus tuos accelerandos.",
+    "p2_text": "Convertimus magnas ideas tuas in actiones digitales summae efficientiae. Coniungendo consilium mercati cum technologia nova, aedificamus identitates notas potentes quae operam rapiunt, pignus clientium augent, et incrementum negitii mensurabile tradunt.",
+    "values_title": "Virtutes Nostrae Core",
+    "stats": {
+      "0": {
+        "label": "Anni Excellentiae"
+      },
+      "1": {
+        "label": "Marcae In Orbe Terrarum"
+      },
+      "2": {
+        "label": "Incepta Transmissa"
+      },
+      "3": {
+        "label": "Satisfactio Clientium"
+      }
+    },
+    "values": {
+      "0": {
+        "title": "Laetitia",
+        "desc": "Turmae laetae effectus extraordinarios pro nota tua tradunt."
+      },
+      "1": {
+        "title": "Honestas",
+        "desc": "Communicatio transparens fiduciam clientium frangi nesciam aedificat."
+      },
+      "2": {
+        "title": "Dedicatio",
+        "desc": "Intentio implacabilis in perficiendis finibus incrementi negotii tui."
+      },
+      "3": {
+        "title": "Transparentia",
+        "desc": "Processus evolutionis clari et relationes apertae in omni gradu."
+      },
+      "4": {
+        "title": "Empathia",
+        "desc": "Intellegere graves provocationes tuas ad solutiones consuetudinis fingendas."
+      }
+    }
+  },
+  "data": {
+    "categories": {
+      "website-development": {
+        "name": "Evolutio Textuum Full Stack",
+        "name": "Full Stack Web App Development",
+        "desc": "Applicationes textuum full-stack modernae aedificatae cum Next.js, React, Node.js, MongoDB, PostgreSQL, authenticatione, moderaculis, API, et dispositione productionis.",
+        "whatsIncluded": "Aedifico applicationes textuum full-stack completas ab idea usque ad productionem utendo technologiis modernis, celeribus, et scalabilibus. Hoc servitium utile est si eges app negotii, suggestum SaaS, portam clientium, moderaculum admin, systema praenotationis, forum, vel productum textus consuetudinis.",
+        "bestFor": "Incepta nova, procurationes, conditores, et negotia quae evolutorem fidelem egent ad applicationem textus seriam aedificandam, non modo situm staticum.",
+        "whatICanBuild": {
+          "0": "Apps textuum full-stack cum Next.js, React, TypeScript, et Node.js",
+          "1": "Authenticationem, itinera protecta, munera usorum, et moderacula admin",
+          "2": "API REST, modella repositoriorum datorum, logicam negitii, et fluxus operis posteriores",
+          "3": "Formam et integrationem repositoriorum datorum MongoDB vel PostgreSQL",
+          "4": "UI frontalem responsivam cum UX nitida et celeritate onerandi alta",
+          "5": "Dispositionem productionis cum variabilibus loci, dominiis, et SSL"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Recognitio necessitatum",
+            "desc": "Perspicio ideam app tui, facultates, usores, fluxus operis, et necessitates technicas."
+          },
+          "1": {
+            "title": "Consilium architecturae",
+            "desc": "Plano frontalem, posteriorem, modella datorum, API, et fluxum evolutionis."
+          },
+          "2": {
+            "title": "Evolutio",
+            "desc": "Aedifico applicationem cum codice nitido, UI responsiva, et logica posteriore."
+          },
+          "3": {
+            "title": "Probatio et traditio",
+            "desc": "Probo fluxus praecipuos, vitia corrigo, et app pro productione vel transitione paro."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Ideam incepti vel indicem facultatum",
+          "1": "Fasciculum formae, situm indices, vel adumbrationem structuralem si praesto est",
+          "2": "Stack technicam praelatam si iam constituta est",
+          "3": "Necessitates repositorii datorum vel API",
+          "4": "Singula dispositionis si iam hospitalitatem habes"
+        },
+        "faqs": {
+          "0": {
+            "question": "Potesne aedificare et frontalem et posteriorem partem?",
+            "answer": "Ita, praebeo evolutionem completam full stack ab initio ad finem."
+          },
+          "1": {
+            "question": "Quo stack uteris?",
+            "answer": "Stack meum primarium est Next.js, React, Node.js, et MongoDB/PostgreSQL."
+          }
+        }
+      },
+      "mobile-apps": {
+        "name": "Evolutio Applicationum Mobilium",
+        "desc": "Apps nativae & trans-suggestorum pro iOS et Android quae experientias usorum extraordinarias tradunt cum framis fluidis, aditu sine linea locali, et architecturis nitidis. React Native quoque, automatizatio, CI/CD, github, paywalls, et integratio RevenueCat.",
+        "whatsIncluded": "Evolutio applicationum mobilium nativarum et trans-suggestorum efficientiae altae pro iOS et Android. Teget architecturas mobiles nitidas, animationes fluidas, status datorum locales, submissiones ad magazina app, et fluxus monetae factae.",
+        "bestFor": "Incepta nova et entreprisae quae praesentiam mobilem egent.",
+        "whatICanBuild": {
+          "0": "Applicationes mobiles trans-suggestorum (iOS & Android) per Flutter/React Native",
+          "1": "Google Maps interactiva & servitia tracking locorum",
+          "2": "Facultates IA in apparatu & integrationes modellorum machinae discentis",
+          "3": "Securitatem biometricam (Authenticatio FaceID/Fingerprint)",
+          "4": "Integrationes Google AdMob & praeconiorum consuetudinis",
+          "5": "Paywalls RevenueCat & structuras subscriptionis pro pecunia facienda",
+          "6": "Repositoria datorum localia primum (SQLite, Realm, WatermelonDB)",
+          "7": "Canales automatarios CI/CD & submissiones fastlane ad magazina app"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Inventio",
+            "desc": "Analyse fines suggesti, itinera usorum, leges magazini app, et consilia monetae."
+          },
+          "1": {
+            "title": "Forma",
+            "desc": "Creo dispositiones mobiles responsivas, adumbrationes, et optiones repositorii securi."
+          },
+          "2": {
+            "title": "Evolutio",
+            "desc": "Facio probationes in apparatu locali, probationes datorum localium, et cyclos traditionis aedificationum."
+          },
+          "3": {
+            "title": "Traditio",
+            "desc": "Perficio executionem emissionis ad Google Play Store et Apple App Store."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Ideam app tui",
+          "1": "Populum destinatum",
+          "2": "Praeferentias formae"
+        },
+        "faqs": {
+          "0": {
+            "question": "Utrum in magazinis app publicetis?",
+            "answer": "Ita, curamus integrum processum publicationis ab initio ad finem."
+          },
+          "1": {
+            "question": "Flutter an React Native?",
+            "answer": "Suademus Flutter pro apps visualibus efficientiae altae, et React Native pro stack quae JavaScript valde utuntur."
+          }
+        }
+      },
+      "digital-marketing": {
+        "name": "Mercatus Digitalis",
+        "desc": "Optimizatio SEO plena, auctus semantici, Google PPC, actiones sociales destinatae, et consilia materiae strategicae quae incrementum organicum et acquisitionem clientium mensurabilem movent.",
+        "whatsIncluded": "Actiones mercatus in linea plenae et ex datis nixae quae commeatum et rationes conversionis tuae augent. Includit structuram PPC, praeconia socialia, analyticam incrementi, mercatum electronicum, et examina optimizationis conversionis.",
+        "bestFor": "Negotia quae duces generare, venditiones menstruas amplificare, et reditus in impensas praeconiorum (ROAS) maximizare volunt.",
+        "whatICanBuild": {
+          "0": "Actiones praeconiorum quaerendi summae conversionis in Google Ads",
+          "1": "Infundibula praeconiorum socialium destinata (Meta, LinkedIn, TikTok)",
+          "2": "Paginas appulsus optimizatas cum probationibus strictis A/B",
+          "3": "Observationem ducum automatariam & integrationes fluxus operis CRM",
+          "4": "Moderaculum analyticum detaliatum designans ROAS et acquisitionem clientium",
+          "5": "Actiones electronicas guttatim cum sequentiis motus automatariis",
+          "6": "Verba efficientiae designata specialiter pro conversionibus",
+          "7": "Structuras tracking pixel et conversionis API tracking (CAPI)"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Examen",
+            "desc": "Inspicio infundibulum acquisitionis vigens, populum destinatum, et actiones competitorum."
+          },
+          "1": {
+            "title": "Consilium",
+            "desc": "Constituo indices verborum clavium destined, exempla descriptionum, et imperia impensarum."
+          },
+          "2": {
+            "title": "Executio",
+            "desc": "Mitto praeconia destinata, observo systemata tracking, et colligo metrica punctorum."
+          },
+          "3": {
+            "title": "Optimizatio",
+            "desc": "Facio probationes verborum A/B, excludo locationes minus efficientes, et scando actiones conversionis."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Regulas impensarum praeconiorum",
+          "1": "Profila populi destinati",
+          "2": "Pignora notae vel res visuales"
+        },
+        "faqs": {
+          "0": {
+            "question": "Quomodo metrimini successum actionis?",
+            "answer": "Observamus metrica conversionis sicut precium-per-ducem, precium-per-acquisitionem (CPA), et plenum Reditum in Impensas Praeconiorum (ROAS)."
+          },
+          "1": {
+            "question": "Quibus retibus praeconiorum incohare debemus?",
+            "answer": "Google Ads optimum est pro proposito alto, dum Meta et LinkedIn optime valent pro attingendo populo visuali et professionali."
+          }
+        }
+      },
+      "hosting": {
+        "name": "Hospitalitas & AWS DevOps",
+        "desc": "Operationes hospitalitatis nubium gradus entreprisarum, salus status permanentis, libratio ponderis CDN, et imagines subsidiariae automatariae administratae celeritate maxima et latentia prope nihil.",
+        "whatsIncluded": "Forma architecturae nubis professionalis et administratio servatri. Optimizamus celeritates dispositionis, constituimus libratores ponderis, securamus repositoria datorum, planamus imagines subsidiarias, et minuimus latentiam applicationis.",
+        "bestFor": "Producta SaaS, procurationes commeatus alti, et portae activae quae firmitatem, scalabilitatem, et securitatem maximam egent.",
+        "whatICanBuild": {
+          "0": "Ambientes congregationis Kubernetes et Docker efficientiae altae",
+          "1": "Structuras architecturae nubis AWS (ECS/EKS), DigitalOcean, vel Vercel",
+          "2": "Librationem ponderis CDN & structuras distributionis globalis materiae",
+          "3": "Calendaria datorum subsidiariorum automataria cum cursibus recuperationis instantaneis",
+          "4": "Moderacula observationis servatri cum signis monitionis SMS instantaneis",
+          "5": "Formas dispositionis ponderis Nginx vel Apache consuetudinis",
+          "6": "Integrationes certificationis SSL et regulas strictas scuti defensoris",
+          "7": "Itinera migrationis servatri moventia repositoria datorum sine mora ulla"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Examen",
+            "desc": "Inspicio celeritates hospitalitatis vigentes, usum facultatum, et vulnera securitatis activa."
+          },
+          "1": {
+            "title": "Constitutio",
+            "desc": "Designo retia privata virtualia nubium, dispono nodos, et instituo scuta defensoria."
+          },
+          "2": {
+            "title": "Migratio",
+            "desc": "Tuto exscribo repositoria datorum, formas, et scripta cum probationibus inanibus."
+          },
+          "3": {
+            "title": "Auxilium",
+            "desc": "Formo metrica observationis, collectores actorum, et monitiones alertarum."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Litteras fidei aditus servatri vigentis",
+          "1": "Metrica commeatus et magnitudinis datorum approximata",
+          "2": "Exspectationes scalae"
+        },
+        "faqs": {
+          "0": {
+            "question": "Quomodo spondetis tempus lineae?",
+            "answer": "Utendo locationibus servatris redundantibus, itinere substitutionis nodi automatario, et speculatione datorum activa."
+          },
+          "1": {
+            "question": "Potesne migrare repositoria datorum nostrorum sine mora systematis?",
+            "answer": "Ita, formando exempla ad legendum tantum, synchronizando transationes vivas, et mutando itinera DNS horis minus occupatis."
+          }
+        }
+      },
+      "ai-solutions": {
+        "name": "Solutiones IA",
+        "desc": "Integratio seamlessly entreprisarum LLM, fluxus operationum automatici, vicarii colloquiales sapientes, et modella classificationis datorum designata ad minuendas impensas operationum.",
+        "whatsIncluded": "Incorporate intellegentiam artificiosam provectam in programmatibus negotii. Includit limationem subtilem LLM consuetudinis, fluxus operis vicariorum, adiutores colloquiales, modella classificationis, et extractionem datorum intellegentem.",
+        "bestFor": "Entreprisae quae impensas operationum minuere, pensa manualia automatizare, et intellegentiam in programmatibus suis introducere volunt.",
+        "whatICanBuild": {
+          "0": "Vicarios auxilii clientium IA cum recuperatione documentorum consuetudinis (RAG)",
+          "1": "Scripta automataria classificationis, ordinationis & adumbrationis electronicarum",
+          "2": "Modella intellegentia parsing documentorum et extractionis datorum",
+          "3": "Integrationes repositorii datorum vectoralis (Pinecone, pgvector) pro memoria",
+          "4": "Integrationes LLM consuetudinis (OpenAI, Claude, Gemini API)",
+          "5": "Modella sermonis in textum & integrationes transcriptionis vocis",
+          "6": "Catenas fluxus operis automatarias per LangChain vel LlamaIndex",
+          "7": "Systemata analyticae praedicitivae pro inclinationibus & consiliis negitii"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Aestimatio",
+            "desc": "Invenio pensa repetita, inspicio structuras datorum praesto, et definio veritatem destinatam."
+          },
+          "1": {
+            "title": "Forma",
+            "desc": "Fingo consilia promptorum, repositoria datorum memoriae, et rationes tesserarum securas."
+          },
+          "2": {
+            "title": "Evolutio",
+            "desc": "Aedifico scripta LLM, exsequor systemata RAG, et polio responsa contextus."
+          },
+          "3": {
+            "title": "Dispositio",
+            "desc": "Incorporate in moderaculis nucleorum, aedifico systemata observationis, et curro examina iudicii."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Definitionem claram pensi ad automatandium",
+          "1": "Exempla exituum pensi successorum",
+          "2": "Claves API vel documenta negitii cruda"
+        },
+        "faqs": {
+          "0": {
+            "question": "Quomodo prohibetis hallucinationem modelli IA?",
+            "answer": "Figendo LLM in repositoriis datorum vectoralibus utendo Retrieval-Augmented Generation (RAG) et applicando regulas strictas veritatis systematis."
+          },
+          "1": {
+            "question": "Utrum data mea adhibebuntur ad erudienda modella publica?",
+            "answer": "Non. Formamus itinera API quae non servant nec utuntur transationibus tuis ad eruditionem modelli publici."
+          }
+        }
+      },
+      "graphic-designing": {
+        "name": "Forma Graphica",
+        "desc": "Identitates visuales notarum praecipuae, systemata Figma interactiva, res visuales professionales sociales, et pignora mercatus summae qualitatis quae te ab aliis separant.",
+        "whatsIncluded": "Forma communicationis visualis summae qualitatis. Creamus res mercatus pulchras, formas mediorum socialium professionales, structuras praesentations, infographicas, et capsulas designatorum corporalium.",
+        "bestFor": "Marcae quae materia visuali summae qualitatis egent ad tollendum locum suum, alliciendos investitores, vel convertendos clientes in mediis socialibus.",
+        "whatICanBuild": {
+          "0": "Pignora mercatus praecipua et libellos corporales",
+          "1": "Structuras praesentations & formulas ostensionis summae conversionis",
+          "2": "Formas mediorum socialium (res Instagram, LinkedIn, YouTube)",
+          "3": "Infographicas visuales designantes data complexa",
+          "4": "Illustrationes vectoris consuetudinis & indices iconum",
+          "5": "Formas involucri paratas ad imprimendum & formas chartarum negitii",
+          "6": "Fasciculos PDF interactivos & libros digitales",
+          "7": "Systemata formae in Figma cum stilis textus/dispositionis reusabilibus"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Inventio",
+            "desc": "Exploro identitatem notae, praeferentias formae, et regulas nuntii destinati."
+          },
+          "1": {
+            "title": "Conceptus",
+            "desc": "Ostendo itinera visualia ascripta, palettas colorum, et dispositiones stili typographici."
+          },
+          "2": {
+            "title": "Productio",
+            "desc": "Evolvo dispositiones politas, icones, et infographicas in resolutione alta."
+          },
+          "3": {
+            "title": "Traditio",
+            "desc": "Profero exitus vectoris scalabiles (SVG, AI, PDF) et praebeo duces usoris."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Logotypum et regulas notae si praesto sunt",
+          "1": "Exemplum textus ascripti",
+          "2": "Imagines indices ad animationem"
+        },
+        "faqs": {
+          "0": {
+            "question": "An plenum dominium graphicorum accipiam?",
+            "answer": "Ita, accipis plenum dominium auctoris et fasciculos fontium originalium."
+          },
+          "1": {
+            "question": "Potesne aedificare formas quas postea edere possumus?",
+            "answer": "Ita, aedificamus formas modulares in Figma vel Canva quibus turma tua uti potest."
+          }
+        }
+      },
+      "saas-systems": {
+        "name": "Systemata SaaS & Programmata Consuetudinis",
+        "desc": "Architectamur et aedificamus suggesta SaaS plenaria ab imo sursum — architectura datorum multitenentium, rationes subscriptionis, moderacula administratoris, administratio usorum, et integrationes API. Si habes ideam SaaS, eam in systema productioni paratum vertemus.",
+        "whatsIncluded": "Architectura et aedificatio completa suggestorum Software-as-a-Service. Includit repositoria datorum multitenentium, modella robusta ordinationis usorum, subscriptiones Stripe Billing, acta inspectionis, et systemata clavium API evolutorum modernorum.",
+        "bestFor": "Entrepreneurs et societates quae novum SaaS incohant vel fluxus operis interni sui in systema nubis vertunt.",
+        "whatICanBuild": {
+          "0": "Systemata SaaS cum formis datorum multitenentium",
+          "1": "Integrationes solutionis Stripe vel Paddle cum consiliis gradatis",
+          "2": "Portas rationum detaliatas ostendentes metrica usus et syngraphas",
+          "3": "Moderacula admin pro observatione systematis et mandatis super-administratoris",
+          "4": "Systemata electronicarum transationum automataria (Postmark, SendGrid)",
+          "5": "Systemata administrationis clavium API pro clientibus integrationis",
+          "6": "Authenticationem multorum factorum (MFA) & fluxus securi tesserarum",
+          "7": "Dispositiones servatri scalabiles cum regulis itineris ponderis"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Consilium",
+            "desc": "Adumbro fluxus usorum, regulas permissionum, et vias subscriptionis."
+          },
+          "1": {
+            "title": "Architectura",
+            "desc": "Constituo modella datorum secura, itinera scalandi datorum, et ambientes nubium."
+          },
+          "2": {
+            "title": "Evolutio",
+            "desc": "Aedifico frontes modulares clientium, systemata posteriora, et webhooks solutionis."
+          },
+          "3": {
+            "title": "Deductio",
+            "desc": "Curro probationes penetrationis securitatis, formo dominia, et mitto ad productionem."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Indicem facultatum detaliatum",
+          "1": "Gradus usorum destinatos & modella preti",
+          "2": "Formas vel portas indices"
+        },
+        "faqs": {
+          "0": {
+            "question": "Quomodo administratis casus subscriptionis sicut cancellationes?",
+            "answer": "Utendo webhooks securis qui statim audiunt casus billing et privileges rationis usoris accommodant."
+          },
+          "1": {
+            "question": "Invenirene possumus subdominia pro unoquoque cliente?",
+            "answer": "Ita, constituimus dispositionem dynamicam ut clientes suggestum suum per `clientname.yoursaas.com` accedere possint."
+          }
+        }
+      },
+      "web-development": {
+        "name": "Evolutio Textuum",
+        "desc": "Applicationes textuum efficientiae altae et situs mercatus aedificati super stacks JavaScript modernis. React SPA, suggesta Next.js SSR, applicationes plenae MERN — tradita cum codice nitido, fundamentis firmis SEO, et sine ulla superfluitate.",
+        "whatsIncluded": "Aedificatio situs textuum responsivorum, modernorum, et celerrimorum. Includit optimizationem celeritatis paginae, structuram HTML nitidam, elementa UI interactiva, et dispositiones machinis quaerendi amicas.",
+        "bestFor": "Negotia quae praesentiam textus nitidam, celeritates onerandi maximas, et formam visualem modernam volunt.",
+        "whatICanBuild": {
+          "0": "Applicationes unius paginae celeres React et Next.js",
+          "1": "Situs corporales responsivos cum stilis visualibus nitidis",
+          "2": "Paginas appulsus mercatus optimizatas designatas ad convertendum",
+          "3": "Dispositiones commentariorum consuetudinis cum codicibus schematum machinis quaerendi amicis",
+          "4": "Animationes UI interactivas utendo Framer Motion",
+          "5": "Situs conexos cum suggestis CMS (Sanity, WordPress headless)",
+          "6": "Retia CSS plene responsiva congruentia mobilium et desktop",
+          "7": "Structuras onerandi imaginum optimizatas pro redditione celeris"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Adumbratio Structuralis",
+            "desc": "Convenimus de structura visuali, typographia, et hierarchia paginarum."
+          },
+          "1": {
+            "title": "Evolutio",
+            "desc": "Scribo codicem nitidum, semanticum cum stilo responsivo optimizato."
+          },
+          "2": {
+            "title": "Examen SEO",
+            "desc": "Confirmo calculos celeritatis paginae altos, addo notas metadata, et inspicio elementa dispositionis."
+          },
+          "3": {
+            "title": "Transitio",
+            "desc": "Formo DNS, transfero hospitalitatem, et trado fasciculos fontium originalium."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Materia textus paginae",
+          "1": "Regulas notae vel references stili",
+          "2": "Nomen dominii praelatum"
+        },
+        "faqs": {
+          "0": {
+            "question": "Quam celeriter situs textus onerabit?",
+            "answer": "Optimizamus codicem, imagines, et itinera traditionis ut calculos PageSpeed LXXXX+ attingamus."
+          },
+          "1": {
+            "question": "Utrum situs mobiles amici sint?",
+            "answer": "Ita, scribimus codicem layout dynamically ut omnibus viewportibus mobilium, tabularum, et desktop congruat."
+          }
+        }
+      },
+      "ui-ux-design": {
+        "name": "Forma UI/UX",
+        "desc": "Forma investigatione nixa et ab usoribus probata quae visitatores in clientes vertit. Tradimus adumbrationes structurales, prototypa interactiva, systemata plena formae, et transitiones Figma evolutoribus paratas. Quisque pixel locum suum meretur.",
+        "whatsIncluded": "Forma interfaciei et experientiae investigatione nixa. Includit itinera usorum detaliata, adumbrationes claras, formas summae fidelitatis pulchras, prototypa interactiva, et systemata formae Figma modularia.",
+        "bestFor": "Turmae quae novum productum programmatis mittunt vel interfaciem vigentem augent ad metrica usorum melioranda et deminuendum exitum.",
+        "whatICanBuild": {
+          "0": "Formas UI summae fidelitatis pro suggestis SaaS & apps textuum",
+          "1": "Interfacies visuales applicationum mobilium (iOS & Android) in Figma",
+          "2": "Prototypa interactiva ostendentia fluxus usorum et actiones",
+          "3": "Systemata Formae Figma cum componentibus & coloribus reusabilibus",
+          "4": "Adumbrationes structurales designantes paginas et dispositiones complexas",
+          "5": "Diagrammata itineris usorum & mappas utilitatis destinatae",
+          "6": "Adumbrationes paginarum appulsus conversionis optimizatas",
+          "7": "Sarcina rerum paratarum ad evolutionem & specificationes formae"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Investigatio",
+            "desc": "Perspicio fines usorum, cognosco dispositiones competitorum, et constituo proposita utilitatis."
+          },
+          "1": {
+            "title": "Adumbratio Structuralis",
+            "desc": "Creo lineas paginarum basicas nigras et albas ad ordinandam hierarchiam."
+          },
+          "2": {
+            "title": "Forma",
+            "desc": "Aedifico dispositiones pulchras, introduco colores, et constituo systema formae."
+          },
+          "3": {
+            "title": "Prototypum",
+            "desc": "Iungo dispositiones, formo animationes, et probo fluxus clientium."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Indicem facultatum systematis",
+          "1": "Profila populi destinati",
+          "2": "Apps vel dispositiones textuum indices"
+        },
+        "faqs": {
+          "0": {
+            "question": "Quibus instrumentis utimini pro forma?",
+            "answer": "Utimur Figma exclusive, quod recognitiones in tempore reali sinit et instrumenta transitus evolutoribus optima habet."
+          },
+          "1": {
+            "question": "Quomodo traditis formas evolutoribus?",
+            "answer": "Ordinando paginas nitide, utendo tesseris variabilium CSS, et instruendo res proprietatis."
+          }
+        }
+      },
+      "graphics-branding": {
+        "name": "Graphica & Identitas Notae",
+        "desc": "Logotypi, sarcinae notarum, formae sociales, forma praesentations, pignora mercatus, et omnia inter haec. Facimus notam tuam impossibilem ignorari.",
+        "whatsIncluded": "Creatio memorabilium identitatum corporalium notarum. Includit systemata logotyporum consuetudinis, regulas unificatas notae, dispositiones typographiae corporalis, libros colorum, et sarcinas mediorum socialium.",
+        "bestFor": "Societates novae quae locum suum in mercatu constituunt, vel marcae veteres quae renovationem visualem exsequuntur.",
+        "whatICanBuild": {
+          "0": "Systemata logotyporum corporalium consuetudinis (verba & icones)",
+          "1": "Regulas notae detaliatas & libros colorum typographiae",
+          "2": "Praesentations designantes virtutes corporales & servitia",
+          "3": "Formas chartarum negitii & stationary societatis unificatas",
+          "4": "Capita mediorum socialium notata & formas",
+          "5": "Sarcinas res digitales notatas (icones, labellas praesentations)",
+          "6": "Labellas involucri paratas ad imprimendum & graphica capsularum corporalia",
+          "7": "Regulas rerum vectoris designantes limites impressionis et textus"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Inventio",
+            "desc": "Aperio virtutes societatis, locum industriae, et stilos formae."
+          },
+          "1": {
+            "title": "Identitas",
+            "desc": "Adumbro conceptus visuales, probo logos, et construo harmonias colorum."
+          },
+          "2": {
+            "title": "Regulae",
+            "desc": "Evolvo regulas notae, definio hierarchias fontium, et constituo parametra spatii."
+          },
+          "3": {
+            "title": "Traditio",
+            "desc": "Profero exitus vectoris scalabiles (SVG, AI, PDF) et praebeo duces usoris."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Nomen societatis et virtutes",
+          "1": "Sectorem industriae destinatum",
+          "2": "Logos indices quos amas"
+        },
+        "faqs": {
+          "0": {
+            "question": "Quos fasciculos traditis?",
+            "answer": "Praebemus fasciculos vectores nitidos (AI, EPS, SVG) pro impressione et usu digitali, una cum imaginibus PNG transparentibus."
+          },
+          "1": {
+            "question": "Utrum chartas negitii designetis?",
+            "answer": "Ita, res stationary normales includuntur in sarcina identitatis notae nostrae."
+          }
+        }
+      },
+      "video-editing": {
+        "name": "Redactio Video & Graphica Movens",
+        "desc": "A video demonstrationis productorum et materia socialis usque ad testimonia corporalia et animationes explicativas — redactores nostri notam tuam moveri faciunt. Optimizatum pro YouTube, Instagram Reels, TikTok, et LinkedIn.",
+        "whatsIncluded": "Post-productio video professionalis et animatio. Includit purgationes audii, gradationem colorum, animationes titulorum, graphicas moventes, formam soni, et optimizationem pro omnibus retibus socialibus.",
+        "bestFor": "Negotia utentia video ad mercanda producta, explicanda servitia complexa, vel scalandos canales sociales suos.",
+        "whatICanBuild": {
+          "0": "Video demonstrationis producti summae conversionis et SaaS promo videos",
+          "1": "Video mediorum socialium allicientia (YouTube, Reels, TikTok)",
+          "2": "Video animationis explicativae cum integratione vocis",
+          "3": "Animationes titulorum dynamicorum & integrationes capitulorum",
+          "4": "Graphicas moventes designantes chartas & interfacies applicationum",
+          "5": "Redactiones testimoniorum corporalium et colloquiorum",
+          "6": "Purgationes audii professionales et mappas formae soni",
+          "7": "Gradationem colorum cinematicam & strata graphica"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Recognitio",
+            "desc": "Ordino clips crudas, perspicio scripta narrationis, et definio spatium temporis destinatum."
+          },
+          "1": {
+            "title": "Coagmentatio",
+            "desc": "Lineo vias vocis, loco clips praecipuas, et constituo dispositiones redactionis."
+          },
+          "2": {
+            "title": "Politio",
+            "desc": "Introduco animationes, scribo textus capitulorum, synchronizo audium, et gradio colores fasciculorum."
+          },
+          "3": {
+            "title": "Traditio",
+            "desc": "Reddo fasciculos in dimensionibus destinatis (16:9, 9:16) optimizatos pro oneratione textus."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Recordationes video crudas vel res proprietatis",
+          "1": "Scripta narrationis si quae sunt",
+          "2": "Exempla stili redactionis"
+        },
+        "faqs": {
+          "0": {
+            "question": "Utrum musicam liberam praebeatis?",
+            "answer": "Ita, incorporamus musicam sine iuribus regiis et effectus soni in omnibus redactionibus."
+          },
+          "1": {
+            "question": "Potesne redigere video verticalia pro canalibus socialibus?",
+            "answer": "Ita, reddimus formam verticalem optimizatam pro Instagram, TikTok, et YouTube Shorts."
+          }
+        }
+      },
+      "seo-marketing": {
+        "name": "SEO & Mercatus Digitalis",
+        "desc": "Examina SEO technica, optimizatio in pagina, consilium materiae, investigatio verborum clavium, aedificatio vinculorum externorum, et SEO locale. Locamus productum tuum ubi clientes tui iam quaerunt.",
+        "whatsIncluded": "Servitia optimizationis machinarum quaerendi completa ad augendos locos verborum clavium organicorum. Includit examina technica situs detaliata, mappas materiae semanticas, investigationem verborum clavium, actiones link-building, et SEO locale.",
+        "bestFor": "Societates quae incrementum ducum organicum et stabile volunt cum visibilitate quaerendi.",
+        "whatICanBuild": {
+          "0": "Relationes verborum clavium investigatas destinantes quaestiones usorum magnas",
+          "1": "Examina technica cognoscentia celeritatem situs et errores rependi",
+          "2": "Dispositiones paginarum appulsus SEO programmaticas pro verbis clavibus quaerendi",
+          "3": "Descriptiones meta, titulos, et hierarchias capitulorum optimizatas",
+          "4": "Data structurata et formas schematum pro paginis quaerendi",
+          "5": "Relationes analysis competitorum designantes occasiones locorum altos",
+          "6": "Calendaria materiae planantia commentarios informationales destinatos",
+          "7": "Formas SEO locales (Optimizatio Google Business Profile)"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Examen",
+            "desc": "Curro inspectiones salutis technicae situs, video locos vigentes, et errores indicis invenio."
+          },
+          "1": {
+            "title": "Consilium",
+            "desc": "Mappo verba clavia informationalia, plano mutationes textus, et invenio optiones vinculorum."
+          },
+          "2": {
+            "title": "Optimizatio",
+            "desc": "Renovo notas capitulorum, corrigo codicem structuralem, et rescribo scripta descriptionum."
+          },
+          "3": {
+            "title": "Incrementum",
+            "desc": "Evolvo commentarios blog optimizatos, aedifico vincula, et observo progressum indicis hebdomadarium."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "URL situs tui destinati",
+          "1": "Servitia vel locationes destinatas",
+          "2": "Aditum ad analyticam commeatus quaerendi vigentis"
+        },
+        "faqs": {
+          "0": {
+            "question": "Quantum temporis eget ut exitus quaerendi videantur?",
+            "answer": "Renovationes rependi initiales videntur intra 2-4 hebdomadas. Incrementum loci significans videtur intra 3-6 menses, pro certamine verborum clavium."
+          },
+          "1": {
+            "question": "Utrum commentarios destinatos scribitis?",
+            "answer": "Ita, aedificamus consilium materiae optimizatum pro quaerendo et scribimus commentarios informationales."
+          }
+        }
+      }
+    },
+    "projects": {
+      "proj-1": {
+        "title": "E-Commerce Velocity Hub",
+        "desc": "Taberna consuetudinis headless React & Node optimizata pro Core Web Vitals humillimis. Perfecit LXXXXIX+ in Google PageSpeed Insights, movens statim auctum XLII% in conversione normali.",
+        "clientName": "Velocity Retail Global",
+        "results": {
+          "0": {
+            "value": "LXXXXIX+",
+            "label": "Calculus Google PageSpeed",
+            "sublabel": "Omnia Core Web Vitals in viridi"
+          },
+          "1": {
+            "value": "XLII%",
+            "label": "Auctus rationis conversionis",
+            "sublabel": "Statim post deductionem"
+          },
+          "2": {
+            "value": "<Is",
+            "label": "Tempus ad interactivum",
+            "sublabel": "In apparatibus mobilibus 4G"
+          }
+        },
+        "challengesSolved": {
+          "0": {
+            "title": "Taberna legacy lenta",
+            "description": "Suggestum prius computabat sub XL in PageSpeed. Reformatio cum ISR et caching marginis impulit id super LXXXXIX."
+          },
+          "1": {
+            "title": "Exitus altus in mobilibus",
+            "description": "UI optimistica, oneratio skeleton, et TTI sub-1s deleverunt status morae qui exitum mobilem movebant."
+          },
+          "2": {
+            "title": "Data productorum vetera",
+            "description": "Invalitatio caching webhook-driven curat ut paginae reficiantur momento quo inventarium vel precium mutatur."
+          },
+          "3": {
+            "title": "Deminutio exitus solutionis",
+            "description": "Solutio unius paginae consuetudinis cum corbe permanente et autorepleto minuit exitum per XXVIII%."
+          }
+        },
+        "deliverables": {
+          "0": "Frons headless React separata a parte posteriore commercii pro scalando independenti",
+          "1": "Next.js ISR — paginae productorum reficiuntur in foundatione, sine plene renovationibus",
+          "2": "Stratum API Node.js consuetudinis administrans catalogum productorum, quaestionem, et personalizationem",
+          "3": "Dispositio Edge CDN cum invalitatione caching per webhooks in renovationibus inventarii",
+          "4": "Solutio unius paginae cum permanentia corbis, codicibus promo, et multiverteris monetis",
+          "5": "Examen et emendatio plena Core Web Vitals — LCP, CLS, FID omnia in viridi in omnibus paginis",
+          "6": "Canalis CI/CD proferens inspectiones Lighthouse automatarias ante omnem dispositionem"
+        }
+      },
+      "proj-2": {
+        "title": "AI-Powered Patient Flow Systems",
+        "desc": "Porta hospitalis triage intellegentis quae automatarie classificat postulationes medicas, disponit tesseras clinicales, et ordinat casus calendarii sub regulis severis.",
+        "clientName": "Sana Care MedLabs LLC",
+        "results": {
+          "0": {
+            "value": "LXXXV%",
+            "label": "Automatizatio triage",
+            "sublabel": "Sine interventu humano"
+          },
+          "1": {
+            "value": "XIVm",
+            "label": "Mora media patientis servata",
+            "sublabel": "Ab adventu usque ad dispositionem"
+          },
+          "2": {
+            "value": "0",
+            "label": "Vitia regularum",
+            "sublabel": "Sub cursibus inspectionis severis"
+          }
+        },
+        "challengesSolved": {
+          "0": {
+            "title": "Morae tesserarum manualium",
+            "description": "Postulationes venientes ordinabantur manu, sumentes usque ad XLV minutas ad disponendum ad clinicas normales."
+          },
+          "1": {
+            "title": "Vulnera securitatis",
+            "description": "Acta medica sensilia tractabantur in colloquiis internis non securis. Requirebatur cryptographia end-to-end."
+          },
+          "2": {
+            "title": "Ordinatio inflexibilis",
+            "description": "Duplicis praenotationes et mutationes manuales movebant rationes fatigationis altae provisorum."
+          }
+        },
+        "deliverables": {
+          "0": "Porta clinicalis triage patientium utendo canalibus LangChain provectis",
+          "1": "Itinera nuntiorum cryptographica end-to-end cum veriticatione HIPAA",
+          "2": "Administrator coordinationis multorum vicariorum solvens conflictus calendarii in tempore reali",
+          "3": "Ianua alertarum SMS notificans usores de renovationibus lineae"
+        }
+      },
+      "proj-3": {
+        "title": "Zenith Real Estate iOS app",
+        "desc": "Application nativa locorum conscia habens congregationem mappae in tempore reali, filtra proprietatum multorum graduum, et experientias visuum 3D virtualium in apparatu.",
+        "clientName": "Zenith Property LLC",
+        "results": {
+          "0": {
+            "value": "CCLk+",
+            "label": "Onerationes app",
+            "sublabel": "Intra primos III menses"
+          },
+          "1": {
+            "value": "III.IIx",
+            "label": "Tempus pignoris usoris",
+            "sublabel": "Comparatum cum textu mobile"
+          },
+          "2": {
+            "value": "IV.VIII★",
+            "label": "Aestimatio App Store",
+            "sublabel": "Super V,MMM opiniones activas"
+          }
+        },
+        "challengesSolved": {
+          "0": {
+            "title": "Redditio mappae lenta",
+            "description": "Onerare milia clavorum proprietatum faciebat ut mappae normales morarentur vel caderent in apparatibus mediis."
+          },
+          "1": {
+            "title": "Exitus altus in registratione",
+            "description": "Structurae aditus coactae prohibebant usores ab explorando. Requirebatur fluxus hospitis sine impedimento."
+          }
+        },
+        "deliverables": {
+          "0": "Application Flutter consuetudinis cum congregatione mappae nativa et administratione memoriae",
+          "1": "Filtra investigationis dynamica cum cursibus multorum attributorum et exitibus instantaneis",
+          "2": "Integratio paywall RevenueCat pro indicibus praecipuis subscriptionis",
+          "3": "Automatizatio canalis CI/CD Fastlane pro dispositione App Store"
+        }
+      },
+      "proj-4": {
+        "title": "SaaS Organic Traffic Explosion",
+        "desc": "Actiones structurae SEO informatae utentes verbis clavibus programmaticis, formis paginarum semanticarum, societatibus vinculorum externorum summae qualitatis, et formis Schema markup responsivis.",
+        "clientName": "Aura Metrics SaaS",
+        "results": {
+          "0": {
+            "value": "CCCXL%",
+            "label": "Incrementum commeatus organici",
+            "sublabel": "Intra primos IV menses"
+          },
+          "1": {
+            "value": "XVIII.Vk",
+            "label": "Verba clavia locata",
+            "sublabel": "Posita in Top X"
+          },
+          "2": {
+            "value": "$XXIVk",
+            "label": "Impensae menstruae praeconiorum servatae",
+            "sublabel": "Valor commeatus aequivalens"
+          }
+        },
+        "challengesSolved": {
+          "0": {
+            "title": "Nulla auctoritas dominii",
+            "description": "Marca nova sine ulla linea vinculorum externorum et errores indicis in Google Search Console."
+          },
+          "1": {
+            "title": "Impedimenta materiae tenuis",
+            "description": "Structurae titulorum duplicatae et semantica capitulorum prava prohibebant locos quaerendi altos."
+          }
+        },
+        "deliverables": {
+          "0": "Examen technicum solvens impedimenta rependi et reparationes celeritatis situs",
+          "1": "Renovationes linearum HTML semanticarum in omnibus formis paginarum appulsus",
+          "2": "Integratio data structurata schema pro fragmentis divitibus quaerendi",
+          "3": "Actio structurata aedificationis vinculorum externorum destinans fontes selectos"
+        }
+      },
+      "proj-5": {
+        "title": "High-Availability Docker Platform",
+        "desc": "Infrastructura microservitii Kubernetes migrans posteriorem partem legacy activam ad nodos AWS ECS scalabiles cum replicatione in tempore reali et sponsionibus substitutionis.",
+        "clientName": "Apex FinTech Services",
+        "results": {
+          "0": {
+            "value": "LXXXXIX.LXXXXIX%",
+            "label": "Sponsio temporis lineae",
+            "sublabel": "Tradita constanter"
+          },
+          "1": {
+            "value": "II.IVx",
+            "label": "Responsum posterius celerius",
+            "sublabel": "Per dispositionem ponderis CDN"
+          },
+          "2": {
+            "value": "0",
+            "label": "Interruptiones servitii",
+            "sublabel": "Intra migrationes dynamicas"
+          }
+        },
+        "challengesSolved": {
+          "0": {
+            "title": "Servater legacy unius nodi",
+            "description": "Suggestum prius hospitabatur in uno VPS cum damnis frequentibus memoriae et casibus commeatus alti."
+          },
+          "1": {
+            "title": "Errores claustri repositorii datorum",
+            "description": "Cycli asynchroni scribendi clientium movebant claustra tabularum et vitia transationum."
+          }
+        },
+        "deliverables": {
+          "0": "Ambies microservitii containerizatus cum formis Docker et Kubernetes",
+          "1": "Congregatio AWS ECS cum avaetibilitate multorum locorum et inspectionibus salutis itineris",
+          "2": "Libratores ponderis CDN formantes caching globalem et scuta defensoria DDoS",
+          "3": "Scripta automataria replicationis snapshot datorum horaria cum motibus recuperationis celeribus"
+        }
+      },
+      "proj-6": {
+        "title": "Lumio Rebranding and Design Guidelines",
+        "desc": "Designata identitas visualis nitida, moderna, habens sarcinas componentium modularium, systemata harmoniae colorum, illustrationes notas interactivas, et prototypa formas productorum.",
+        "clientName": "Lumio Energy Corp",
+        "results": {
+          "0": {
+            "value": "C%",
+            "label": "Sarcina modularis formae",
+            "sublabel": "Componentes Figma reusabiles"
+          },
+          "1": {
+            "value": "XL%",
+            "label": "Tempus evolutionis servatum",
+            "sublabel": "Utendo tesseris strictis formae"
+          },
+          "2": {
+            "value": "IIx",
+            "label": "Ratio conversionis altior",
+            "sublabel": "Per renovationem visualem praecipuam"
+          }
+        },
+        "challengesSolved": {
+          "0": {
+            "title": "Identitas visualis inconsequens",
+            "description": "Turmae diversae aedificabant paginas appulsus cum palettis colorum variantibus, moventes imaginem notae fractam."
+          },
+          "1": {
+            "title": "Transitiones componentium lentae",
+            "description": "Ingeniarii aedificabant botones et formas ab initio pro omni facultate nova, perdentes tempus evolutoris."
+          }
+        },
+        "deliverables": {
+          "0": "Systema visuale completum tegens logum consuetudinis, colores, et hierarchias typographiae",
+          "1": "Systema formae Figma cum botonibus stilitatis, campis, formis, et retibus dispositionis",
+          "2": "Sarcina formarum visualium mediorum socialium pro productione rerum mercatus",
+          "3": "Formae involucri paratae ad imprimendum pro distributionibus productorum physicalium"
+        }
+      }
+    },
+    "testimonials": {
+      "test-1": {
+        "clientName": "Ahmed R.",
+        "companyName": "PackFlow",
+        "role": "Conditor",
+        "content": "Sqodex aedificavit app nostrum Flutter intra VI hebdomadas et missum est sine ullis casibus die primo. Hi viri veri sunt."
+      },
+      "test-2": {
+        "clientName": "Sara M.",
+        "companyName": "TradeHub",
+        "role": "Directrix Mercatus",
+        "content": "Commeatus noster SEO crevit CCCXL% intra IV menses. Turma responsiva est, data nixa, et re vera explicant quid faciant."
+      },
+      "test-3": {
+        "clientName": "Bilal K.",
+        "companyName": "MoneyMover",
+        "role": "CEO",
+        "content": "Requirebamus systema SaaS completum et identitatem notae. Sqodex omnia administravit — in tempore, in impensis, et melius quam fingebamus."
+      },
+      "test-ecommerce": {
+        "clientName": "Director Digitalis",
+        "companyName": "Velocity Retail Global",
+        "role": "Director Digitalis",
+        "content": "Taberna nova non modo melius videbatur — statim movit rem in reditibus. Vidimus auctum conversionis intra primam hebdomadam vitae. Intentio turmae in efficientia reddidit fructum modo valde mensurabili."
+      },
+      "test-ai": {
+        "clientName": "Director Clinicalis",
+        "companyName": "Sana Care MedLabs LLC",
+        "role": "Director Clinicalis",
+        "content": "Systema triage rem mutavit. Automatizavimus super LXXXV% dispositionum normalium, et examina regularum perfecta fuerunt."
+      },
+      "test-hosting": {
+        "clientName": "Dux DevOps",
+        "companyName": "Apex FinTech Services",
+        "role": "Dux DevOps",
+        "content": "Constitutio servatri scuto tuta fuit. Administramus super Xx commeatus subitos sine ulla lentitudine vel claustris datorum."
+      },
+      "test-lumio": {
+        "clientName": "Director Notae",
+        "companyName": "Lumio Energy Corp",
+        "role": "Director Notae",
+        "content": "Tesserae formae novae et systema Figma plene unificaverunt producta nostra. Tempus evolutionis statim cecidit."
+      }
+    },
+    "pricing": {
+      "price-web-1": {
+        "name": "Nodus Appulsus Incrementi",
+        "description": "Ideale pro inceptis novis et ostensionibus marcarum praecipuarum quae celeritatem extraordinariam volunt.",
+        "period": "semel",
+        "features": {
+          "0": "Forma Dispositionis React Consuetudinis",
+          "1": "Optimizatio Responsiva Tailwind",
+          "2": "Integratio Metadata Nuclei SEO",
+          "3": "Integratio Formae Verificatae reCAPTCHA",
+          "4": "III Menses Observationis Servatri Vivae"
+        }
+      },
+      "price-web-2": {
+        "name": "Multi-Core Entreprisarum",
+        "description": "Application scalabilis plena habens portam consuetudinis, nexus API, et synchronisationem posteriorem.",
+        "period": "semel",
+        "features": {
+          "0": "Servater Next.js Hybrid Static-SSR",
+          "1": "Constitutio Hub Moderaculi CMS Pleni",
+          "2": "Replicationes Datorum Automatariae",
+          "3": "Nexus Alerterum Discord/Slack Instantanei",
+          "4": "Aditus Primarius 24/7 ad Operationes Servatri"
+        }
+      },
+      "price-mob-1": {
+        "name": "Putamen Deductionis Dynamicum",
+        "description": "Forma applicationis unius suggesti React Native/Flutter valde interactiva.",
+        "period": "semel",
+        "features": {
+          "0": "Unum Suggestum iOS vel Android",
+          "1": "Frami Visuales Fluidi Responsivi",
+          "2": "Aditus Rationis Socialis Auth0 / Google",
+          "3": "Machina Repositorii Localis Activata",
+          "4": "Paratio Dispositionis ad Magazinum"
+        }
+      },
+      "price-mob-2": {
+        "name": "Omni-Praesentia Universalis",
+        "description": "Experientia nativa aedificata simul pro utrisque magnis magazinie app cum sync nubis pleni.",
+        "period": "semel",
+        "features": {
+          "0": "Emissio Dualis Magazini (iOS & Android)",
+          "1": "Synchronizatio Nubis Secura",
+          "2": "Renovationes Push Locales in Tempore Reali",
+          "3": "Integratio Terminalis Solutionis",
+          "4": "VI Menses Sponsio Codicis Sine Vitiis"
+        }
+      },
+      "price-mkt-1": {
+        "name": "Locus Nuclei Loci",
+        "description": "Actiones strategicae intentae in aedificanda Auctoritate organica et solvendis impedimentis indicis.",
+        "period": "menstruum",
+        "features": {
+          "0": "Relatio Plena Integritatis Rependi",
+          "1": "Iniectiones HTML Semanticarum & Schema",
+          "2": "XII Verba Clavia Magnae Utilitatis",
+          "3": "Observatio Moderaculi Efficientiae",
+          "4": "Relatio Menstrua Metricae Incrementi"
+        }
+      },
+      "price-mkt-2": {
+        "name": "Hyper-Velocity Scale",
+        "description": "Programma accelerationis digitalis pleni infundibuli coniungens structuras SEO, PPC, et Retargeting.",
+        "period": "menstruum",
+        "features": {
+          "0": "Systema Organicum & Solutum Completum",
+          "1": "Webhooks Fluxus Automatarii Praeconiorum Ducum",
+          "2": "Infusio Materiae Strategicae Bis in Mense",
+          "3": "Vincula Externa Auctoritatis Altae (6/mo)",
+          "4": "Examina Viva in Tempore Reali Bis in Septimana"
+        }
+      },
+      "price-hst-1": {
+        "name": "Nodus Scuti Nubis",
+        "description": "Servater virtualis administratus, securus, fidelis, cum oneratione materiae globaliter celeri.",
+        "period": "menstruum",
+        "features": {
+          "0": "Gradus Repositorii SSD Summae Celeritatis",
+          "1": "Cache Globalis CDN Marginis Itineris",
+          "2": "Imago Subsidiaria Localis Automataria Quotidiana",
+          "3": "Certificatio SSL (Norma ECDSA)",
+          "4": "Praesidia Interceptionis DDoS"
+        }
+      },
+      "price-hst-2": {
+        "name": "Kubernetes Multi-Zone",
+        "description": "Series receptaculorum automataria scale distributa pro finibus SaaS commeatus alti modernis.",
+        "period": "menstruum",
+        "features": {
+          "0": "Podi Receptaculorum Summae Avaetibilitatis",
+          "1": "Replicatio Geographica Activa-Activa",
+          "2": "Observabilitas in Tempore Reali Grafana",
+          "3": "Constitutio Alertarum Custom Cloud Watch",
+          "4": "Sponsio SLA Nodi 99.99% Confirmata"
+        }
+      },
+      "price-ai-1": {
+        "name": "Sarcina Moderatoris Vicariorum",
+        "description": "Dispone canales dispositionis IA utiles ad inquisitiones clientium statim filtrandas.",
+        "period": "semel",
+        "features": {
+          "0": "Integratio Gemini / OpenAI API",
+          "1": "Classifier Colloquialis Tesserarum",
+          "2": "Sync Documentorum Base Cognitionis Custom",
+          "3": "Fluxus Iniectionis Contextus Ducum",
+          "4": "I Mensis Auxilii Integrationis"
+        }
+      },
+      "price-dsn-1": {
+        "name": "Structura Notae Core",
+        "description": "Sarcina rerum identitatis plene structurata parata ad locandum societatem tuam pro incremento entreprisarum.",
+        "period": "semel",
+        "features": {
+          "0": "Systema Logi Vectoris Moderni",
+          "1": "Duces Hierarchiae Typographiae & Colorum",
+          "2": "VI Formae Sociales Editabiles Qualitatis Altae",
+          "3": "Sarcina Chartarum Negitii & Stationary",
+          "4": "Aditus ad Fontem Rerum Figma"
+        }
+      }
+    }
+  },
+  "brands": {
+    "title": "Creditum a Marcis Praecipuis",
+    "digital_boost_world": "DIGITAL BOOST WORLD",
+    "digital": "DIGITAL",
+    "shoplite": "shoplite",
+    "ezaashop": "EZAASHOP",
+    "usecs": "USECS",
+    "codevenator": "CODEVENATOR",
+    "nexiestech": "nexiestech"
+  },
+  "whyChooseUs": {
+    "title": "Cur Nos Eligas",
+    "subtitle": "Commodum Sqodex",
+    "cards": {
+      "0": {
+        "title": "Ingenaria Senior",
+        "desc": "Omnis codex noster ab ingeniariis senioribus scribitur."
+      },
+      "1": {
+        "title": "Sine Superfluitate",
+        "desc": "Aedificamus apps valde optimizatas sine pluginis non necessariis."
+      },
+      "2": {
+        "title": "Architectura Scalabilis",
+        "desc": "Informatum ad administrandos milia usorum concurrentium."
+      }
+    }
+  },
+  "projects_page": {
+    "title": "Incepta",
+    "subtitle": "Explora opus nostrum recens",
+    "view_project": "Vide Singula Incepti",
+    "back": "Redi ad Domum",
+    "title_span": "Porta",
+    "desc": "Repositorium securum successus ingenariae digitalis. Merge in situs textuum vivos, producta programmata mobilia, et integrationes systematum provectas.",
+    "search_placeholder": "Quaere per titulum, technologiam, clientem...",
+    "show_favs": "Ostende Tantum Dilecta",
+    "filter_cat": "Filtra per Categoriam",
+    "all_projects": "Omnia Incepta",
+    "no_matches": "Nulla incepta congruentia inventa sunt",
+    "no_matches_fav": "Nondum ulla incepta dilecta notasti. Conare notare aliqua cum icone cordis.",
+    "no_matches_search": "Conare accommodare verba quaerendi vel eligere aliam categoriam ut alia incepta videas.",
+    "clear_favs": "Dele Filtrum Dilectorum"
+  },
+  "services_page": {
+    "seo_title": "Servitia Digitalia Nostra & Facultates | Sqodex Peshawar",
+    "seo_description": "Explora plenam seriem servitiorum digitalium ab Sqodex oblatorum: evolutio textuum, apps mobiles, systemata SaaS, forma UI/UX, et SEO.",
+    "back_to_home": "Redi ad Domum",
+    "title": "Nostra",
+    "title_span": "Porta Servitiorum",
+    "desc": "A structurali adumbratione initiali et prototypis interactivis usque ad systemata SaaS entreprisarum et mercatum digitalum alti ROAS, tradimus solutiones robustas, SEO-informatas accommodatas ad scalam negitii.",
+    "search_placeholder": "Quaere servitia, stacks technicas, suggesta...",
+    "no_results_title": "Nulla servitia congruentia inventa sunt",
+    "no_results_desc": "Conare accommodare verba quaerendi ut offerentia nostra core explores.",
+    "service_prefix": "SERVITIUM",
+    "more": "PLUS",
+    "view_service": "Disce Plus",
+    "all_services": "Omnia Servitia"
+  },
+  "project_card": {
+    "featured": "PRAECIPUUM",
+    "live_demo": "Demonstratio Viva",
+    "github": "GitHub",
+    "read_case_study": "Lege Studium Casus"
+  },
+  "project_detail": {
+    "not_found_title": "Studium Casus Non Inventum",
+    "return_home": "Redi ad Domum",
+    "back": "Redi",
+    "featured": "Praecipuum",
+    "case_study": "Studium Casus",
+    "client": "Cliens",
+    "completed": "Perfectum",
+    "category": "Categoria",
+    "overview": "Conspectus Generalis",
+    "results": "Exitus",
+    "challenges": "Provocationes Quas Solvimus",
+    "deliverables": "Quid Tradiderimus",
+    "tech_stack": "Stack Technica",
+    "client_feedback": "Opinio Clientis",
+    "gallery": "Pinacotheca Studii Casus",
+    "zoom": "Magnitudo",
+    "cta_title": "Visne exitus sicut hos?",
+    "cta_desc": "Loquamur de incepto tuo et aedificemus solutionem accommodatam.",
+    "start_project": "Incipe inceptum",
+    "ask_about": "Quaere de hoc",
+    "similar_projects": "Incepta Similia",
+    "image": "Imago",
+    "of": "ex",
+    "key_results": "Exitus Praecipui",
+    "the_challenge": "Provocatio",
+    "the_solution": "Solutio",
+    "challenges_overcome": "Provocationes Superatae",
+    "key_deliverables": "Res Traditae Praecipuae",
+    "live_site": "Visita Situm Vivum",
+    "related_projects": "Incepta Conexa"
+  },
+  "service_detail": {
+    "not_found_title": "Servitium Non Inventum",
+    "return_home": "Redi ad Domum",
+    "back": "Redi",
+    "service_label": "Servitium —",
+    "start_project": "Incipe inceptum",
+    "whats_included": "Quid includatur",
+    "what_i_can_build": "Quid aedificare possim",
+    "best_for": "Optimum pro",
+    "how_we_work": "Quomodo laboremus",
+    "how_we_work_title": "Iter clarum ab idea usque ad traditionem",
+    "what_i_need": "Quid a te egeam",
+    "cta_title": "Paratus es incohare inceptum tuum?",
+    "cta_desc": "Dic mihi de idea tua et inveniemus iter rectum — sine ulla obligatione.",
+    "start_conversation": "Incipe colloquium",
+    "learn_more": "Disce plus ↗",
+    "our_work": "Opus Nostrum",
+    "related_projects": "Incepta Conexa",
+    "back_to_services": "Redi ad Servitia",
+    "whats_included_label": "Quid Includatur",
+    "what_we_build": "Quid Aedificemus",
+    "how_we_work_label": "Quomodo Laboremus",
+    "what_we_need": "Quid A Te Egeamus",
+    "faqs": "Quaestiones Frequentes",
+    "pricing": "Consilia Preti",
+    "popular": "Maxime Populare",
+    "get_started": "Incipe",
+    "monthly": "/mo",
+    "one_off": "semel"
+  },
+  "featured_projects": {
+    "badge": "Exemplaria Nostra",
+    "title": "Incepta",
+    "title_span": "Praecipua",
+    "subtitle": "Dispositiones recentes et studia casuum.",
+    "desc": "Explora aliquod de opere nostro maximi effectus, consuetudine aedificatum ad tradendam efficientiam altam, aestheticam pulchram, et incrementum mensurabile. Cognosce cur marcae ambitiosae Sqodex eligant ad aedificanda producta digitalia quae parata sunt ad crescendum negitium et accelerandos reditus.",
+    "view_all": "Explora Omnia Incepta"
+  },
+  "testimonials_section": {
+    "badge": "Acta Fiduciae Clientium",
+    "title": "Quid Marcae Crescentes Dicant De Sqodex",
+    "desc": "Opiniones sociorum verificatae de canalibus nostris traditionis celeris, veritate codicis structuralis, et dispositionibus formae summae conversionis.",
+    "title_span": "Opiniones",
+    "subtitle": "Quid socii nostri de nobis dicant."
+  },
+  "app": {
+    "whatsapp_tooltip": "Colloquere cum Ingeniario",
+    "whatsapp_message": "Salve Sqodex, velim quaerere de servitiis vestris digitalibus.",
+    "whatsapp_cta": "Contactus Sqodex in WhatsApp",
+    "projects_delivered": "Incepta Transmissa",
+    "saas_systems": "Systemata SaaS Viva",
+    "trusted_by": "Socii Crediti"
+  },
+  "about_section": {
+    "slogan": "Norma Ingenariae Suprema",
+    "title_prefix": "Ductum Passione",
+    "title_suffix": "Informatum pro Scala.",
+    "p1_text": "est collectio ingeniariorum elit software, architectorum creativorum, et strategistarum digitalium. Specializamus in aedificandis productis digitalibus securis, summae celeritatis — a portis textuum hyper-optimizatis usque ad systemata SaaS entreprisarum complexa, scalabilia.",
+    "p2_text": "Credimus in evolutione suprema: scribere codicem nitidum, modularem sine ulla superfluitate. Coniungendo structuras status-of-the-art cum normis qualitatis intransigentibus, tradimus solutiones robustas quae sociis nostris commodum definitivum in mercatu suo dant.",
+    "stats": {
+      "0": {
+        "label": "Anni Excellence"
+      },
+      "1": {
+        "label": "Marcae In Orbe Terrarum"
+      },
+      "2": {
+        "label": "Incepta Transmissa"
+      },
+      "3": {
+        "label": "Satisfactio Clientium"
+      }
+    },
+    "values_title": "Principia Nostra Core",
+    "values": {
+      "0": {
+        "title": "Laetitia",
+        "desc": "Turmae laetae effectus extraordinarios pro nota tua tradunt."
+      },
+      "1": {
+        "title": "Honestas",
+        "desc": "Communicatio transparens fiduciam clientium frangi nesciam aedificat."
+      },
+      "2": {
+        "title": "Dedicatio",
+        "desc": "Intentio implacabilis in perficiendis finibus incrementi negotii tui."
+      },
+      "3": {
+        "title": "Transparentia",
+        "desc": "Processus evolutionis clari et relationes apertae in omni gradu."
+      },
+      "4": {
+        "title": "Empathia",
+        "desc": "Intellegere graves provocationes tuas ad solutiones consuetudinis fingendas."
+      }
+    }
+  },
+  "why_choose_us_section": {
+    "badge": "CUR SQODEX",
+    "title_main": "Cur Eligas",
+    "title_highlight": "SQODEX",
+    "desc": "Tradimus producta digitalia summae efficientiae quae marcas adiuvant ut crescant. Hic est quomodo nos ab aliis separamus.",
+    "card1": {
+      "title": "Solutiones Integerrimae",
+      "desc": "A descriptione strategica usque ad dispositionem globalem, integrum cyclum vitae technicum administramus ut turma tua in amplificationem mercati intendere possit."
+    },
+    "card2": {
+      "title": "Integratio Stack Proximae Generationis",
+      "desc": "Informatum utendo stack modernis inclusis React, Node.js, Flutter, et Kotlin cum efficientia et scalabilitate sponsis."
+    },
+    "card3": {
+      "title": "Flexibilitas Stack",
+      "desc": "Stack technica ex mensura perfecte accommodata ad necessitates negotii tui, curans efficientiam optimam, scalabilitatem, et conservationem longam. Visio tua, stack tuum, peritia nostra."
+    },
+    "card4": {
+      "title": "Efficientia, Analytica & Auxilium",
+      "desc": "Conservatio plena post deductionem, observatio efficientiae, et servitia emendationis continuae ut res tuae digitales cum finibus negotii tui evolvantur."
+    },
+    "card5": {
+      "title": "Examina Securitatis & Recuperatio",
+      "desc": "Protege res tuas digitales cum servitiis nostris examinis securitatis plenariis. Invenimus vulnera et praebemus solutiones robustas recuperationis ad data et operationes tuas tutandas."
+    },
+    "card6": {
+      "title": "Innovatio Futura Tuta",
+      "desc": "Obtine commodum ferox statim. Infundimus facultates novissimas — ab IA/LLM usque ad microservitia autonoma — in nucleo producti tui hodie."
+    }
+  },
+  "workflow_section": {
+    "process": "Processus Noster",
+    "title_main": "Ab idea usque ad deductionem in",
+    "title_highlight": "quattuor gradibus claris.",
+    "desc": "Cyclus vitae systematicus et praedicibilis designatus ad producta digitalia summae efficientiae ab initio ad scalam tradenda.",
+    "steps": {
+      "0": {
+        "title": "Vocatio Inventionis",
+        "desc": "Discimus fines, usores, tempora, et impensas tuas in sessione gratuita XXX minutarum. Sine nugis."
+      },
+      "1": {
+        "title": "Propositum & Scopus",
+        "desc": "Accipis scopum incepti detaliatum, tempora, et propositum preti fixi intra XLVIII horas."
+      },
+      "2": {
+        "title": "Forma & Aedificatio",
+        "desc": "Squadra nostra ad opus se confert. Certior fias cum inspectionibus hebdomadariis et tabula incepti communi."
+      },
+      "3": {
+        "title": "Deductio & Auxilium",
+        "desc": "Disponimus, probamus, et tradimus productum politum — deinde praesto manemus pro auxilio continuo."
+      }
+    }
+  }
+}

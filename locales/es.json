@@ -1,0 +1,2118 @@
+{
+  "services_link": "Servicios",
+  "projects": "Proyectos",
+  "cases": "Casos de Estudio",
+  "testimonials": "Testimonios",
+  "contact_link": "Contacto",
+  "contact": {
+    "title": "Ponte en Contacto",
+    "subtitle": "Hablemos de tu próximo proyecto",
+    "form": {
+      "name": "Nombre Completo",
+      "email": "Correo Electrónico",
+      "phone": "Número de Teléfono",
+      "company": "Empresa (Opcional)",
+      "service": "Selecciona un Servicio",
+      "budget": "Presupuesto Estimado",
+      "message": "Detalles del Proyecto",
+      "submit": "Enviar Mi Brief →",
+      "success": "¡Mensaje enviado con éxito!",
+      "error_reject": "RECHAZO DEL SISTEMA DE ENVÍO",
+      "projectType": "Tipo de Proyecto",
+      "projectType_1": "Tarea Rápida — Entregable Único",
+      "projectType_2": "Proyecto de Crecimiento — Multi-Fase",
+      "projectType_3": "Solución Empresarial — A Gran Escala",
+      "messagePlaceholder": "Cuéntanos sobre los objetivos de tu proyecto, cronograma, requisitos...",
+      "sending": "Enviando..."
+    },
+    "validation_error": "Por favor, completa todos los campos obligatorios (Nombre Completo, Correo Electrónico y Brief del Proyecto).",
+    "badge": "Ponte en Contacto",
+    "title_main": "Hablemos de tu visión.",
+    "title_highlight": "Sin compromisos.",
+    "desc": "¿Tienes un nuevo proyecto en mente o necesitas escalar un sistema existente? Déjanos un breve mensaje sobre lo que estás intentando lograr. Nuestro equipo revisará tus requisitos y resumirá los pasos exactos que daríamos para construirlo.",
+    "success_title": "¡Brief del Proyecto Transmitido!",
+    "success_button": "Enviar Otro Mensaje",
+    "mailto_success": "Tu cliente de correo electrónico se ha abierto con tu brief pre-completado. Por favor, haz clic en Enviar para completar tu consulta. ¡Responderemos dentro de las 24 horas!",
+    "info": {
+      "email_label": "Envíanos un Correo",
+      "email_value": "contact@sqodex.com",
+      "phone_label": "WhatsApp y Llamadas",
+      "phone_value": "+92 327 9048797",
+      "address_label": "Sede Central",
+      "address_value": "Peshawar, KPK, Pakistán",
+      "response_time": "Garantía de tiempo de respuesta: Menos de 24 Horas"
+    },
+    "placeholders": {
+      "name": "Juan Pérez",
+      "email": "juan@example.com",
+      "phone": "+1 (555) 000-0000",
+      "company": "Acme Corp"
+    }
+  },
+  "proposal": "Propuesta Instantánea",
+  "agency": "Squad | Connect | Conquer",
+  "header": {
+    "toggle_language": "Cambiar Idioma",
+    "toggle_theme": "Cambiar Color de Tema de la App",
+    "support_line": "LÍNEA DE SOPORTE",
+    "hq_location": "Sede: Peshawar, Pakistán",
+    "languages": {
+      "en": "English",
+      "ur": "اردو",
+      "es": "Español",
+      "hi": "हिन्दी",
+      "ar": "العربية",
+      "zh": "中文",
+      "de": "Deutsch",
+      "la": "Latin",
+      "ja": "日本語"
+    }
+  },
+  "hero": {
+    "description": "Desde el diseño personalizado hasta el lanzamiento final, construimos productos digitales de alto rendimiento que ayudan a tu marca a escalar, atraer clientes e incrementar los ingresos.",
+    "badgeText": "NUESTRA EXPERTISE",
+    "primaryBtnText": "Explora Nuestros Servicios",
+    "secondaryBtnText": "Obtén una Consulta Gratis",
+    "star_rated": "Hub Calificado con 5.0 Estrellas",
+    "secp_integrity": "Integridad Registrada ante SECP",
+    "projects_delivered": "Más de 200 Proyectos de Apps Entregados",
+    "saas_systems": "Sistemas SaaS Construidos",
+    "trusted_by": "Con la Confianza de Fundadores y Empresas",
+    "categories": {
+      "website-development": {
+        "title_prefix": "Desarrollo Web Custom \\n y",
+        "title_suffix": "Next.js",
+        "subtitle": "Construimos portales web soberanos y de alta velocidad, sitios estáticos responsivos y APIs headless robustas que cuentan con telemetría en tiempo real, velocidades extremas de indexación y arquitecturas optimizadas para la conversión.",
+        "badge": "Arquitectos de Sistemas Web",
+        "primary_btn": "Contratar Desarrolladores Web",
+        "secondary_btn": "Obtener Estimación Web Gratis",
+        "agent_msg": "Interfaz completamente optimizada para más de 99 en Core Web Vitals.",
+        "mockup": {
+          "local_render": "💻 Renderizado local",
+          "schema_json": "⚡ schema.json",
+          "latency_monitoring": "Monitoreo de Latencia",
+          "performance_index": "Puntuación del Índice de Rendimiento",
+          "fully_hydrated": "Componentes completamente hidratados",
+          "reduce_latency": "Reducir Latencia",
+          "hydration_renders": "Renderizados de Hidratación",
+          "component_builds": "construcciones de componentes",
+          "sovereign_standard": "Estándar Soberano",
+          "strictly_ssl": "Estrictamente Firmado con SSL"
+        }
+      },
+      "mobile-apps": {
+        "title_prefix": "Desarrollo de Apps Móviles \\n y",
+        "title_suffix": "Flutter",
+        "subtitle": "Diseñamos aplicaciones Flutter y React Native con respuestas ultrarrápidas. Rejillas de respuesta de gestos fluidas a 60fps, sincronización automatizada de bases de datos offline SQLite y accesos rápidos mediante biométricos.",
+        "badge": "Desarrollo de Apps Nativas",
+        "primary_btn": "Contratar Desarrolladores de Apps",
+        "secondary_btn": "Obtener Cotización de App Gratis",
+        "agent_msg": "Integraciones universales de Flutter desplegadas con éxito.",
+        "mockup": {
+          "good_morning": "Buenos días,",
+          "total_balance": "Balance Total",
+          "send": "Enviar",
+          "receive": "Recibir",
+          "swap": "Intercambiar",
+          "more": "Más",
+          "recent_activity": "Actividad Reciente",
+          "view_all": "Ver Todo",
+          "home": "Inicio"
+        }
+      },
+      "digital-marketing": {
+        "title_prefix": "Optimización en Motores de Búsqueda \\n y",
+        "title_suffix": "SEO",
+        "subtitle": "Desbloquea velocidades premium de indexación, optimizaciones semánticas orgánicas y conversiones de anuncios dirigidos. Construye esquemas de autoridad que activan los rastreadores de indexación de Google al instante.",
+        "badge": "Crecimiento SEO de Alto Rendimiento",
+        "primary_btn": "Clasificar #1 en Google",
+        "secondary_btn": "Auditoría SEO Gratuita",
+        "agent_msg": "Índices de tráfico expandidos de forma orgánica en más del 240%.",
+        "mockup": {
+          "funnel_logs": "REGISTROS DEL EMBUDO DE CONVERSIÓN",
+          "agent": "Agente Sqodex",
+          "customers_served": "Registro de Clientes Atendidos",
+          "growth": "Crecimiento",
+          "boost_funnel": "Impulsar el Flujo del Embudo",
+          "authority_index": "Métricas de Elevación del Índice de Autoridad (60d)",
+          "indexing_audits": "Auditorías de Indexación de Palabras Clave",
+          "indexed": "● Indexado",
+          "pending": "○ Pendiente"
+        }
+      },
+      "hosting": {
+        "title_prefix": "Cloud Hosting Administrado \\n y",
+        "title_suffix": "AWS DevOps",
+        "subtitle": "Aloja con confiabilidad premium. Desplegado en pods de microservicios de alta disponibilidad, balanceadores de carga AWS administrados, redes de búsqueda de caché CDN y capas de respaldo automatizadas con snapshots.",
+        "badge": "DevOps de Alta Disponibilidad",
+        "primary_btn": "Desplegar Nube de Alta Velocidad",
+        "secondary_btn": "Obtener Cotización de Servidor",
+        "agent_msg": "Puerto 3000 seguro. Tasa de ping activa de 8.4ms.",
+        "mockup": {
+          "terminal": "TERMINAL DE SEGURIDAD SHELL",
+          "clusters_online": "CLUSTERS_ONLINE",
+          "cpu_load": "Carga Central de CPU",
+          "utilization": "Utilización",
+          "deploy_commands": "Desplegar comandos sandbox",
+          "webhooks_ready": "Webhooks Listos",
+          "scale_container": "Escalar Contenedor"
+        }
+      },
+      "ai-solutions": {
+        "title_prefix": "Integración de IA Custom \\n y",
+        "title_suffix": "Agentes LLM",
+        "subtitle": "Integra de manera fluida robustos LLMs empresariales en bases de datos locales seguras. Construye enrutadores automatizados de tickets para pipelines, bases de conocimiento conversacionales y nodos de categorización automática de datos.",
+        "badge": "Integradores de Motores de IA",
+        "primary_btn": "Integrar IA Personalizada",
+        "secondary_btn": "Redactar Estrategia de IA",
+        "agent_msg": "Sincronización de la base de datos de vectores completada con éxito.",
+        "mockup": {
+          "orchestrator": "ORQUESTADOR DE WORKFLOWS DE IA",
+          "active_module": "MÓDULO ACTIVO",
+          "visitor_request": "Usuario de Solicitud de Visitante",
+          "autonomous_agent": "Agente Enrutador Autónomo",
+          "processing": "Procesando respuesta a través de pipelines neuronales...",
+          "select_params": "Seleccionar parámetros de solicitud simulados",
+          "trigger_secp": "🚀 Activar integración de parámetros del nodo SECP",
+          "generate_vector": "🤖 Generar optimización de esquemas de vectores"
+        }
+      },
+      "graphic-designing": {
+        "title_prefix": "Gráficos e Identidad \\n de",
+        "title_suffix": "Marca",
+        "subtitle": "Establece activos soberanos de identidad comercial. Fórmulas de tipografía moderna, sistemas Figma integrados, métricas de armonía de color y activos de branding editables de alta calidad.",
+        "badge": "Laboratorios de Diseño Creativo UX/UI",
+        "primary_btn": "Obtener Diseño de UI Custom",
+        "secondary_btn": "Cotización de Diseño de Marca",
+        "agent_msg": "Se crearon nuevos manuales de tipografía y guías de estilo de marca.",
+        "mockup": {
+          "workbench": "BANCO DE TRABAJO DE DISEÑO CREATIVO",
+          "figma_canvas": "LIENZO DE FIGMA",
+          "identity_pro": "Lumio Identity Pro",
+          "dimensions": "Dimensiones Vectoriales:",
+          "angle": "Ángulo:",
+          "select_themes": "Seleccionar paletas de temas de color simuladas",
+          "width": "Ancho:"
+        }
+      },
+      "saas-systems": {
+        "title_prefix": "Sistemas SaaS \\n y Software",
+        "title_suffix": "Custom",
+        "subtitle": "Estructuramos y construimos plataformas SaaS completas desde cero: arquitectura de base de datos multi-inquilino, facturación de suscripción con Stripe/Paddle, súper dashboards de administración y control de acceso basado en roles.",
+        "badge": "Estudio SaaS Empresarial",
+        "primary_btn": "Construir Sistema SaaS",
+        "secondary_btn": "Obtener Consulta SaaS",
+        "agent_msg": "Revisión de la arquitectura del sistema completada.",
+        "mockup": {
+          "metrics": "MÉTRICAS DE ADMINISTRACIÓN SAAS",
+          "clusters": "CLUSTERS ACTIVOS",
+          "db_connection": "Conexión a la Base de Datos",
+          "active": "● Activo",
+          "api_health": "Índice de Salud de la API",
+          "tenancies": "Total de Inquilinos Activos",
+          "nodes": "Nodos"
+        }
+      },
+      "ui-ux-design": {
+        "title_prefix": "Diseño UI/UX \\n y Prototipos",
+        "title_suffix": "Interactivos",
+        "subtitle": "Entregamos wireframes, prototipos interactivos, sistemas de diseño completos y entregas de Figma listas para desarrolladores. Cada píxel gana su lugar y está construido para convertir.",
+        "badge": "Estudio de Diseño UI/UX",
+        "primary_btn": "Contratar Diseñador UI/UX",
+        "secondary_btn": "Solicitar Cotización de UI/UX",
+        "agent_msg": "Sistema de diseño de Figma actualizado.",
+        "mockup": {
+          "workbench": "BANCO DE TRABAJO DE DISEÑO CREATIVO",
+          "canvas": "LIENZO DE FIGMA",
+          "zoom": "100% Zoom",
+          "switch_viewports": "Cambiar Vistas del Lienzo",
+          "wireframes": "Wireframes",
+          "design_system": "Sistema de Diseño",
+          "mobile_prototype": "Prototipo Móvil"
+        }
+      },
+      "video-editing": {
+        "title_prefix": "Edición de Video \\n y Motion",
+        "title_suffix": "Graphics",
+        "subtitle": "Videos de demostración de productos, animaciones explicativas y contenido social de alto impacto optimizado para los algoritmos de YouTube, Instagram Reels, TikTok y LinkedIn.",
+        "badge": "Laboratorio de Motion Graphics",
+        "primary_btn": "Iniciar Proyecto de Video",
+        "secondary_btn": "Obtener Propuesta de Edición",
+        "agent_msg": "Líneas de tiempo de videos sociales optimizadas.",
+        "mockup": {
+          "renderer": "RENDERIZADOR DE LÍNEA DE TIEMPO",
+          "ultra_comp": "COMPOSICIÓN_4K_ULTRA",
+          "live_preview": "VISTA PREVIA EN VIVO",
+          "telemetry": "Telemetría de Renderizado de Video",
+          "active_encoder": "Codificador Activo",
+          "timeline_latency": "Latencia de Línea de Tiempo",
+          "zero_lag": "0.8ms (Cero Lag de Cuadros)"
+        }
+      }
+    },
+    "default": {
+      "title": {
+        "1": "Servicios Digitales de Élite",
+        "2": "&",
+        "3": "Ingeniería de Software"
+      },
+      "badges": {
+        "0": "Núcleo Next.js y React 19",
+        "1": "Movimiento Fluido Framer",
+        "2": "Seguridad SSL Estricta",
+        "3": "Puntuaciones Lighthouse de 99+"
+      },
+      "mockup": {
+        "sandbox": "Sandbox del Estimador Interactivo Listo",
+        "select_pillars": "Selecciona los pilares digitales de abajo para cargar dashboards SaaS temáticos personalizados."
+      }
+    },
+    "web": {
+      "title": {
+        "1": "Desarrollo Web",
+        "2": "Custom y",
+        "3": "Next.js"
+      },
+      "subtitle": "Construimos portales web soberanos y de alta velocidad, sitios estáticos responsivos y APIs headless robustas que cuentan con telemetría en tiempo real, velocidades extremas de indexación y arquitecturas optimizadas para la conversión.",
+      "badgeText": "Arquitectos de Sistemas Web",
+      "badges": {
+        "0": "Server-Side Rendering",
+        "1": "CDNs de Borde Global",
+        "2": "REST/GraphQL Seguro",
+        "3": "Rendimiento Lighthouse de 99"
+      },
+      "btn_primary": "Contratar Desarrolladores Web",
+      "btn_secondary": "Obtener Estimación Web Gratis",
+      "agent": {
+        "role": "Arquitecto Principal",
+        "msg": "Interfaz completamente optimizada para más de 99 en Core Web Vitals."
+      },
+      "mockup": {
+        "local_render": "💻 Renderizado local",
+        "schema_json": "⚡ schema.json",
+        "latency_monitoring": "Monitoreo de Latencia",
+        "performance_score": "Puntuación del Índice de Rendimiento",
+        "fully_hydrated": "Componentes completamente hidratados",
+        "reduce_latency": "Reducir Latencia",
+        "hydration_renders": "Renderizados de Hidratación",
+        "component_builds": "construcciones de componentes",
+        "sovereign_standard": "Estándar Soberano",
+        "ssl": "Estrictamente Firmado con SSL"
+      }
+    },
+    "mobile": {
+      "title": {
+        "1": "Desarrollo de Apps",
+        "2": "Móviles y",
+        "3": "Flutter"
+      },
+      "subtitle": "Diseñamos aplicaciones Flutter y React Native con respuestas ultrarrápidas. Rejillas de respuesta de gestos fluidas a 60fps, sincronización automatizada de bases de datos offline SQLite y accesos rápidos mediante biométricos.",
+      "badgeText": "Desarrollo de Apps Nativas",
+      "badges": {
+        "0": "Compilaciones duales iOS/Android",
+        "1": "Toque Biométrico Habilitado",
+        "2": "Motor de Gestos Fluidos",
+        "3": "Garantía de Errores de 6 Meses"
+      },
+      "btn_primary": "Contratar Desarrolladores de Apps",
+      "btn_secondary": "Obtener Cotización de App Gratis",
+      "agent": {
+        "role": "Arquitecto Principal de Apps",
+        "msg": "Integraciones universales de Flutter desplegadas con éxito."
+      },
+      "mockup": {
+        "greeting": "Buenos días,",
+        "user": "Sarah Johnson",
+        "total_balance": "Balance Total",
+        "send": "Enviar",
+        "receive": "Recibir",
+        "swap": "Intercambiar",
+        "more": "Más",
+        "recent_activity": "Actividad Reciente",
+        "view_all": "Ver Todo"
+      }
+    },
+    "marketing": {
+      "title": {
+        "1": "Optimización en",
+        "2": "Motores de Búsqueda &",
+        "3": "SEO"
+      },
+      "subtitle": "Unlock premium indexing speeds, organic semantic optimizations, and targeted ad conversions. Build authority schemas that trigger Google indexing crawlers instantly.",
+      "badgeText": "Crecimiento SEO de Alto Rendimiento",
+      "badges": {
+        "0": "SEO programático",
+        "1": "Webhooks de anuncios PPC",
+        "2": "Motor de rastreo de palabras clave",
+        "3": "Dashboards en vivo y en tiempo real"
+      },
+      "btn_primary": "Clasificar #1 en Google",
+      "btn_secondary": "Auditoría SEO Gratuita",
+      "agent": {
+        "role": "Jefe de Operaciones Sede Central",
+        "msg": "Índices de tráfico expandidos de forma orgánica en más del 240%."
+      },
+      "mockup": {
+        "funnel_logs": "REGISTROS DEL EMBUDO DE CONVERSIÓN",
+        "agent": "Agente Sqodex",
+        "customers": "Registro de Clientes Atendidos",
+        "growth": "Crecimiento",
+        "btn_boost": "Impulsar el Flujo del Embudo",
+        "metrics_title": "Métricas de Elevación del Índice de Autoridad (60d)",
+        "audits": "Auditorías de Indexación de Palabras Clave",
+        "indexed": "● Indexado",
+        "pending": "○ Pendiente"
+      }
+    },
+    "hosting": {
+      "title": {
+        "1": "Cloud Hosting",
+        "2": "Administrado y",
+        "3": "AWS DevOps"
+      },
+      "subtitle": "Aloja con confiabilidad premium. Desplegado en pods de microservicios de alta disponibilidad, balanceadores de carga AWS administrados, redes de búsqueda de caché CDN y capas de respaldo automatizadas con snapshots.",
+      "badgeText": "DevOps de Alta Disponibilidad",
+      "badges": {
+        "0": "Contenedores Multi-Zona",
+        "1": "Seguridad TLS ECDSA",
+        "2": "Caché de Rutas Nginx",
+        "3": "Métricas de telemetría Grafana"
+      },
+      "btn_primary": "Desplegar Nube de Alta Velocidad",
+      "btn_secondary": "Obtener Cotización de Servidor",
+      "agent": {
+        "role": "Supervisor de Cluster de Seguridad",
+        "msg": "Puerto 3000 seguro. Tasa de ping activa de 8.4ms."
+      },
+      "mockup": {
+        "terminal": "TERMINAL DE SEGURIDAD SHELL",
+        "status": "CLUSTERS_ONLINE",
+        "cpu_title": "Carga Central de CPU",
+        "cpu_util": "Utilización",
+        "deploy_cmds": "Desplegar comandos sandbox",
+        "btn_webhooks": "Webhooks Listos",
+        "btn_scale": "Escalar Contenedor"
+      }
+    },
+    "ai": {
+      "title": {
+        "1": "Integración de IA",
+        "2": "Custom y",
+        "3": "Agentes LLM"
+      },
+      "subtitle": "Integra de manera fluida robustos LLMs empresariales en bases de datos locales seguras. Construye enrutadores automatizados de tickets para pipelines, bases de conocimiento conversacionales y nodos de categorización automática de datos.",
+      "badgeText": "AI Engine Integrators",
+      "badges": {
+        "0": "API de Gemini / OpenAI",
+        "1": "Sincronización de base de datos de vectores",
+        "2": "IA de enrutamiento autónomo",
+        "3": "Webhooks de sistemas CRM"
+      },
+      "btn_primary": "Integrar IA Personalizada",
+      "btn_secondary": "Redactar Estrategia de IA",
+      "agent": {
+        "role": "Arquitecto Principal de LLM",
+        "msg": "Sincronización de la base de datos de vectores completada con éxito."
+      },
+      "mockup": {
+        "orchestrator": "ORQUESTADOR DE WORKFLOWS DE IA",
+        "active_module": "MÓDULO ACTIVO",
+        "user_role": "Usuario de Solicitud de Visitante",
+        "agent_role": "Agente Enrutador Autónomo",
+        "processing": "Procesando response a través de pipelines neuronales...",
+        "select_params": "Seleccionar parámetros de solicitud simulados",
+        "btn_trigger_secp": "🚀 Activar integración de parámetros del nodo SECP",
+        "btn_generate_vector": "🤖 Generar optimización de esquemas de vectores"
+      },
+      "online_msg": "Sistemas online. Selecciona un parámetro de workflow automatizado abajo para generar una respuesta de sandbox en vivo.",
+      "default_response": "Sincronizaciones de workflows de enrutamiento autónomo activas.",
+      "streaming": {
+        "0": "Asegurando parámetros de ruta... Capas de API listas para vincular en los nodos corporativos de Peshawar.",
+        "1": "Sincronizando esquemas. Se generaron 14 vectores de clasificación dinámica con lógica de OpenAI/Gemini.",
+        "2": "Optimizando. Produciendo estructuras semánticas completamente listas para responder que admiten el rastreo continuo."
+      }
+    },
+    "uiux": {
+      "title": {
+        "1": "Diseño UI/UX",
+        "2": "y Prototipos",
+        "3": "Interactivos"
+      },
+      "subtitle": "Entregamos wireframes, prototipos interactivos, sistemas de diseño completos y entregas de Figma listas para desarrolladores. Cada píxel gana su lugar y está construido para convertir.",
+      "badgeText": "Estudio de Diseño UI/UX",
+      "badges": {
+        "0": "Espacio de Trabajo en Figma",
+        "1": "Prototipos Interactivos",
+        "2": "Entrega a Desarrolladores",
+        "3": "Diseños Probados con Usuarios"
+      },
+      "btn_primary": "Contratar Diseñador UI/UX",
+      "btn_secondary": "Solicitar Cotización de UI/UX",
+      "agent": {
+        "role": "Diseñador UI Líder",
+        "msg": "Sistema de diseño de Figma actualizado."
+      },
+      "mockup": {
+        "workbench": "BANCO DE TRABAJO DE DISEÑO CREATIVO",
+        "canvas": "LIENZO DE FIGMA",
+        "zoom": "100% Zoom",
+        "switch": "Cambiar Vistas del Lienzo",
+        "btn_wireframes": "Wireframes",
+        "btn_system": "Sistema de Diseño",
+        "btn_mobile": "Prototipo Móvil"
+      }
+    },
+    "video": {
+      "title": {
+        "1": "Edición de Video",
+        "2": "y Motion",
+        "3": "Graphics"
+      },
+      "subtitle": "Videos de demostración de productos, animaciones explicativas y contenido social de alto impacto optimizado para los algoritmos de YouTube, Instagram Reels, TikTok y LinkedIn.",
+      "badgeText": "Laboratorio de Motion Graphics",
+      "badges": {
+        "0": "After Effects",
+        "1": "Premiere Pro",
+        "2": "video explicativo",
+        "3": "Listo para Reels/TikTok"
+      },
+      "btn_primary": "Iniciar Proyecto de Video",
+      "btn_secondary": "Obtener Propuesta de Edición",
+      "agent": {
+        "role": "Diseñador de Motion Líder",
+        "msg": "Líneas de tiempo de videos sociales optimizadas."
+      },
+      "mockup": {
+        "renderer": "RENDERIZADOR DE LÍNEA DE TIEMPO",
+        "comp": "COMPOSICIÓN_4K_ULTRA",
+        "live_preview": "VISTA PREVIA EN VIVO",
+        "telemetry": "Telemetría de Renderizado de Video",
+        "encoder": "Codificador Activo",
+        "encoder_val": "AV1 High Profile",
+        "latency": "Latencia de Línea de Tiempo",
+        "latency_val": "0.8ms (Cero Lag de Cuadros)"
+      }
+    },
+    "saas": {
+      "title": {
+        "1": "Sistemas SaaS",
+        "2": "y Software",
+        "3": "Custom"
+      },
+      "subtitle": "Estructuramos y construimos plataformas SaaS completas desde cero: arquitectura de base de datos multi-inquilino, facturación de suscripción con Stripe/Paddle, súper dashboards de administración y control de acceso basado en roles.",
+      "badgeText": "Estudio SaaS Empresarial",
+      "badges": {
+        "0": "Multi-Inquilino",
+        "1": "Acceso Basado en Roles",
+        "2": "Facturación con Stripe",
+        "3": "Escala Horizontal AWS"
+      },
+      "btn_primary": "Construir Sistema SaaS",
+      "btn_secondary": "Obtener Consulta SaaS",
+      "agent": {
+        "role": "Arquitecto Principal de SaaS",
+        "msg": "Revisión de la arquitectura del sistema completada."
+      },
+      "mockup": {
+        "admin_metrics": "MÉTRICAS DE ADMINISTRACIÓN SAAS",
+        "active_clusters": "CLUSTERS ACTIVOS",
+        "db_conn": "Conexión a la Base de Datos",
+        "active": "● Activo",
+        "api_health": "Índice de Salud de la API",
+        "tenancies": "Total de Inquilinos Activos",
+        "nodes": "Nodos"
+      }
+    },
+    "graphics": {
+      "title": {
+        "1": "Gráficos y",
+        "2": "Identidad de",
+        "3": "Marca"
+      },
+      "subtitle": "Establece activos soberanos de identidad comercial. Fórmulas de tipografía moderna, sistemas Figma integrados, métricas de armonía de color y activos de branding editables de alta calidad.",
+      "badgeText": "Laboratorios de Diseño Creativo UX/UI",
+      "badges": {
+        "0": "Sistemas de estrategia de marca",
+        "1": "Vectores de Figma de alta fidelidad",
+        "2": "Fuente de manuales de branding",
+        "3": "Frameworks de diseño flexibles"
+      },
+      "btn_primary": "Obtener Diseño de UI Custom",
+      "btn_secondary": "Obtener Cotización de Diseño de Marca",
+      "agent": {
+        "role": "Diseñador de Producto Principal",
+        "msg": "Se crearon nuevos manuales de tipografía y guías de estilo de marca."
+      },
+      "mockup": {
+        "workbench": "BANCO DE TRABAJO DE DISEÑO CREATIVO",
+        "figma_canvas": "LIENZO DE FIGMA",
+        "identity_pro": "Lumio Identity Pro",
+        "dimensions": "Vector Dimensions:",
+        "angle": "Angle:",
+        "select_themes": "Seleccionar paletas de temas de color simuladas",
+        "width": "Width:"
+      }
+    },
+    "slogan": {
+      "squad": "Squad",
+      "connect": "Connect",
+      "conquer": "Conquer"
+    },
+    "robot": {
+      "click_me": "¡Hazme Clic!",
+      "switch_service": "Para cambiar de servicio"
+    },
+    "short_name": {
+      "website_development": "Web Dev Empresarial",
+      "mobile_apps": "Aplicación Móvil",
+      "digital_marketing": "Marketing SEO de Crecimiento",
+      "hosting": "Hosting de Sistemas Cloud",
+      "ai_solutions": "LLMs de IA Autónoma",
+      "graphic_designing": "Diseño Gráfico",
+      "saas_systems": "Sistemas SaaS",
+      "web_development": "Desarrollo Web",
+      "ui_ux_design": "Diseño UI/UX",
+      "graphics_branding": "Branding y Gráficos",
+      "video_editing": "Video y Motion",
+      "seo_marketing": "Marketing SEO"
+    },
+    "form": {
+      "validation": "Por favor, completa tu Nombre y dirección de Correo Electrónico.",
+      "error": "Error de comunicación al enlazar con los servicios de backend.",
+      "default_company": "Socio de Admisión Hero",
+      "default_rfp": "Solicitud de RFP Hero Intake para: {{service}} bajo {{level}}",
+      "default_level": "ESCALA MEDIA",
+      "default_service": "Servicios"
+    },
+    "hosting_logs": {
+      "0": "SQODEX_CORE :: ESTADO EN VIVO INITIALIZADO",
+      "1": "ZONA_DE_INGRESO :: PK_PESHAWAR_PRIMARY",
+      "2": "MURO_ESCUDO_DDoS :: ACTIVADO EN EL PUERTO 3000",
+      "3": "LISTO PARA RECIBIR PAQUETES DE COMANDOS..."
+    },
+    "marketing_keywords": {
+      "0": {
+        "word": "Sqodex Peshawar",
+        "ranked": true
+      },
+      "1": {
+        "word": "App SEO Soberana",
+        "ranked": true
+      },
+      "2": {
+        "word": "Web Dev React Pakistán",
+        "ranked": false
+      }
+    },
+    "pricing_tiers": {
+      "website-development": {
+        "0": {
+          "level": "Paquete Esencial",
+          "range": "$100 - $300",
+          "desc": "Perfecto para startups locales que buscan establecer autoridad con diseños simples.",
+          "speed": "Entrega en 3-5 días",
+          "metric": "Núcleo Auditado para SEO"
+        },
+        "1": {
+          "level": "Plataforma Profesional",
+          "range": "$300 - $800",
+          "desc": "Para marcas en crecimiento que exigen integraciones de portales personalizados, APIs y control de CMS.",
+          "speed": "Entrega en 7-12 días",
+          "metric": "CMS Interactivo en Tiempo Real"
+        },
+        "2": {
+          "level": "Suite Empresarial",
+          "range": "$800 - $2000+",
+          "desc": "Diseño personalizado bespoke a gran escala que contiene réplicas automatizadas, SLAs y Nodo Dedicado.",
+          "speed": "Entrega en 15-25 días",
+          "metric": "SLA de Ingreso Cloud del 99.9%"
+        }
+      },
+      "mobile-apps": {
+        "0": {
+          "level": "Shell de App Custom",
+          "range": "$100 - $300",
+          "desc": "Una plantilla de lanzador elegante para una sola plataforma para una visualización rápida en iOS o Android.",
+          "speed": "Entrega en 10-14 días",
+          "metric": "Almacén Local SQLite/Hive"
+        },
+        "1": {
+          "level": "Sincronización Omni-Store",
+          "range": "$1500 - $2500",
+          "desc": "App unificada en Flutter/React Native que admite autenticación de cuentas dinámicas y lanzamiento en múltiples tiendas.",
+          "speed": "Entrega en 15-25 días",
+          "metric": "Listo para Inicio de Sesión Social"
+        },
+        "2": {
+          "level": "Suite de App Empresarial",
+          "range": "$2500 - $8000",
+          "desc": "Sistema móvil corporativo seguro altamente complejo con sincronización de API de backend y terminales de pago.",
+          "speed": "Entrega en 30-45 días",
+          "metric": "Garantía de Soporte de 6 Meses"
+        }
+      },
+      "digital-marketing": {
+        "0": {
+          "level": "Nodo de Lanzamiento de Rango",
+          "range": "$50 - $400/mes",
+          "desc": "Optimización del rastreo central, seguimiento de palabras clave básicas y reparación de indexación en Google.",
+          "speed": "Mensual continuo",
+          "metric": "12 Palabras Clave de Alto Rendimiento"
+        },
+        "1": {
+          "level": "Amplificador de Autoridad",
+          "range": "$400 - $900/mes",
+          "desc": "Creación de plantillas de páginas semánticas, adquisiciones periódicas de backlinks y seguimiento de métricas específicas.",
+          "speed": "Mensual continuo",
+          "metric": "Rastreador de Más de 50 Palabras Clave Objetivo"
+        },
+        "2": {
+          "level": "Escala de Hiper-Velocidad",
+          "range": "$1200 - $2500/mes",
+          "desc": "Aceleración completa del embudo vinculando diseños semánticos de SEO, PPC y frameworks de Retargeting.",
+          "speed": "Mensual continuo",
+          "metric": "Auditorías en Vivo Bi-Semanales"
+        }
+      },
+      "hosting": {
+        "0": {
+          "level": "Instancia Cloud Shield",
+          "range": "$25 - $50/mes",
+          "desc": "Nodo privado virtual que ofrece una búsqueda de CDN increíblemente rápida y snapshots diarios del sistema.",
+          "speed": "Mensual continuo",
+          "metric": "Mitigación de DDoS"
+        },
+        "1": {
+          "level": "Multi-Núcleo Balanceado",
+          "range": "$99 - $199/mes",
+          "desc": "Clusters de alta disponibilidad para hosting SaaS de alto rendimiento con réplica geográfica.",
+          "speed": "Mensual continuo",
+          "metric": "Disponibilidad del 99.99% Garantizada"
+        },
+        "2": {
+          "level": "Pod Empresarial Kubernetes",
+          "range": "$350 - $800/mes",
+          "desc": "Stack de contenedores con autoescala construido sobre instancias cloud distribuidas para flujos de tráfico extremos.",
+          "speed": "Mensual continuo",
+          "metric": "Métricas de UI Web de Grafana"
+        }
+      },
+      "ai-solutions": {
+        "0": {
+          "level": "Kit Orquestador",
+          "range": "$500 - $900",
+          "desc": "Despliega pipelines de clasificación inteligente automatizados para organizar las consultas de los clientes.",
+          "speed": "Entrega en 7-10 días",
+          "metric": "Integración de API de Gemini / OpenAI"
+        },
+        "1": {
+          "level": "Chatbot Inteligente Interactivo",
+          "range": "$1200 - $2500",
+          "desc": "Asistente de chat personalizado entrenado con base de conocimientos para atender los briefs de los clientes de manera contextual.",
+          "speed": "Entrega en 14-20 días",
+          "metric": "Sincronización de Base de Datos de Vectores"
+        },
+        "2": {
+          "level": "Suite de Agentes Autónomos",
+          "range": "$4500 - $9000",
+          "desc": "Workflows de operaciones bespoke con enrutamiento multi-agente, clasificadores LLM y sincronización con CRM.",
+          "speed": "Entrega en 25-40 días",
+          "metric": "Pipeline de enrutamiento de IA en sub-segundos"
+        }
+      },
+      "graphic-designing": {
+        "0": {
+          "level": "Kit de Identidad Central",
+          "range": "$150 - $300",
+          "desc": "Formatos de logotipo vectorial de alto contraste, esquemas de estilo de marca y jerarquía editorial.",
+          "speed": "Entrega en 3-5 días",
+          "metric": "Formatos Vectoriales Modernos"
+        },
+        "1": {
+          "level": "Marca Corporativa Creativa",
+          "range": "$400 - $800",
+          "desc": "Sistemas visuales integrados, colaterales digitales y activos de marketing de alta calidad.",
+          "speed": "Entrega en 6-10 días",
+          "metric": "6 Plantillas Custom Editables"
+        },
+        "2": {
+          "level": "Sistema Integral de Producto",
+          "range": "$1200 - $2500",
+          "desc": "Librería inmersiva de componentes de Figma de alta fidelidad, iconografías vectoriales personalizadas y diseños completamente responsivos.",
+          "speed": "Entrega en 12-18 días",
+          "metric": "Acceso a la Fuente Maestra de Figma"
+        }
+      }
+    }
+  },
+  "workflow": {
+    "process": "Nuestro Proceso",
+    "title_main": "De la idea al lanzamiento en",
+    "title_highlight": "cuatro pasos claros.",
+    "desc": "Un ciclo de vida sistemático y predecible diseñado para entregar productos digitales de alto rendimiento desde el concepto hasta la escala.",
+    "steps": {
+      "0": {
+        "title": "Llamada de Descubrimiento",
+        "desc": "Conocemos tus objetivos, usuarios, cronograma y presupuesto en una sesión gratuita de 30 minutos. Sin rodeos."
+      },
+      "1": {
+        "title": "Propuesta y Alcance",
+        "desc": "Recibes un alcance detallado del proyecto, un cronograma y una propuesta de precio fijo dentro de las 48 horas."
+      },
+      "2": {
+        "title": "Diseño y Construcción",
+        "desc": "Nuestro squad se pone a trabajar. Te mantienes al tanto con reuniones semanales de control y un tablero de proyecto compartido."
+      },
+      "3": {
+        "title": "Lanzamiento y Soporte",
+        "desc": "Desplegamos, probamos y entregamos un producto pulido, y luego permanecemos disponibles para soporte continuo."
+      }
+    }
+  },
+  "why_choose_us": {
+    "badge": "POR QUÉ SQODEX",
+    "title_main": "Por Qué Elegir",
+    "title_highlight": "SQODEX",
+    "desc": "Entregamos productos digitales de alto rendimiento que ayudan a las marcas a escalar. Así es como nos diferenciamos de la competencia.",
+    "card1": {
+      "title": "Soluciones de Extremo a Extremo",
+      "desc": "Desde el diseño técnico estratégico hasta el despliegue global, gestionamos todo el ciclo de vida técnico para que tu equipo pueda enfocarse en la expansión del mercado."
+    },
+    "card2": {
+      "title": "Integración de Stacks de Próxima Generación",
+      "desc": "Diseñado utilizando stacks modernos que incluyen React, Node.js, Flutter y Kotlin con rendimiento y escalabilidad garantizados."
+    },
+    "card3": {
+      "title": "Flexibilidad de Stacks",
+      "desc": "Un tech stack hecho a la medida y perfectamente alineado con tus requisitos comerciales, asegurando un rendimiento óptimo, escalabilidad y mantenimiento a largo plazo. Tu visión, tu stack, nuestra experiencia."
+    },
+    "card4": {
+      "title": "Rendimiento, Analítica y Soporte",
+      "desc": "Mantenimiento integral post-lanzamiento, monitoreo del rendimiento y servicios de mejora continua para asegurar que tus activos digitales evolucionen con tus objetivos comerciales."
+    },
+    "card5": {
+      "title": "Auditorías de Seguridad y Recuperación",
+      "desc": "Protege tus activos digitales con nuestros servicios integrales de auditoría de seguridad. Identificamos vulnerabilidades y proporcionamos soluciones robustas de recuperación para salvaguardar tus datos y operaciones."
+    },
+    "card6": {
+      "title": "Innovación a Prueba de Futuro",
+      "desc": "Obtén una ventaja competitiva inmediata. Inyectamos capacidades de vanguardia —desde AI/LLMs hasta microservicios autónomos— en tu del núcleo de tu producto hoy mismo."
+    }
+  },
+  "services": {
+    "what_we_do": "QUÉ HACEMOS",
+    "explore_our": "Explora Nuestros",
+    "services": "Servicios",
+    "description": "Desde el diseño personalizado hasta el lanzamiento final, construimos productos digitales de alto rendimiento que ayudan a tu marca a escalar, atraer clientes e incrementar los ingresos."
+  },
+  "footer": {
+    "corporate_services": "Servicios Corporativos",
+    "newsletter_title": "Boletines de Tecnología y Newsletter",
+    "newsletter_desc": "Recibe actualizaciones estratégicas sobre arquitecturas web modernas, diseño de productos y estrategias de IA.",
+    "subscribe": "Suscribirse",
+    "subscribe_alert": "Registro simulado a la newsletter completado.",
+    "ssl_secured": "Capa Segura SSL",
+    "official_site": "Sitio Oficial",
+    "slogan": "Squad. Connect. Conquer.",
+    "description": "Frameworks web custom, arquitecturas móviles híbridas, nodos Docker de nivel empresarial y campañas de SEO programadas gestionadas por ingenieros digitales senior dentro de Peshawar, Pakistán.",
+    "hq": "Sede: Peshawar, KPK",
+    "copyright": "Sqodex Proveedor de Servicios Digitales. Todos los Derechos Intelectuales Soberanos Reservados.",
+    "ssl": "Capa Segura SSL",
+    "newsletter_placeholder": "nombre@empresa.com",
+    "back_to_top": "Volver arriba"
+  },
+  "about": {
+    "slogan": "Squad | Connect | Conquer",
+    "title_prefix": "¿Listo para Hacer Crecer",
+    "title_suffix": "Tu Negocio?",
+    "p1_text": "es una agencia digital de servicio completo. Combinamos estrategias de marketing creativo con soluciones impulsadas por datos para escalar tu marca, atraer clientes premium y acelerar tus ingresos.",
+    "p2_text": "Convertimos tus grandes ideas en campañas digitales de alto rendimiento. Al combinar la estrategia de mercado con tecnología innovadora, construimos identidades de marca poderosas que captan la atención, impulsan el compromiso del cliente y ofrecen un crecimiento comercial medible.",
+    "values_title": "Nuestros Valores Core",
+    "stats": {
+      "0": {
+        "label": "Años de Excelencia"
+      },
+      "1": {
+        "label": "Marcas en Todo el Mundo"
+      },
+      "2": {
+        "label": "Proyectos Entregados"
+      },
+      "3": {
+        "label": "Satisfacción del Cliente"
+      }
+    },
+    "values": {
+      "0": {
+        "title": "Felicidad",
+        "desc": "Los equipos felices entregan resultados extraordinarios para tu marca."
+      },
+      "1": {
+        "title": "Honestidad",
+        "desc": "La comunicación transparente construye una confianza inquebrantable con el cliente."
+      },
+      "2": {
+        "title": "Dedicación",
+        "desc": "Un enfoque implacable en lograr tus objetivos de crecimiento comercial."
+      },
+      "3": {
+        "title": "Transparencia",
+        "desc": "Procesos de desarrollo claros e informes abiertos en cada paso."
+      },
+      "4": {
+        "title": "Empatía",
+        "desc": "Comprender tus desafíos profundos para diseñar soluciones a la medida."
+      }
+    }
+  },
+  "data": {
+    "categories": {
+      "website-development": {
+        "name": "Desarrollo de Aplicaciones Web Full Stack",
+        "desc": "Aplicaciones web modernas full-stack construidas con Next.js, React, Node.js, MongoDB, PostgreSQL, autenticación, dashboards, APIs y despliegue en producción.",
+        "whatsIncluded": "Construyo aplicaciones web completas full-stack desde la idea hasta la producción utilizando tecnologías modernas, rápidas y escalables. Este servicio es ideal si necesitas una app de negocios, plataforma SaaS, portal de clientes, dashboard de administración, sistema de reservas, marketplace o un producto web personalizado.",
+        "bestFor": "Startups, agencias, fundadores y empresas que necesitan un desarrollador confiable para construir una aplicación web seria, no solo un sitio web estático.",
+        "whatICanBuild": {
+          "0": "Apps web full-stack con Next.js, React, TypeScript y Node.js",
+          "1": "Autenticación, rutas protegidas, roles de usuario y dashboards de administración",
+          "2": "APIs REST, modelos de base de datos, lógica de negocios y workflows de backend",
+          "3": "Diseño e integración de bases de datos MongoDB o PostgreSQL",
+          "4": "UI de frontend responsiva con UX limpia y velocidad de carga rápida",
+          "5": "Despliegue en producción con variables de entorno, dominios y SSL"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Revisión de requisitos",
+            "desc": "Reviso tu idea de app, características, usuarios, workflows y necesidades técnicas."
+          },
+          "1": {
+            "title": "Planificación de la arquitectura",
+            "desc": "Planifico el frontend, backend, modelos de bases de datos, APIs y el flujo de desarrollo."
+          },
+          "2": {
+            "title": "Desarrollo",
+            "desc": "Construyo la aplicación con código limpio, UI responsiva y lógica de backend."
+          },
+          "3": {
+            "title": "Pruebas y entrega",
+            "desc": "Pruebo los flujos clave, corrijo errores y preparo la app para producción o transferencia."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Idea del proyecto o lista de características",
+          "1": "Archivo de diseño, sitio web de referencia o wireframe aproximado si está disponible",
+          "2": "Tech stack preferido si ya se ha decidido",
+          "3": "Requisitos de base de datos o API",
+          "4": "Detalles de despliegue si ya tienes hosting"
+        },
+        "faqs": {
+          "0": {
+            "question": "¿Puedes construir tanto el frontend como el backend?",
+            "answer": "Sí, proporciono un desarrollo completo full stack de extremo a extremo."
+          },
+          "1": {
+            "question": "¿Qué stack utilizas?",
+            "answer": "Mi stack principal es Next.js, React, Node.js y MongoDB/PostgreSQL."
+          }
+        }
+      },
+      "mobile-apps": {
+        "name": "Desarrollo de Apps Móviles",
+        "desc": "Apps nativas y multiplataforma para iOS y Android que ofrecen experiencias de usuario excepcionales con tasas de cuadros fluidas, acceso offline-first y arquitecturas limpias. También React Native, automatización, CI/CD, github, paywalls e implementación de RevenueCat.",
+        "whatsIncluded": "Desarrollo de aplicaciones móviles nativas y multiplataforma de alto rendimiento para iOS and Android. Cubre arquitecturas móviles limpias, animaciones fluidas, estados de bases de datos offline, envíos a tiendas de apps y flujos de monetización.",
+        "bestFor": "Startups y empresas que necesitan presencia móvil.",
+        "whatICanBuild": {
+          "0": "Apps móviles multiplataforma (iOS y Android) a través de Flutter/React Native",
+          "1": "Google Maps interactivo y servicios de seguimiento basados en la ubicación",
+          "2": "Características de IA en el dispositivo e integraciones de modelos de machine learning",
+          "3": "Seguridad biométrica (autenticación FaceID/huella digital)",
+          "4": "Integraciones de Google AdMob y anuncios personalizados de banner/intersticiales",
+          "5": "Paywalls de RevenueCat y configuraciones de suscripción para monetización",
+          "6": "Bases de datos offline-first (SQLite, Realm, WatermelonDB)",
+          "7": "Pipelines automatizados de CI/CD y envíos a tiendas de apps con fastlane"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Descubrimiento",
+            "desc": "Analizar los objetivos de la plataforma, los user journeys, las restricciones de las tiendas de apps y los planes de monetización."
+          },
+          "1": {
+            "title": "Diseño",
+            "desc": "Crear diseños móviles responsivos, wireframes y opciones de almacenamiento seguro."
+          },
+          "2": {
+            "title": "Desarrollo",
+            "desc": "Realizar pruebas en dispositivos locales, pruebas de datos offline y ciclos de entrega de compilaciones."
+          },
+          "3": {
+            "title": "Entrega",
+            "desc": "Ejecución completa del lanzamiento en la Google Play Store y Apple App Store."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Tu idea de app",
+          "1": "Público objetivo",
+          "2": "Preferencias de diseño"
+        },
+        "faqs": {
+          "0": {
+            "question": "¿Publicas en las tiendas de apps?",
+            "answer": "Sí, nos encargamos de todo el proceso de publicación de extremo a extremo."
+          },
+          "1": {
+            "question": "¿Flutter o React Native?",
+            "answer": "Recomendamos Flutter para apps de alto rendimiento enfocadas en lo visual, y React Native para stacks con mucho uso de Javascript."
+          }
+        }
+      },
+      "digital-marketing": {
+        "name": "Marketing Digital",
+        "desc": "Optimización SEO completa, mejoras semánticas, Google PPC, campañas sociales dirigidas y planificación estratégica de contenido que impulsan el crecimiento orgánico y la adquisición cuantificable de clientes.",
+        "whatsIncluded": "Campañas de marketing online completas e impulsadas por datos que aumentan tu tráfico y tasas de conversión. Incluye configuración de PPC, publicidad social, analítica de crecimiento, email marketing y auditorías de optimización de conversión.",
+        "bestFor": "Empresas que buscan generar clientes potenciales, escalar ventas mensuales y maximizar el retorno de la inversión publicitaria (ROAS).",
+        "whatICanBuild": {
+          "0": "Campañas de anuncios de búsqueda de alta conversión en Google Ads",
+          "1": "Embudos de anuncios dirigidos en redes sociales (Meta, LinkedIn, TikTok)",
+          "2": "Páginas de destino optimizadas con variaciones estrictas de pruebas A/B",
+          "3": "Seguimiento automatizado de leads e integraciones de workflows con CRM",
+          "4": "Dashboard de analítica detallado que mapea el ROAS y la adquisición de clientes",
+          "5": "Campañas de goteo por correo electrónico con secuencias de activación automatizadas",
+          "6": "Copy de rendimiento diseñado específicamente para conversiones",
+          "7": "Configuraciones de seguimiento de píxeles y seguimiento de API de Conversión (CAPI)"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Auditoría",
+            "desc": "Revisar tu embudo de adquisición actual, público objetivo y campañas de la competencia."
+          },
+          "1": {
+            "title": "Estrategia",
+            "desc": "Establecer listas claras de palabras clave objetivo, blueprints de copy de anuncios y controles de presupuesto."
+          },
+          "2": {
+            "title": "Ejecución",
+            "desc": "Lanzar anuncios dirigidos, monitorear sistemas de seguimiento y compilar métricas de clics."
+          },
+          "3": {
+            "title": "Optimización",
+            "desc": "Ejecutar pruebas A/B de copy, excluir emplazamientos de bajo rendimiento y escalar las acciones de conversión."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Pautas de presupuesto publicitario",
+          "1": "Perfiles de público objetivo",
+          "2": "Colaterales de marca o activos visuales"
+        },
+        "faqs": {
+          "0": {
+            "question": "¿Cómo se mide el éxito de la campaña?",
+            "answer": "Realizamos un seguimiento de las métricas de conversión como el costo por lead, el costo por adquisición (CPA) y el Retorno de la Inversión Publicitaria (ROAS) general."
+          },
+          "1": {
+            "question": "¿Con qué redes publicitarias deberíamos empezar?",
+            "answer": "Google Ads es mejor para una alta intención, mientras que Meta y LinkedIn funcionan mejor para el alcance demográfico visual y profesional."
+          }
+        }
+      },
+      "hosting": {
+        "name": "Hosting y AWS DevOps",
+        "desc": "Operaciones de cloud hosting de nivel empresarial, seguridad de estado persistente, balanceo de carga con CDN y respaldos automatizados gestionados con la máxima velocidad y latencia cercana a cero.",
+        "whatsIncluded": "Configuración profesional de arquitectura cloud y gestión de servidores. Optimizamos las velocidades de despliegue, configuramos balanceadores de carga, aseguramos bases de datos, planificamos respaldos y minimizamos la latencia de la aplicación.",
+        "bestFor": "Productos SaaS, agencias con alto tráfico y portales activos que necesitan la máxima confiabilidad, escalabilidad y seguridad.",
+        "whatICanBuild": {
+          "0": "Entornos de clusters Kubernetes y Docker de alto rendimiento",
+          "1": "Configuraciones de arquitectura cloud en AWS (ECS/EKS), DigitalOcean o Vercel",
+          "2": "Configuraciones de balanceo de carga con CDN y distribución global de contenido",
+          "3": "Programaciones de respaldo automatizadas de bases de datos con ejecuciones de recuperación instantánea",
+          "4": "Dashboards de monitoreo de servidores con alertas instantáneas por SMS",
+          "5": "Configuraciones personalizadas de enrutamiento de carga con Nginx o Apache",
+          "6": "Instalaciones de certificados SSL y reglas estrictas de firewall",
+          "7": "Rutas de migración de servidores para migrar bases de datos con cero tiempo de inactividad"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Auditoría",
+            "desc": "Inspeccionar las velocidades de host existentes, el uso de recursos y las vulnerabilidades de seguridad activas."
+          },
+          "1": {
+            "title": "Configuración",
+            "desc": "Diseñar redes de nube privada virtual, desplegar nodos e instalar firewalls."
+          },
+          "2": {
+            "title": "Migración",
+            "desc": "Copiar de forma segura bases de datos, configuraciones y scripts con pruebas de ejecución en seco."
+          },
+          "3": {
+            "title": "Soporte",
+            "desc": "Configurar métricas de monitoreo, recolectores de logs y alertas de advertencia."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Credenciales actuales de acceso al servidor",
+          "1": "Métricas aproximadas de tráfico y tamaño de la base de datos",
+          "2": "Expectativas de escala"
+        },
+        "faqs": {
+          "0": {
+            "question": "¿Cómo garantizan el tiempo de actividad?",
+            "answer": "Mediante el uso de ubicaciones de servidor redundantes, enrutamiento automático de failover de nodos y mirroring activo de bases de datos."
+          },
+          "1": {
+            "question": "¿Pueden migrar nuestras bases de datos sin tiempo de inactividad?",
+            "answer": "Sí, configurando réplicas de lectura, sincronizando transacciones en vivo y cambiando las rutas DNS en horas de menor actividad."
+          }
+        }
+      },
+      "ai-solutions": {
+        "name": "Soluciones de IA",
+        "desc": "Integración empresarial fluida de LLMs, flujos operativos automáticos, agentes conversacionales inteligentes y modelos de categorización de datos diseñados para reducir los costos operativos generales.",
+        "whatsIncluded": "Integración de modelos avanzados de inteligencia artificial en software de negocios. Incluye fine-tuning de LLM personalizado, workflows agénticos, asistentes conversacionales, modelos de clasificación y extracción inteligente de datos.",
+        "bestFor": "Empresas que desean reducir los costos operativos, automatizar tareas manuales e introducir inteligencia en su software.",
+        "whatICanBuild": {
+          "0": "Agentes de soporte al cliente con IA con recuperación personalizada de documentos (RAG)",
+          "1": "Clasificación automática, ordenamiento de correos electrónicos y scripts de redacción",
+          "2": "Modelos de parsing inteligente de documentos y extracción de datos",
+          "3": "Integraciones de bases de datos de vectores (Pinecone, pgvector) para memoria",
+          "4": "Integraciones de LLM personalizadas (API de OpenAI, Claude, Gemini)",
+          "5": "Modelos de voz a texto e integraciones de transcripción de voz",
+          "6": "Cadenas de workflows automatizadas a través de LangChain o LlamaIndex",
+          "7": "Sistemas de analítica predictiva para tendencias y planificación de negocios"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Evaluación",
+            "desc": "Identificar tareas repetitivas, revisar las estructuras de datos disponibles y definir la precisión objetivo."
+          },
+          "1": {
+            "title": "Diseño",
+            "desc": "Formular estrategias de prompts, bases de datos de memoria y presupuestos seguros de tokens."
+          },
+          "2": {
+            "title": "Desarrollo",
+            "desc": "Construir scripts de LLM, implementar sistemas RAG y refinar las respuestas contextuales."
+          },
+          "3": {
+            "title": "Despliegue",
+            "desc": "Integrar en los dashboards principales, construir sistemas de monitoreo y ejecutar benchmarks de evaluación."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Una definición clara de la tarea a automatizar",
+          "1": "Ejemplos de resultados exitosos de la tarea",
+          "2": "Claves de API o documentos comerciales sin procesar"
+        },
+        "faqs": {
+          "0": {
+            "question": "¿Cómo se previenen las alucinaciones del modelo de IA?",
+            "answer": "Al basar el LLM en bases de datos de vectores utilizando Generación Aumentada por Recuperación (RAG) y aplicando reglas estrictas de validación del sistema."
+          },
+          "1": {
+            "question": "¿Se utilizarán mis datos para entrenar modelos públicos?",
+            "answer": "No. Configuramos rutas de API que no almacenan ni utilizan tus transacciones para el entrenamiento de modelos públicos."
+          }
+        }
+      },
+      "graphic-designing": {
+        "name": "Diseño Gráfico",
+        "desc": "Identidades visuales de marca creativas, sistemas Figma interactivos, visuales profesionales para redes sociales y colaterales de marketing de alta calidad que te separan de la competencia.",
+        "whatsIncluded": "Diseño de comunicación visual de alto nivel. Creamos hermosos activos de marketing, plantillas profesionales para redes sociales, pitch decks, infografías y kits de diseño corporativo.",
+        "bestFor": "Marcas que necesitan contenido visual de alta calidad para elevar su posicionamiento, presentar a inversores o convertir clientes en redes sociales.",
+        "whatICanBuild": {
+          "0": "Colaterales de marketing premium y folletos corporativos",
+          "1": "Pitch decks personalizados de alta conversión y frameworks de presentación",
+          "2": "Plantillas para redes sociales (activos para Instagram, LinkedIn, YouTube)",
+          "3": "Infografías visuales que mapean conjuntos de datos complejos",
+          "4": "Ilustraciones vectoriales custom y sets de iconos",
+          "5": "Diseños de empaques listos para imprimir y papelería comercial",
+          "6": "Archivos PDF interactivos y ebooks digitales",
+          "7": "Sistemas de diseño en Figma con estilos de texto/diseño reutilizables"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Descubrimiento",
+            "desc": "Explorar la identidad de la marca, las preferencias de diseño y las pautas del mensaje objetivo."
+          },
+          "1": {
+            "title": "Concepto",
+            "desc": "Presentar rutas visuales preliminares, paletas de colores y diseños de estilo tipográfico."
+          },
+          "2": {
+            "title": "Producción",
+            "desc": "Desarrollar diseños refinados, iconos e infografías en alta resolución."
+          },
+          "3": {
+            "title": "Entrega",
+            "desc": "Proporcionar salidas vectoriales finales, activos vectoriales y blueprints de Figma editables."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Logotipo y pautas de branding si están disponibles",
+          "1": "Borrador de copy de texto",
+          "2": "Imágenes de referencia inspiradoras"
+        },
+        "faqs": {
+          "0": {
+            "question": "¿Obtengo la propiedad completa de los gráficos?",
+            "answer": "Sí, obtienes la propiedad total de los derechos de autor y los archivos fuente originales."
+          },
+          "1": {
+            "question": "¿Diseñas tarjetas de presentación?",
+            "answer": "Sí, los elementos estándar de papelería están incluidos en nuestro kit de identidad de marca."
+          }
+        }
+      },
+      "saas-systems": {
+        "name": "Sistemas SaaS y Software Personalizado",
+        "desc": "Estructuramos y construimos plataformas SaaS completas desde cero: arquitectura multi-inquilino, facturación por suscripción, dashboards de administración, gestión de usuarios e integraciones de API. Si tienes una idea SaaS, la convertiremos en un sistema listo para producción.",
+        "whatsIncluded": "Arquitectura y construcción completa de plataformas de Software-as-a-Service. Incluye bases de datos multi-inquilino, robustos modelos de organización de usuarios, suscripciones con Stripe Billing, registros de auditoría y modernos sistemas de claves API para desarrolladores.",
+        "bestFor": "Emprendedores y empresas que lanzan una nueva startup SaaS o digitalizan sus workflows internos en un sistema cloud.",
+        "whatICanBuild": {
+          "0": "Sistemas SaaS con diseños de bases de datos multi-inquilino",
+          "1": "Integraciones de pago con Stripe o Paddle con planes estructurados",
+          "2": "Portales de facturación detallados que muestran métricas de uso y facturas",
+          "3": "Dashboards de administración para monitoreo del sistema y anulaciones de usuarios",
+          "4": "Sistemas automatizados de correo electrónico transaccional (Postmark, SendGrid)",
+          "5": "Sistemas de gestión de claves API para clientes de integración",
+          "6": "Autenticación de múltiples factores (MFA) y flujos seguros de contraseñas",
+          "7": "Despliegues de servidores escalables con reglas de enrutamiento de carga"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Planificación",
+            "desc": "Diseñar los workflows de usuarios, reglas de permisos y rutas de suscripción."
+          },
+          "1": {
+            "title": "Arquitectura",
+            "desc": "Establecer modelos de datos seguros, rutas de escalabilidad de bases de datos y entornos cloud."
+          },
+          "2": {
+            "title": "Desarrollo",
+            "desc": "Construir frontends de clientes modulares, sistemas de backend y webhooks de pago."
+          },
+          "3": {
+            "title": "Lanzamiento",
+            "desc": "Ejecutar pruebas de penetración de seguridad, configurar dominios y lanzar a producción."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Lista de verificación detallada de características",
+          "1": "Niveles de usuarios objetivo y modelos de precios",
+          "2": "Mockups o portales de referencia"
+        },
+        "faqs": {
+          "0": {
+            "question": "¿Cómo manejan los eventos de suscripción como las cancelaciones?",
+            "answer": "Mediante el uso de webhooks seguros que escuchan automáticamente los eventos de facturación y ajustan los privilegios de la cuenta de usuario."
+          },
+          "1": {
+            "question": "¿Se pueden admitir subdominios para cada cliente?",
+            "answer": "Sí, configuramos el enrutamiento dinámico para que los clientes puedan acceder a su plataforma a través de `nombrecliente.tusaas.com`."
+          }
+        }
+      },
+      "web-development": {
+        "name": "Desarrollo Web",
+        "desc": "Aplicaciones web y sitios de marketing de alto rendimiento construidos sobre stacks modernos de JavaScript. SPAs de React, plataformas SSR de Next.js, aplicaciones full-stack MERN, entregadas con código limpio, bases sólidas de SEO y cero bloat.",
+        "whatsIncluded": "Construcción de sitios web responsivos, modernos y ultrarrápidos. Incluye optimización de velocidad de página, estructura HTML limpia, elementos de UI interactivos y diseños amigables para los motores de búsqueda.",
+        "bestFor": "Empresas que desean una presencia web limpia, máximas velocidades de carga y diseño visual moderno.",
+        "whatICanBuild": {
+          "0": "Aplicaciones rápidas de página única con React y Next.js",
+          "1": "Sitios web corporativos responsivos con estilos visuales limpios",
+          "2": "Páginas de destino de marketing optimizadas diseñadas para convertir",
+          "3": "Diseños de blogs personalizados con códigos de esquema amigables para motores de búsqueda",
+          "4": "Animaciones de UI interactivas utilizando Framer Motion",
+          "5": "Sitios web conectados a plataformas CMS (Sanity, WordPress headless)",
+          "6": "Rejillas CSS completamente responsivas que se adaptan a pantallas móviles y de escritorio",
+          "7": "Estructuras de carga de imágenes optimizadas para un renderizado rápido"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Wireframing",
+            "desc": "Acordar la estructura visual, la tipografía y las jerarquías de las páginas."
+          },
+          "1": {
+            "title": "Desarrollo",
+            "desc": "Escribir código limpio y semántico con un estilo responsivo optimizado."
+          },
+          "2": {
+            "title": "Auditoría SEO",
+            "desc": "Confirmar puntuaciones rápidas de carga de página, agregar etiquetas de metadatos y auditar elementos de diseño."
+          },
+          "3": {
+            "title": "Entrega",
+            "desc": "Configurar DNS, transferir el hosting y entregar los archivos fuente originales."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Contenido de texto de la página",
+          "1": "Pautas de branding o referencias de estilo",
+          "2": "Nombre de dominio preferido"
+        },
+        "faqs": {
+          "0": {
+            "question": "¿Qué tan rápido cargará el sitio web?",
+            "answer": "Optimizamos el código, las imágenes y las rutas de entrega para apuntar a puntuaciones de PageSpeed de 90+."
+          },
+          "1": {
+            "question": "¿Los sitios son amigables con los dispositivos móviles?",
+            "answer": "Sí, programamos los diseños de forma dinámica para adaptarse a todos los viewports de móviles, tablets y escritorios."
+          }
+        }
+      },
+      "ui-ux-design": {
+        "name": "Diseño UI/UX",
+        "desc": "Diseño respaldado por investigaciones y probado con usuarios que convierte a los visitantes en clientes. Entregamos wireframes, prototipos interactivos, sistemas de diseño completos y entregas de Figma listas para desarrolladores. Cada píxel gana su lugar.",
+        "whatsIncluded": "Diseño de interfaz y experiencia impulsado por la investigación. Incluye user journeys detallados, wireframes claros, hermosos diseños de alta fidelidad, prototipos interactivos y sistemas de diseño modulares en Figma.",
+        "bestFor": "Equipos que lanzan un nuevo producto de software o actualizan su interfaz actual para mejorar las métricas de usuarios activos y reducir la abandono.",
+        "whatICanBuild": {
+          "0": "Diseños de UI de alta fidelidad para plataformas SaaS y apps web",
+          "1": "Interfaces visuales de apps móviles (iOS y Android) en Figma",
+          "2": "Prototipos interactivos que muestran los flujos y acciones de los usuarios",
+          "3": "Sistemas de Diseño en Figma con componentes y colores reutilizables",
+          "4": "Wireframes que mapean páginas y diseños complejos",
+          "5": "Diagramas de user journey y mapas de usabilidad objetivo",
+          "6": "Blueprints de páginas de destino optimizadas para la conversión",
+          "7": "Paquetes de activos listos para desarrollo y especificaciones de diseño"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Investigación",
+            "desc": "Revisar los objetivos de los usuarios, analizar los diseños de la competencia y establecer objetivos de usabilidad."
+          },
+          "1": {
+            "title": "Wireframing",
+            "desc": "Crear esquemas básicos de páginas en blanco y negro para mapear la jerarquía de la pantalla."
+          },
+          "2": {
+            "title": "Diseño",
+            "desc": "Construir hermosos diseños, introducir colores y configurar el sistema de diseño."
+          },
+          "3": {
+            "title": "Prototipado",
+            "desc": "Vincular diseños, configurar animaciones y probar los flujos de los clientes."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Lista de características del sistema",
+          "1": "Perfiles de audiencia objetivo",
+          "2": "Apps inspiradoras o diseños de sitios web"
+        },
+        "faqs": {
+          "0": {
+            "question": "¿Qué herramientas utilizas para el diseño?",
+            "answer": "Utilizamos Figma exclusivamente, ya que permite revisiones en tiempo real y cuenta con excelentes herramientas de entrega para desarrolladores."
+          },
+          "1": {
+            "question": "¿Cómo entregan los diseños a los desarrolladores?",
+            "answer": "Estructurando las páginas de forma limpia, utilizando tokens de diseño de variables CSS y organizando los activos."
+          }
+        }
+      },
+      "graphics-branding": {
+        "name": "Gráficos e Identidad de Marca",
+        "desc": "Logotipos, kits de marca, plantillas sociales, diseño de pitch decks, colaterales de marketing y todo lo demás. Hacemos que tu marca sea imposible de ignorar.",
+        "whatsIncluded": "Creación de identidades de marca corporativas memorables. Incluye sistemas de logotipos personalizados, pautas de marca unificadas, configuraciones de tipografía corporativa, libros de color y kits de recursos para redes sociales.",
+        "bestFor": "Nuevas empresas que establecen su posicionamiento en el mercado, o marcas heredadas que ejecutan un refresco visual.",
+        "whatICanBuild": {
+          "0": "Sistemas de logotipos corporativos personalizados (wordmarks e iconos)",
+          "1": "Pautas detalladas de marca y libros de color de tipografía",
+          "2": "Pitch decks que mapean los valores y servicios corporativos",
+          "3": "Diseños unificados de tarjetas de presentación y papelería de la empresa",
+          "4": "Headers y plantillas gebrandeadas para redes sociales",
+          "5": "Kits de branding de activos digitales (iconos, diapositivas de presentación)",
+          "6": "Etiquetas de empaques y gráficos para cajas corporativas",
+          "7": "Pautas de activos vectoriales que mapean los límites de impresión y web"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Descubrimiento",
+            "desc": "Descubrir los valores de la empresa, el posicionamiento en la industria y los estilos de diseño."
+          },
+          "1": {
+            "title": "Identidad",
+            "desc": "Abocetar conceptos visuales, probar logomarcas y construir armonías de color."
+          },
+          "2": {
+            "title": "Pautas",
+            "desc": "Desarrollar reglas de branding, especificar jerarquías de fuentes y establecer parámetros de espaciado."
+          },
+          "3": {
+            "title": "Entrega",
+            "desc": "Exportar diseños vectoriales escalables (SVG, AI, PDF) y proporcionar pautas de usuario."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Nombre de la empresa y valores",
+          "1": "Sector industrial objetivo",
+          "2": "Logotipos de referencia que te gusten"
+        },
+        "faqs": {
+          "0": {
+            "question": "¿Qué archivos entregan?",
+            "answer": "Proporcionamos archivos vectoriales limpios (AI, EPS, SVG) para uso impreso y digital, junto con imágenes PNG transparentes."
+          },
+          "1": {
+            "question": "¿Diseñas tarjetas de presentación?",
+            "answer": "Sí, los elementos estándar de papelería están incluidos en nuestro kit de identidad de marca."
+          }
+        }
+      },
+      "video-editing": {
+        "name": "Edición de Video y Motion",
+        "desc": "Desde videos de demostración de productos y contenido social hasta testimonios corporativos y animaciones explicativas; nuestros editores hacen que tu marca se mueva. Optimizado para YouTube, Instagram Reels, TikTok y LinkedIn.",
+        "whatsIncluded": "Postproducción y animación de video profesional. Incluye limpieza de audio, corrección de color, animaciones de títulos, motion graphics, diseño de sonido y optimización para todas las redes sociales.",
+        "bestFor": "Empresas que utilizan el video para comercializar productos, explicar servicios complejos o escalar sus canales sociales.",
+        "whatICanBuild": {
+          "0": "Videos de demostración de productos y promos de SaaS de alta conversión",
+          "1": "Videos atractivos para redes sociales (YouTube, Reels, TikTok)",
+          "2": "Videos de animación explicativa con integración de voz en off",
+          "3": "Tipografía de títulos dinámica e integraciones de subtítulos",
+          "4": "Motion graphics que mapean gráficos e interfaces de aplicaciones",
+          "5": "Edición de testimonios corporativos y entrevistas",
+          "6": "Limpieza de audio profesional y mapas de diseño de sonido",
+          "7": "Color-grading cinematográfico y superposiciones gráficas"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Revisión",
+            "desc": "Organizar clips sin procesar, revisar guiones de narración y definir el ritmo objetivo."
+          },
+          "1": {
+            "title": "Montaje",
+            "desc": "Alinear pistas de voz, colocar los clips principales y establecer los esquemas de edición."
+          },
+          "2": {
+            "title": "Pulido",
+            "desc": "Introducir animaciones, escribir subtítulos de texto, sincronizar audio y realizar el color grade de los archivos."
+          },
+          "3": {
+            "title": "Entrega",
+            "desc": "Renderizar archivos en las dimensiones objetivo (16:9, 9:16) optimizados para la carga web."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Grabaciones de video o activos sin procesar",
+          "1": "Guiones de narración si los hay",
+          "2": "Ejemplos de estilo de edición"
+        },
+        "faqs": {
+          "0": {
+            "question": "¿Suministran música de stock?",
+            "answer": "Sí, integramos música libre de derechos y efectos de sonido en todas las ediciones."
+          },
+          "1": {
+            "question": "¿Pueden editar videos verticales para canales sociales?",
+            "answer": "Sí, renderizamos recortes verticales optimizados para Instagram, TikTok y YouTube Shorts."
+          }
+        }
+      },
+      "seo-marketing": {
+        "name": "SEO y Marketing Digital",
+        "desc": "Auditorías SEO técnicas, optimización on-page, estrategia de contenido, investigación de palabras clave, construcción de backlinks y SEO local. Hacemos que tu producto se clasifique donde tus clientes ya están buscando.",
+        "whatsIncluded": "Servicios completos de optimización en motores de búsqueda para aumentar las clasificaciones de palabras clave orgánicas. Incluye auditorías técnicas detalladas del sitio, mapas de contenido semántico, investigación de palabras clave, alcance para la construcción de enlaces y SEO localizado.",
+        "bestFor": "Empresas que desean un crecimiento sostenible y a largo plazo de leads orgánicos con visibilidad de búsqueda.",
+        "whatICanBuild": {
+          "0": "Informes de investigación de palabras clave orientados a búsquedas de usuarios de alto volumen",
+          "1": "Auditorías técnicas que diagnostican la velocidad del sitio y los errores de rastreo",
+          "2": "Diseños de páginas de destino de SEO programático para palabras clave de búsqueda",
+          "3": "Metadescripciones, títulos y jerarquías de encabezados optimizados",
+          "4": "Datos estructurados y configuraciones de schema markup para páginas de búsqueda",
+          "5": "Informes de análisis de la competencia que mapean las oportunidades de clasificación",
+          "6": "Calendarios de contenido para planificar artículos informativos objetivo",
+          "7": "Configuraciones de SEO localizado (optimización de Google Business Profile)"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Auditoría",
+            "desc": "Ejecutar revisiones técnicas de la salud del sitio, verificar las clasificaciones actuales e inspeccionar los errores de índice."
+          },
+          "1": {
+            "title": "Planificación",
+            "desc": "Mapear palabras clave informativas, planificar cambios de texto e identificar opciones de backlinks."
+          },
+          "2": {
+            "title": "Optimización",
+            "desc": "Actualizar etiquetas de encabezado, corregir el código estructural y reescribir scripts de descripción."
+          },
+          "3": {
+            "title": "Crecimiento",
+            "desc": "Desarrollar artículos de blog objetivo, construir enlaces y realizar un seguimiento del progreso semanal de indexación."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "URL de tu sitio web objetivo",
+          "1": "Servicios o ubicaciones objetivo",
+          "2": "Acceso a la analítica de tráfico de búsqueda actual"
+        },
+        "faqs": {
+          "0": {
+            "question": "¿Cuánto tiempo se tarda en ver los resultados de búsqueda?",
+            "answer": "Las actualizaciones iniciales de rastreo se muestran en 2-4 semanas. El crecimiento significativo de la clasificación se muestra en 3-6 meses, dependiendo de la competencia de las palabras clave."
+          },
+          "1": {
+            "question": "¿Escriben los artículos objetivo?",
+            "answer": "Sí, construimos un roadmap de contenido optimizado para motores de búsqueda y escribimos artículos informativos."
+          }
+        }
+      }
+    },
+    "projects": {
+      "proj-1": {
+        "title": "E-Commerce Velocity Hub",
+        "desc": "Una tienda virtual totalmente personalizada e independiente (headless) construida con React y Node, optimizada para obtener indicadores Core Web Vitals ultra-bajos. Alcanzó una puntuación de 99+ en Google PageSpeed Insights, lo que generó un incremento inmediato del 42% en la conversión estándar.",
+        "clientName": "Velocity Retail Global",
+        "results": {
+          "0": {
+            "value": "99+",
+            "label": "Puntuación de Google PageSpeed",
+            "sublabel": "Todos los Core Web Vitals en verde"
+          },
+          "1": {
+            "value": "42%",
+            "label": "Elevación de la tasa de conversión",
+            "sublabel": "Inmediato post-lanzamiento"
+          },
+          "2": {
+            "value": "<1s",
+            "label": "Tiempo para interactuar",
+            "sublabel": "En dispositivos móviles 4G"
+          }
+        },
+        "challengesSolved": {
+          "0": {
+            "title": "Tienda virtual heredada lenta",
+            "description": "La plataforma anterior tenía una puntuación inferior a 40 en PageSpeed. La reconstrucción con ISR y almacenamiento en caché de borde la elevó por encima de 99."
+          },
+          "1": {
+            "title": "Alto rebote en móviles",
+            "description": "La UI optimista, la carga de esqueletos y el TTI de menos de un segundo eliminaron los estados de espera que provocaban el abandono en móviles."
+          },
+          "2": {
+            "description": "La invalidación de caché impulsada por webhooks garantiza que las páginas se reconstruyan en el momento en que cambia el inventario o los precios."
+          },
+          "3": {
+            "title": "Abandono en el pago",
+            "description": "El pago personalizado en una sola página con carrito persistente y llenado automático redujo el abandono en un 28%."
+          }
+        },
+        "deliverables": {
+          "0": "Frontend de React headless desacoplado del backend de comercio para escalamiento independiente",
+          "1": "Next.js ISR — las páginas de productos se reconstruyen en segundo plano, sin despliegues completos por cambios de contenido",
+          "2": "Capa de API de Node.js personalizada que maneja el catálogo de productos, la búsqueda y la personalización",
+          "3": "Despliegue de CDN en el borde con invalidación de caché activada por webhooks en actualizaciones de inventario",
+          "4": "Pago en una sola página con persistencia de carrito, códigos promocionales y multi-moneda",
+          "5": "Auditoría y remediación completa de Core Web Vitals — LCP, CLS, FID en verde en todas las páginas",
+          "6": "Pipeline de CI/CD con verificaciones automatizadas de Lighthouse que filtran cada despliegue"
+        }
+      },
+      "proj-2": {
+        "title": "Sistemas de Flujo de Pacientes Impulsados por IA",
+        "desc": "Un portal inteligente de triaje de atención médica que categoriza automáticamente las solicitudes médicas, enruta los tickets clínicos y programa eventos de calendario bajo estrictas políticas de cumplimiento.",
+        "clientName": "Sana Care MedLabs LLC",
+        "results": {
+          "0": {
+            "value": "85%",
+            "label": "Automatización de triaje",
+            "sublabel": "Sin intervención humana"
+          },
+          "1": {
+            "value": "14m",
+            "label": "Tiempo prom. de espera de pacientes ahorrado",
+            "sublabel": "Desde la llegada hasta el enrutamiento"
+          },
+          "2": {
+            "value": "0",
+            "label": "Violaciones de cumplimiento",
+            "sublabel": "Bajo estrictas ejecuciones de auditoría"
+          }
+        },
+        "challengesSolved": {
+          "0": {
+            "title": "Retrasos en el ticketeo manual",
+            "description": "Las solicitudes entrantes se encolaban manualmente, tardando hasta 45 minutos en enrutarse a las clínicas estándar."
+          },
+          "1": {
+            "title": "Vulnerabilidades de seguridad",
+            "description": "Los registros médicos sensibles se manejaban a través de chats internos no seguros. Se necesitaba encriptación de extremo a extremo."
+          },
+          "2": {
+            "title": "Programación inflexible",
+            "description": "Las dobles reservas y los turnos manuales causaron altas tasas de agotamiento de los proveedores."
+          }
+        },
+        "deliverables": {
+          "0": "Portal seguro de triaje de pacientes clínicos utilizando flujos avanzados de LangChain",
+          "1": "Rutas de mensajería encriptadas de extremo a extremo con verificación de cumplimiento de HIPAA",
+          "2": "Gestor de programación multi-agente que resuelve conflictos de calendario en tiempo real",
+          "3": "Gateway de alertas por SMS que notifica a los usuarios sobre las actualizaciones de la cola"
+        }
+      },
+      "proj-3": {
+        "title": "App iOS Zenith Real Estate",
+        "desc": "Una aplicación nativa con conocimiento de la ubicación que presenta clustering de mapas en tiempo real y reactivo, filtros de propiedades de múltiples capas y experiencias de recorridos virtuales 3D en el dispositivo.",
+        "clientName": "Zenith Property LLC",
+        "results": {
+          "0": {
+            "value": "250k+",
+            "label": "Descargas de la app",
+            "sublabel": "In los primeros 3 meses"
+          },
+          "1": {
+            "value": "3.2x",
+            "label": "Tiempo de engagement del usuario",
+            "sublabel": "En comparación con la web móvil"
+          },
+          "2": {
+            "value": "4.8★",
+            "label": "Calificación de la App Store",
+            "sublabel": "Más de 5,000 opiniones activas"
+          }
+        },
+        "challengesSolved": {
+          "0": {
+            "title": "Renderizado de mapa lento",
+            "description": "Cargar miles de pins de propiedades causaba que los mapas estándar sufrieran lag o se colgaran en dispositivos de gama media."
+          },
+          "1": {
+            "title": "Alta deserción en el registro",
+            "description": "Las estructuras de inicio de sesión forzado impedían que los usuarios exploraran. Se necesitaba un flujo de invitados sin fricciones."
+          }
+        },
+        "deliverables": {
+          "0": "Aplicación Flutter personalizada con clustering nativo de mapas y gestión de memoria",
+          "1": "Filtros de búsqueda dinámicos con sliders de múltiples atributos y resultados instantáneos",
+          "2": "Integración de paywall de RevenueCat para listados de suscripción premium",
+          "3": "Automatización del pipeline de CI/CD con Fastlane para el despliegue en la App Store"
+        }
+      },
+      "proj-4": {
+        "title": "Explosión de Tráfico Orgánico SaaS",
+        "desc": "Una campaña de estructura SEO diseñada utilizando palabras clave programáticas, plantillas de páginas semánticas, asociaciones de backlinks de alta calidad y esquema markup responsivo.",
+        "clientName": "Aura Metrics SaaS",
+        "results": {
+          "0": {
+            "value": "340%",
+            "label": "Crecimiento del tráfico orgánico",
+            "sublabel": "Dentro de los primeros 4 meses"
+          },
+          "1": {
+            "value": "18.5k",
+            "label": "Palabras clave clasificadas",
+            "sublabel": "Posicionadas en el Top 10"
+          },
+          "2": {
+            "value": "$24k",
+            "label": "Presupuesto mensual de anuncios ahorrado",
+            "sublabel": "Valor de tráfico equivalente"
+          }
+        },
+        "challengesSolved": {
+          "0": {
+            "title": "Cero autoridad de dominio",
+            "description": "Marca nueva con perfil de backlinks nulo y problemas de indexación en Google Search Console."
+          },
+          "1": {
+            "title": "Bloqueos por contenido delgado",
+            "description": "Estructuras de títulos duplicadas y semántica deficiente en los encabezados impedían una alta clasificación de búsqueda."
+          }
+        },
+        "deliverables": {
+          "0": "Auditoría técnica que resuelve bloqueos de rastreo y mejoras de velocidad",
+          "1": "Actualizaciones de esquemas semánticos HTML en todas las plantillas de destino objetivo",
+          "2": "Integración dinámica de schema markup para fragmentos enriquecidos en las búsquedas",
+          "3": "Campaña estructurada de construcción de backlinks dirigida a recursos de nicho"
+        }
+      },
+      "proj-5": {
+        "title": "Plataforma Docker de Alta Disponibilidad",
+        "desc": "Una infraestructura de microservicios en Kubernetes que migra un backend heredado altamente activo a nodos escalables de AWS ECS con replicación en tiempo real y garantías de failover.",
+        "clientName": "Apex FinTech Services",
+        "results": {
+          "0": {
+            "value": "99.99%",
+            "label": "Garantía de tiempo de actividad",
+            "sublabel": "Entregado consistentemente"
+          },
+          "1": {
+            "value": "2.4x",
+            "label": "Respuesta de backend más rápida",
+            "sublabel": "A través del enrutamiento de carga de CDN"
+          },
+          "2": {
+            "value": "0",
+            "label": "Interrupciones del servicio",
+            "sublabel": "Durante las migraciones dinámicas"
+          }
+        },
+        "challengesSolved": {
+          "0": {
+            "title": "Servidor de nodo único heredado",
+            "description": "La plataforma anterior estaba alojada en un solo VPS con fugas de memoria frecuentes e interrupciones durante el alto tráfico."
+          },
+          "1": {
+            "title": "Fallos de bloqueo de base de datos",
+            "description": "Los ciclos concurrentes de escritura de los clientes causaban bloqueos de tablas y fallos transaccionales."
+          }
+        },
+        "deliverables": {
+          "0": "Entorno de microservicios contenedorizados con configuraciones de Docker y Kubernetes",
+          "1": "Clustering de AWS ECS con disponibilidad multi-zona y comprobaciones de salud de enrutamiento",
+          "2": "Balanceadores de carga CDN que configuran el almacenamiento en caché global y escudos de mitigación de DDoS",
+          "3": "Scripts de replicación automatizada de snapshots de bases de datos por hora con triggers de recuperación rápida"
+        }
+      },
+      "proj-6": {
+        "title": "Rebranding y Pautas de Diseño de Lumio",
+        "desc": "Diseño de una identidad visual limpia y moderna, completa con kits de componentes modulares, sistemas de armonía de color, ilustraciones de marca interactivas y prototipos de diseño de producto.",
+        "clientName": "Lumio Energy Corp",
+        "results": {
+          "0": {
+            "value": "100%",
+            "label": "Kit de diseño modular",
+            "sublabel": "Componentes reutilizables de Figma"
+          },
+          "1": {
+            "value": "40%",
+            "label": "Tiempo de desarrollo ahorrado",
+            "sublabel": "Utilizando tokens de diseño estrictos"
+          },
+          "2": {
+            "value": "2x",
+            "label": "Mayor tasa de conversión",
+            "sublabel": "A través de un refresco visual premium"
+          }
+        },
+        "challengesSolved": {
+          "0": {
+            "title": "Identidad visual incoherente",
+            "description": "Diferentes equipos creaban páginas de destino con paletas de colores variadas, lo que generaba una imagen de marca fragmentada."
+          },
+          "1": {
+            "title": "Entregas de componentes lentas",
+            "description": "Los ingenieros construían botones y formularios desde cero para cada nueva característica, perdiendo tiempo de desarrollo."
+          }
+        },
+        "deliverables": {
+          "0": "Sistema visual completo que cubre el logomarca custom, los colores y las jerarquías tipográficas",
+          "1": "Sistema de diseño en Figma con botones, campos, formularios y rejillas de diseño estilizados",
+          "2": "Kit de plantillas visuales para redes sociales para la producción de activos de marketing",
+          "3": "Plantillas de empaques listas para imprimir para distribuciones físicas de productos"
+        }
+      }
+    },
+    "testimonials": {
+      "test-1": {
+        "clientName": "Ahmed R.",
+        "companyName": "PackFlow",
+        "role": "Fundador",
+        "content": "Sqodex construyó nuestra app en Flutter en seis semanas y se lanzó con cero caídas el primer día. Estos chicos son reales profesionales."
+      },
+      "test-2": {
+        "clientName": "Sara M.",
+        "companyName": "TradeHub",
+        "role": "Directora de Marketing",
+        "content": "Nuestro tráfico de SEO creció un 340% en cuatro meses. El equipo es responsivo, enfocado en datos y realmente te explican lo que están haciendo."
+      },
+      "test-3": {
+        "clientName": "Bilal K.",
+        "companyName": "MoneyMover",
+        "role": "CEO",
+        "content": "Necesitábamos un sistema SaaS completo y una identidad de marca. Sqodex se encargó de todo: a tiempo, dentro del presupuesto y mejor de lo que imaginábamos."
+      },
+      "test-ecommerce": {
+        "clientName": "Director Digital",
+        "companyName": "Velocity Retail Global",
+        "role": "Director Digital",
+        "content": "La nueva tienda virtual no solo se veía mejor, sino que inmediatamente impactó de forma positiva en los ingresos. Vimos el incremento de la conversión en la primera semana de estar en vivo. La obsesión del equipo con el rendimiento dio sus frutos de una manera muy cuantificable."
+      },
+      "test-ai": {
+        "clientName": "Director Clínico",
+        "companyName": "Sana Care MedLabs LLC",
+        "role": "Director Clínico",
+        "content": "El sistema de triaje ha cambiado las reglas del juego. Hemos automatizado más del 85% de los enrutamientos estándar, y las auditorías de cumplimiento han sido impecables."
+      },
+      "test-hosting": {
+        "clientName": "Líder DevOps",
+        "companyName": "Apex FinTech Services",
+        "role": "Líder DevOps",
+        "content": "La configuración del servidor ha sido a prueba de balas. Manejamos picos de tráfico de más de 10 veces con cero ralentizaciones o fallas de bloqueo de bases de datos."
+      },
+      "test-lumio": {
+        "clientName": "Director de Marca",
+        "companyName": "Lumio Energy Corp",
+        "role": "Director de Marca",
+        "content": "Los nuevos tokens de diseño y el sistema Figma han unificado por completo nuestros productos. El tiempo de desarrollo disminuyó de inmediato."
+      }
+    },
+    "pricing": {
+      "price-web-1": {
+        "name": "Nodo de Destino de Crecimiento",
+        "description": "Ideal para startups nuevas y pantallas de lanzamiento de marcas premium que desean una velocidad excepcional.",
+        "period": "pago único",
+        "features": {
+          "0": "Diseño de Layout Personalizado en React",
+          "1": "Optimización Responsiva con Tailwind",
+          "2": "Integración de Metadatos SEO Principales",
+          "3": "Integración de Formulario Verificado por reCAPTCHA",
+          "4": "3 Meses de Monitoreo de Servidor en Vivo"
+        }
+      },
+      "price-web-2": {
+        "name": "Multi-Núcleo Empresarial",
+        "description": "Aplicación escalable integral con portal personalizado, enlaces de API y sincronización de backend.",
+        "period": "pago único",
+        "features": {
+          "0": "Servidor Next.js Híbrido Estático-SSR",
+          "1": "Configuración Completa de Hub de Dashboard CMS",
+          "2": "Replicaciones Automatizadas de Bases de Datos",
+          "3": "Hooks de Alerta Instantáneos para Discord/Slack",
+          "4": "Acceso Prioritario 24/7 a Operaciones de Servidor"
+        }
+      },
+      "price-mob-1": {
+        "name": "Shell de Lanzamiento Dinámico",
+        "description": "Plantilla de aplicación de plataforma única React Native/Flutter altamente interactiva.",
+        "period": "pago único",
+        "features": {
+          "0": "Plataforma Única iOS o Android",
+          "1": "Marcos Visuales Fluidos y Responsivos",
+          "2": "Inicio de Sesión de Cuenta Social Auth0 / Google",
+          "3": "Motor de Almacenamiento Offline Habilitado",
+          "4": "Preparación para el Despliegue en Tiendas"
+        }
+      },
+      "price-mob-2": {
+        "name": "Omnipresencia Universal",
+        "description": "Experiencia nativa construida simultáneamente para ambas tiendas principales de apps con sincronización cloud completa.",
+        "period": "pago único",
+        "features": {
+          "0": "Lanzamiento en Tiendas Duales (iOS y Android)",
+          "1": "Sincronización Cloud Segura",
+          "2": "Actualizaciones Push Locales en Tiempo Real",
+          "3": "Integración de Terminal de Pago",
+          "4": "Código con Garantía Libre de Errores por 6 Meses"
+        }
+      },
+      "price-mkt-1": {
+        "name": "Lanzamiento de Rango Base",
+        "description": "Campaña estratégica centrada en la construcción de autoridad orgánica y la resolución de bloqueos de indexación.",
+        "period": "mensual",
+        "features": {
+          "0": "Informe Completo de Integridad de Rastreo",
+          "1": "Inyecciones Semánticas de HTML y Schema",
+          "2": "12 Tracks de Palabras Clave de Nicho de Alto Rendimiento",
+          "3": "Seguimiento de Dashboard de Rendimiento",
+          "4": "Informe Mensual de Métricas de Crecimiento"
+        }
+      },
+      "price-mkt-2": {
+        "name": "Escala de Hiper-Velocidad",
+        "description": "Programa de aceleración digital de embudo completo que vincula frameworks de SEO, PPC y Retargeting.",
+        "period": "mensual",
+        "features": {
+          "0": "Sistema Integral Orgánico y Pagado",
+          "1": "Webhooks Automatizados de Flujo de Anuncios de Leads",
+          "2": "Infusión Bimestral de Contenido Estratégico",
+          "3": "Enlaces de Referencia de Alta Autoridad (6/mes)",
+          "4": "Auditorías en Vivo en Tiempo Real Bi-Semanales"
+        }
+      },
+      "price-hst-1": {
+        "name": "Nodo Cloud Shield",
+        "description": "Nodo de servidor virtual seguro, confiable y administrado con carga de contenido globalmente rápida.",
+        "period": "mensual",
+        "features": {
+          "0": "Nivel de Almacenamiento SSD de Alta Velocidad",
+          "1": "Caché Global de CDN de Enrutador de Borde",
+          "2": "Respaldo Offline Diario Automatizado",
+          "3": "Certificado SSL (estándar ECDSA)",
+          "4": "Salvaguardas de Intercepción de DDoS"
+        }
+      },
+      "price-hst-2": {
+        "name": "Kubernetes Multi-Zona",
+        "description": "Stack de contenedores con autoescala distribuido para endpoints SaaS modernos de alto tráfico.",
+        "period": "mensual",
+        "features": {
+          "0": "Pods de Contenedores de Alta Disponibilidad",
+          "1": "Replicación Geográfica Activa-Activa",
+          "2": "Observabilidad en Tiempo Real con Grafana",
+          "3": "Configuración de Alertas Custom de Cloud Watch",
+          "4": "Acuerdo de SLA de Nodo Garantizado del 99.99%"
+        }
+      },
+      "price-ai-1": {
+        "name": "Kit Orquestador de Agentes",
+        "description": "Despliega pipelines útiles de enrutamiento de IA para filtrar instantáneamente las solicitudes de los clientes.",
+        "period": "pago único",
+        "features": {
+          "0": "Integración de API de Gemini / OpenAI",
+          "1": "Clasificador de Tickets Conversacional",
+          "2": "Sincronización Custom de Documentos de Base de Conocimientos",
+          "3": "Flujo de Inyección de Contexto de Leads",
+          "4": "1 Mes de Soporte de Integración"
+        }
+      },
+      "price-dsn-1": {
+        "name": "Framework de Marca Central",
+        "description": "Paquete de activos de identidad completamente estructurado listo para posicionar a tu empresa para el crecimiento empresarial.",
+        "period": "pago único",
+        "features": {
+          "0": "Sistema de Logotipo Vectorial Moderno",
+          "1": "Guías de Jerarquía de Color y Tipografía",
+          "2": "6 Plantillas Sociales Editables de Alta Calidad",
+          "3": "Kit de Tarjeta de Presentación y Papelería",
+          "4": "Acceso a la Fuente de Activos de Figma"
+        }
+      }
+    }
+  },
+  "brands": {
+    "title": "Con la Confianza de las Marcas Líderes",
+    "digital_boost_world": "DIGITAL BOOST WORLD",
+    "digital": "DIGITAL",
+    "shoplite": "shoplite",
+    "ezaashop": "EZAASHOP",
+    "usecs": "USECS",
+    "codevenator": "CODEVENATOR",
+    "nexiestech": "nexiestech"
+  },
+  "whyChooseUs": {
+    "title": "Por Qué Elegirnos",
+    "subtitle": "La Ventaja de Sqodex",
+    "cards": {
+      "0": {
+        "title": "Ingeniería Senior",
+        "desc": "Todo nuestro código está escrito por ingenieros senior."
+      },
+      "1": {
+        "title": "Cero Bloat",
+        "desc": "Construimos apps altamente optimizadas sin plugins innecesarios."
+      },
+      "2": {
+        "title": "Arquitectura Escalable",
+        "desc": "Construido para manejar miles de usuarios concurrentes."
+      }
+    }
+  },
+  "projects_page": {
+    "title": "Proyectos",
+    "subtitle": "Explora nuestro trabajo reciente",
+    "view_project": "Ver Detalles del Proyecto",
+    "back": "Volver al Inicio",
+    "title_span": "Portal",
+    "desc": "Un repositorio seguro de éxito en ingeniería digital. Sumérgete en nuestros sitios web en vivo, productos de software móvil y avanzadas integraciones de sistemas.",
+    "search_placeholder": "Buscar por título, tecnología, cliente...",
+    "show_favs": "Mostrar Solo Favoritos",
+    "filter_cat": "Filtrar por Categoría",
+    "all_projects": "Todos los Proyectos",
+    "no_matches": "No se encontraron proyectos coincidentes",
+    "no_matches_fav": "Aún no has guardado ningún proyecto como favorito. Intenta marcar algunos con el icono de corazón.",
+    "no_matches_search": "Intenta ajustar tus términos de búsqueda o seleccionar otra categoría para ver otros proyectos.",
+    "clear_favs": "Limpiar Filtro de Favoritos"
+  },
+  "services_page": {
+    "seo_title": "Nuestros Servicios y Capacidades Digitales | Sqodex Peshawar",
+    "seo_description": "Explore el conjunto completo de servicios digitales que ofrece Sqodex: desarrollo web, aplicaciones móviles, sistemas SaaS, diseño UI/UX y SEO.",
+    "back_to_home": "Volver al Inicio",
+    "title": "Nuestro Portal de",
+    "title_span": "Servicios",
+    "desc": "Desde el wireframing inicial y prototipos interactivos hasta sistemas SaaS empresariales y marketing digital de alto ROI, entregamos soluciones robustas y diseñadas con SEO a la medida para la escala empresarial.",
+    "search_placeholder": "Buscar servicios, tech stacks, plataformas...",
+    "no_results_title": "No se encontraron servicios coincidentes",
+    "no_results_desc": "Intenta ajustar tus términos de búsqueda para explorar nuestras ofertas principales.",
+    "service_prefix": "SERVICIO",
+    "more": "MÁS",
+    "view_service": "Aprender Más",
+    "all_services": "Todos los Servicios"
+  },
+  "project_card": {
+    "featured": "DESTACADO",
+    "live_demo": "Demo en Vivo",
+    "github": "GitHub",
+    "read_case_study": "Leer Caso de Estudio"
+  },
+  "project_detail": {
+    "not_found_title": "Caso de Estudio No Encontrado",
+    "return_home": "Volver al Inicio",
+    "back": "Volver",
+    "featured": "Destacado",
+    "case_study": "Caso de Estudio",
+    "client": "Cliente",
+    "completed": "Completado",
+    "category": "Categoría",
+    "overview": "Resumen General",
+    "results": "Resultados",
+    "challenges": "Desafíos Que Solucionamos",
+    "deliverables": "Qué Entregamos",
+    "tech_stack": "Tech Stack",
+    "client_feedback": "Feedback del Cliente",
+    "gallery": "Galería del Caso de Estudio",
+    "zoom": "Zoom",
+    "cta_title": "¿Quieres resultados como estos?",
+    "cta_desc": "Hablemos de tu proyecto y construyamos una solución a la medida.",
+    "start_project": "Iniciar un proyecto",
+    "ask_about": "Preguntar sobre esto",
+    "similar_projects": "Proyectos Similares",
+    "image": "Imagen",
+    "of": "de",
+    "key_results": "Resultados Clave",
+    "the_challenge": "El Desafío",
+    "the_solution": "La Solución",
+    "challenges_overcome": "Desafíos Superados",
+    "key_deliverables": "Entregables Clave",
+    "live_site": "Visitar Sitio en Vivo",
+    "related_projects": "Proyectos Relacionados"
+  },
+  "service_detail": {
+    "not_found_title": "Servicio No Encontrado",
+    "return_home": "Volver al Inicio",
+    "back": "Volver",
+    "service_label": "Servicio —",
+    "start_project": "Iniciar un proyecto",
+    "whats_included": "Qué está incluido",
+    "what_i_can_build": "Qué puedo construir",
+    "best_for": "Ideal para",
+    "how_we_work": "Cómo trabajamos",
+    "how_we_work_title": "Un camino claro desde la idea hasta la entrega",
+    "what_i_need": "Qué necesito de ti",
+    "cta_title": "¿Listo para iniciar tu proyecto?",
+    "cta_desc": "Cuéntame tu idea y descubriremos el camino correcto a seguir, sin compromisos.",
+    "start_conversation": "Iniciar una conversación",
+    "learn_more": "Aprender más ↗",
+    "our_work": "Nuestro Trabajo",
+    "related_projects": "Proyectos Relacionados",
+    "back_to_services": "Volver a Servicios",
+    "whats_included_label": "Qué está Incluido",
+    "what_we_build": "Qué Construimos",
+    "how_we_work_label": "Cómo Trabajamos",
+    "what_we_need": "Qué Necesitamos De Ti",
+    "faqs": "Preguntas Frecuentes",
+    "pricing": "Planes de Precios",
+    "popular": "Más Popular",
+    "get_started": "Comenzar",
+    "monthly": "/mes",
+    "one_off": "pago único"
+  },
+  "featured_projects": {
+    "badge": "Nuestras Obras Maestras",
+    "title": "Proyectos",
+    "title_span": "Destacados",
+    "subtitle": "Despliegues y casos de estudio recientes.",
+    "desc": "Explora algunos de nuestros trabajos más impactantes, construidos a la medida para ofrecer un alto rendimiento, una estética hermosa y un crecimiento cuantificable. Descubre por qué las marcas ambiciosas eligen a Sqodex para construir productos digitales que están listos para hacer crecer su negocio y acelerar sus ingresos.",
+    "view_all": "Explorar Todos los Proyectos"
+  },
+  "testimonials_section": {
+    "badge": "Libro Mayor de Confianza del Cliente",
+    "title": "Lo Que Las Marcas En Crecimiento Dicen De Sqodex",
+    "desc": "Opiniones verificadas de socios con respecto a nuestros pipelines de entrega rápida, precisión de código estructural y layouts de diseño altamente convertibles.",
+    "title_span": "Feedback",
+    "subtitle": "Lo que nuestros socios dicen de nosotros."
+  },
+  "app": {
+    "whatsapp_tooltip": "Chatea con un Ingeniero",
+    "whatsapp_message": "Hola Sqodex, me gustaría consultar sobre sus servicios digitales.",
+    "whatsapp_cta": "Contactar a Sqodex por WhatsApp",
+    "projects_delivered": "Proyectos Entregados",
+    "saas_systems": "Sistemas SaaS en Vivo",
+    "trusted_by": "Socios de Confianza"
+  },
+  "about_section": {
+    "slogan": "Estándar de Ingeniería Soberana",
+    "title_prefix": "Impulsados Por La Pasión,",
+    "title_suffix": "Diseñados Para Escalar.",
+    "p1_text": "es un colectivo de ingenieros de software de élite, arquitectos creativos y estrategas digitales. Nos especializamos en la construcción de productos digitales seguros y de alta velocidad, desde portales web hyper-optimizados hasta sistemas SaaS empresariales complejos y escalables.",
+    "p2_text": "Creemos en el desarrollo soberano: escribir código limpio y modular sin bloat. Al combinar frameworks de vanguardia con estándares de calidad intransigentes, entregamos soluciones robustas que brindan a nuestros socios una ventaja definitiva en su mercado.",
+    "stats": {
+      "0": {
+        "label": "Años de Excelencia"
+      },
+      "1": {
+        "label": "Marcas en Todo el Mundo"
+      },
+      "2": {
+        "label": "Proyectos Entregados"
+      },
+      "3": {
+        "label": "Satisfacción del Cliente"
+      }
+    },
+    "values_title": "Nuestros Principios Core",
+    "values": {
+      "0": {
+        "title": "Felicidad",
+        "desc": "Los equipos felices entregan resultados extraordinarios para tu marca."
+      },
+      "1": {
+        "title": "Honestidad",
+        "desc": "La comunicación transparente construye una confianza inquebrantable con el cliente."
+      },
+      "2": {
+        "title": "Dedicación",
+        "desc": "Un enfoque implacable en lograr tus objetivos de crecimiento comercial."
+      },
+      "3": {
+        "title": "Transparencia",
+        "desc": "Procesos de desarrollo claros e informes abiertos en cada paso."
+      },
+      "4": {
+        "title": "Empatía",
+        "desc": "Comprender tus desafíos profundos para diseñar soluciones a la medida."
+      }
+    }
+  },
+  "why_choose_us_section": {
+    "badge": "POR QUÉ SQODEX",
+    "title_main": "Por Qué Elegir",
+    "title_highlight": "SQODEX",
+    "desc": "Entregamos productos digitales de alto rendimiento que ayudan a las marcas a escalar. Así es como nos diferenciamos de la competencia.",
+    "card1": {
+      "title": "Soluciones de Extremo a Extremo",
+      "desc": "Desde el diseño técnico estratégico hasta el despliegue global, gestionamos todo el ciclo de vida técnico para que tu equipo pueda enfocarse en la expansión del mercado."
+    },
+    "card2": {
+      "title": "Integración de Stacks de Próxima Generación",
+      "desc": "Diseñado utilizando stacks modernos que incluyen React, Node.js, Flutter y Kotlin con rendimiento y escalabilidad garantizados."
+    },
+    "card3": {
+      "title": "Flexibilidad de Stacks",
+      "desc": "Un tech stack hecho a la medida y perfectamente alineado con tus requisitos comerciales, asegurando un rendimiento óptimo, escalabilidad y mantenimiento a largo plazo. Tu visión, tu stack, nuestra experiencia."
+    },
+    "card4": {
+      "title": "Rendimiento, Analítica y Soporte",
+      "desc": "Mantenimiento integral post-lanzamiento, monitoreo del rendimiento y servicios de mejora continua para asegurar que tus activos digitales evolve con tus objetivos comerciales."
+    },
+    "card5": {
+      "title": "Auditorías de Seguridad y Recuperación",
+      "desc": "Protege tus activos digitales con nuestros servicios integrales de auditoría de seguridad. Identificamos vulnerabilidades y proporcionamos soluciones robustas de recuperación para salvaguardar tus datos y operaciones."
+    },
+    "card6": {
+      "title": "Innovación a Prueba de Futuro",
+      "desc": "Obtén una ventaja competitiva inmediata. Inyectamos capacidades de vanguardia —desde AI/LLMs hasta microservicios autónomos— en tu del núcleo de tu producto hoy mismo."
+    }
+  },
+  "workflow_section": {
+    "process": "Nuestro Proceso",
+    "title_main": "De la idea al lanzamiento en",
+    "title_highlight": "cuatro pasos claros.",
+    "desc": "Un ciclo de vida sistemático y predecible diseñado para entregar productos digitales de alto rendimiento desde el concepto hasta la escala.",
+    "steps": {
+      "0": {
+        "title": "Llamada de Descubrimiento",
+        "desc": "Conocemos tus objetivos, usuarios, cronograma y presupuesto en una sesión gratuita de 30 minutos. Sin rodeos."
+      },
+      "1": {
+        "title": "Propuesta y Alcance",
+        "desc": "Recibes un alcance detallado del proyecto, un cronograma y una propuesta de precio fijo dentro de las 48 horas."
+      },
+      "2": {
+        "title": "Diseño y Construcción",
+        "desc": "Nuestro squad se pone a trabajar. Te mantienes al tanto con reuniones semanales de control y un tablero de proyecto compartido."
+      },
+      "3": {
+        "title": "Lanzamiento y Soporte",
+        "desc": "Desplegamos, probamos y entregamos un producto pulido, y luego permanecemos disponibles para soporte continuo."
+      }
+    }
+  }
+}

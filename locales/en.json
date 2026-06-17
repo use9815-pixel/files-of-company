@@ -1,0 +1,2119 @@
+{
+  "services_link": "Services",
+  "projects": "Projects",
+  "cases": "Case Studies",
+  "testimonials": "Testimonials",
+  "contact_link": "Contact",
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Let's discuss your next project",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "company": "Company (Optional)",
+      "service": "Select a Service",
+      "budget": "Estimated Budget",
+      "message": "Project Details",
+      "submit": "Send My Brief →",
+      "success": "Message sent successfully!",
+      "error_reject": "SUBMISSION SYSTEM REJECT",
+      "projectType": "Project Type",
+      "projectType_1": "Quick Task — Single Deliverable",
+      "projectType_2": "Growth Project — Multi-Phase",
+      "projectType_3": "Enterprise Solution — Full Scale",
+      "messagePlaceholder": "Tell us about your project objectives, timeline, requirements...",
+      "sending": "Sending..."
+    },
+    "validation_error": "Please fill out all mandatory fields (Full Name, Email, and Project Brief).",
+    "badge": "Get In Touch",
+    "title_main": "Let's discuss your vision.",
+    "title_highlight": "No strings attached.",
+    "desc": "Got a new project in mind or need to scale an existing system? Drop us a brief message about what you're trying to achieve. Our team will review your requirements and outline the exact steps we'd take to build it.",
+    "success_title": "Project Brief Transmitted!",
+    "success_button": "Send Another Message",
+    "mailto_success": "Your email client has been opened with your brief pre-filled. Please hit Send to complete your inquiry. We'll respond within 24 hours!",
+    "info": {
+      "email_label": "Email Us",
+      "email_value": "contact@sqodex.com",
+      "phone_label": "WhatsApp & Call",
+      "phone_value": "+92 327 9048797",
+      "address_label": "Headquarters",
+      "address_value": "Peshawar, KPK, Pakistan",
+      "response_time": "Response time guarantee: Under 24 Hours"
+    },
+    "placeholders": {
+      "name": "John Doe",
+      "email": "john@example.com",
+      "phone": "+1 (555) 000-0000",
+      "company": "Acme Corp"
+    }
+  },
+  "proposal": "Instant Proposal",
+  "agency": "Squad | Connect | Conquer",
+  "header": {
+    "toggle_language": "Toggle Language",
+    "toggle_theme": "Toggle App Theme Color",
+    "support_line": "SUPPORT LINE",
+    "hq_location": "HQ: Peshawar, Pakistan",
+    "languages": {
+      "en": "English",
+      "ur": "اردو",
+      "es": "Español",
+      "hi": "हिन्दी",
+      "ar": "العربية",
+      "zh": "中文",
+      "de": "Deutsch",
+      "la": "Latin",
+      "ja": "日本語"
+    }
+  },
+  "hero": {
+    "description": "From custom design to final launch, we build high-performing digital products that help your brand scale, attract customers, and increase revenue.",
+    "badgeText": "OUR EXPERTISE",
+    "primaryBtnText": "Explore Our Services",
+    "secondaryBtnText": "Get Free Consultation",
+    "star_rated": "5.0 Star Rated Hub",
+    "secp_integrity": "Registered SECP Integrity",
+    "projects_delivered": "200+ App Projects Delivered",
+    "saas_systems": "SaaS Systems Built",
+    "trusted_by": "Trusted by Founders & Enterprises",
+    "categories": {
+      "website-development": {
+        "title_prefix": "Custom Web \\n Development &",
+        "title_suffix": "Next.js",
+        "subtitle": "We construct sovereign, high-velocity web portals, responsive static sites, and robust headless APIs featuring real-time telemetry, extreme index speeds, and conversion-optimized architectures.",
+        "badge": "Web System Architects",
+        "primary_btn": "Hire Web Developers",
+        "secondary_btn": "Get Free Web Estimate",
+        "agent_msg": "Interface fully optimized for 99+ Core Web Vitals.",
+        "mockup": {
+          "local_render": "💻 Local render",
+          "schema_json": "⚡ schema.json",
+          "latency_monitoring": "Latency Monitoring",
+          "performance_index": "Performance Index Score",
+          "fully_hydrated": "Fully hydrated components",
+          "reduce_latency": "Reduce Latency",
+          "hydration_renders": "Hydration Renders",
+          "component_builds": "component builds",
+          "sovereign_standard": "Sovereign Standard",
+          "strictly_ssl": "Strictly SSL Signed"
+        }
+      },
+      "mobile-apps": {
+        "title_prefix": "Mobile App \\n Development &",
+        "title_suffix": "Flutter",
+        "subtitle": "We engineer lightning-responsive Flutter & React Native applications. Fluid 60fps gesture response grids, automated offlineSQLite databases sync, and fast biometrics sign-ons.",
+        "badge": "Native App Development",
+        "primary_btn": "Hire App Developers",
+        "secondary_btn": "Get Free App Quote",
+        "agent_msg": "Universal flutter integrations deployed successfully.",
+        "mockup": {
+          "good_morning": "Good morning,",
+          "total_balance": "Total Balance",
+          "send": "Send",
+          "receive": "Receive",
+          "swap": "Swap",
+          "more": "More",
+          "recent_activity": "Recent Activity",
+          "view_all": "View All",
+          "home": "Home"
+        }
+      },
+      "digital-marketing": {
+        "title_prefix": "Search Engine \\n Optimization &",
+        "title_suffix": "SEO",
+        "subtitle": "Unlock premium indexing speeds, organic semantic optimizations, and targeted ad conversions. Build authority schemas that trigger Google indexing crawlers instantly.",
+        "badge": "High-yield SEO Growth",
+        "primary_btn": "Rank #1 on Google",
+        "secondary_btn": "Free SEO Audit",
+        "agent_msg": "Traffic indexes expanded by over 240% organically.",
+        "mockup": {
+          "funnel_logs": "CONVERSION FUNNEL LOGS",
+          "agent": "Sqodex Agent",
+          "customers_served": "Customers Served Log",
+          "growth": "Growth",
+          "boost_funnel": "Boost Funnel Flow",
+          "authority_index": "Authority Index Lift Metrics (60d)",
+          "indexing_audits": "Indexing Keyword Audits",
+          "indexed": "● Indexed",
+          "pending": "○ Pending"
+        }
+      },
+      "hosting": {
+        "title_prefix": "Managed Cloud \\n Hosting &",
+        "title_suffix": "AWS DevOps",
+        "subtitle": "Host with premium reliability. Deployed on multi-availability microservice pods, managed AWS load balancers, CDN caching lookup networks, and automated snapshots backup layers.",
+        "badge": "High Availability DevOps",
+        "primary_btn": "Deploy High-Speed Cloud",
+        "secondary_btn": "Get Server Quote",
+        "agent_msg": "Port 3000 secure. Active ping rate of 8.4ms.",
+        "mockup": {
+          "terminal": "SHELL SECURITY TERMINAL",
+          "clusters_online": "CLUSTERS_ONLINE",
+          "cpu_load": "Core CPU Load",
+          "utilization": "Utilization",
+          "deploy_commands": "Deploy sandbox commands",
+          "webhooks_ready": "Webhooks Ready",
+          "scale_container": "Scale Container"
+        }
+      },
+      "ai-solutions": {
+        "title_prefix": "Custom AI \\n Integration &",
+        "title_suffix": "LLM Agents",
+        "subtitle": "Seamlessly integrate robust enterprise LLMs on secure local databases. Build automated pipeline ticket routers, conversational knowledge bases, and automatic data categorization nodes.",
+        "badge": "AI Engine Integrators",
+        "primary_btn": "Integrate Custom AI",
+        "secondary_btn": "Draft AI Strategy",
+        "agent_msg": "Vector database synchronization completed successfully.",
+        "mockup": {
+          "orchestrator": "AI WORKFLOW ORCHESTRATOR",
+          "active_module": "ACTIVE MODULE",
+          "visitor_request": "Visitor Request User",
+          "autonomous_agent": "Autonomous Router Agent",
+          "processing": "Processing response through neural pipelines...",
+          "select_params": "Select simulated request parameters",
+          "trigger_secp": "🚀 Trigger SECP node parameter integration",
+          "generate_vector": "🤖 Generate Vector schemas optimization"
+        }
+      },
+      "graphic-designing": {
+        "title_prefix": "Graphics & \\n Brand",
+        "title_suffix": "Identity",
+        "subtitle": "Establish sovereign commercial identity assets. Modern typography formulas, integrated Figma systems, color harmony metrics, and editable high-quality branding assets.",
+        "badge": "Creative UX/UI Design Labs",
+        "primary_btn": "Get Custom UI Design",
+        "secondary_btn": "Get Brand Design Quote",
+        "agent_msg": "Created fresh typography manuals & brand styles guides.",
+        "mockup": {
+          "workbench": "CREATIVE DESIGN WORKBENCH",
+          "figma_canvas": "FIGMA CANVAS",
+          "identity_pro": "Lumio Identity Pro",
+          "dimensions": "Vector Dimensions:",
+          "angle": "Angle:",
+          "select_themes": "Select simulated color theme palettes",
+          "width": "Width:"
+        }
+      },
+      "saas-systems": {
+        "title_prefix": "SaaS Systems \\n & Custom",
+        "title_suffix": "Software",
+        "subtitle": "We architect and build full-featured SaaS platforms from the ground up — multi-tenant database architecture, Stripe/Paddle subscription billing, admin super-dashboards, and role-based access control.",
+        "badge": "Enterprise SaaS Studio",
+        "primary_btn": "Build SaaS System",
+        "secondary_btn": "Get SaaS Consultation",
+        "agent_msg": "System architecture review completed.",
+        "mockup": {
+          "metrics": "SAAS ADMIN METRICS",
+          "clusters": "ACTIVE CLUSTERS",
+          "db_connection": "Database Connection",
+          "active": "● Active",
+          "api_health": "API Health Index",
+          "tenancies": "Total Tenancies Active",
+          "nodes": "Nodes"
+        }
+      },
+      "ui-ux-design": {
+        "title_prefix": "UI/UX Design \\n & Interactive",
+        "title_suffix": "Prototypes",
+        "subtitle": "We deliver wireframes, interactive prototypes, full design systems, and developer-ready Figma handoffs. Every pixel earns its place and is built to convert.",
+        "badge": "UI/UX Design Studio",
+        "primary_btn": "Hire UI/UX Designer",
+        "secondary_btn": "Request UI/UX Quote",
+        "agent_msg": "Figma design system updated.",
+        "mockup": {
+          "workbench": "CREATIVE DESIGN WORKBENCH",
+          "canvas": "FIGMA CANVAS",
+          "zoom": "100% Zoom",
+          "switch_viewports": "Switch Canvas Viewports",
+          "wireframes": "Wireframes",
+          "design_system": "Design System",
+          "mobile_prototype": "Mobile Prototype"
+        }
+      },
+      "video-editing": {
+        "title_prefix": "Video Editing \\n & Motion",
+        "title_suffix": "Graphics",
+        "subtitle": "Product demo videos, explainer animations, and high-impact social content optimized for YouTube, Instagram Reels, TikTok, and LinkedIn algorithms.",
+        "badge": "Motion Graphics Lab",
+        "primary_btn": "Start Video Project",
+        "secondary_btn": "Get Editing Proposal",
+        "agent_msg": "Social video timelines optimized.",
+        "mockup": {
+          "renderer": "TIMELINE RENDERER",
+          "ultra_comp": "4K_ULTRA_COMP",
+          "live_preview": "LIVE PREVIEW",
+          "telemetry": "Video Render Telemetry",
+          "active_encoder": "Active Encoder",
+          "timeline_latency": "Timeline Latency",
+          "zero_lag": "0.8ms (Zero Frame Lag)"
+        }
+      }
+    },
+    "default": {
+      "title": {
+        "1": "Elite Digital Services",
+        "2": "&",
+        "3": "Software Engineering"
+      },
+      "badges": {
+        "0": "Next.js & React 19 Core",
+        "1": "Framer Fluid Motion",
+        "2": "Strict SSL Security",
+        "3": "99+ Lighthouse Scores"
+      },
+      "mockup": {
+        "sandbox": "Interactive Estimator Sandbox Ready",
+        "select_pillars": "Select digital pillars underneath to load custom themed SaaS dashboards."
+      }
+    },
+    "web": {
+      "title": {
+        "1": "Custom Web",
+        "2": "Development &",
+        "3": "Next.js"
+      },
+      "subtitle": "We construct sovereign, high-velocity web portals, responsive static sites, and robust headless APIs featuring real-time telemetry, extreme index speeds, and conversion-optimized architectures.",
+      "badgeText": "Web System Architects",
+      "badges": {
+        "0": "Server-Side Rendering",
+        "1": "Global Edge CDNs",
+        "2": "Secure REST/GraphQL",
+        "3": "99 Lighthouse Perf"
+      },
+      "btn_primary": "Hire Web Developers",
+      "btn_secondary": "Get Free Web Estimate",
+      "agent": {
+        "role": "Lead Architect",
+        "msg": "Interface fully optimized for 99+ Core Web Vitals."
+      },
+      "mockup": {
+        "local_render": "💻 Local render",
+        "schema_json": "⚡ schema.json",
+        "latency_monitoring": "Latency Monitoring",
+        "performance_score": "Performance Index Score",
+        "fully_hydrated": "Fully hydrated components",
+        "reduce_latency": "Reduce Latency",
+        "hydration_renders": "Hydration Renders",
+        "component_builds": "component builds",
+        "sovereign_standard": "Sovereign Standard",
+        "ssl": "Strictly SSL Signed"
+      }
+    },
+    "mobile": {
+      "title": {
+        "1": "Mobile App",
+        "2": "Development &",
+        "3": "Flutter"
+      },
+      "subtitle": "We engineer lightning-responsive Flutter & React Native applications. Fluid 60fps gesture response grids, automated offlineSQLite databases sync, and fast biometrics sign-ons.",
+      "badgeText": "Native App Development",
+      "badges": {
+        "0": "Dual iOS/Android builds",
+        "1": "Biometric Touch Enabled",
+        "2": "Fluid Gesture engine",
+        "3": "6 Months Bug Guarantee"
+      },
+      "btn_primary": "Hire App Developers",
+      "btn_secondary": "Get Free App Quote",
+      "agent": {
+        "role": "App Lead Architect",
+        "msg": "Universal flutter integrations deployed successfully."
+      },
+      "mockup": {
+        "greeting": "Good morning,",
+        "user": "Sarah Johnson",
+        "total_balance": "Total Balance",
+        "send": "Send",
+        "receive": "Receive",
+        "swap": "Swap",
+        "more": "More",
+        "recent_activity": "Recent Activity",
+        "view_all": "View All"
+      }
+    },
+    "marketing": {
+      "title": {
+        "1": "Search Engine",
+        "2": "Optimization &",
+        "3": "SEO"
+      },
+      "subtitle": "Unlock premium indexing speeds, organic semantic optimizations, and targeted ad conversions. Build authority schemas that trigger Google indexing crawlers instantly.",
+      "badgeText": "High-yield SEO Growth",
+      "badges": {
+        "0": "programmatic SEO",
+        "1": "PPC ad webhooks",
+        "2": "Keyword crawl engine",
+        "3": "Live real-time dashboards"
+      },
+      "btn_primary": "Rank #1 on Google",
+      "btn_secondary": "Free SEO Audit",
+      "agent": {
+        "role": "Chief Of Operations HQ",
+        "msg": "Traffic indexes expanded by over 240% organically."
+      },
+      "mockup": {
+        "funnel_logs": "CONVERSION FUNNEL LOGS",
+        "agent": "Sqodex Agent",
+        "customers": "Customers Served Log",
+        "growth": "Growth",
+        "btn_boost": "Boost Funnel Flow",
+        "metrics_title": "Authority Index Lift Metrics (60d)",
+        "audits": "Indexing Keyword Audits",
+        "indexed": "● Indexed",
+        "pending": "○ Pending"
+      }
+    },
+    "hosting": {
+      "title": {
+        "1": "Managed Cloud",
+        "2": "Hosting &",
+        "3": "AWS DevOps"
+      },
+      "subtitle": "Host with premium reliability. Deployed on multi-availability microservice pods, managed AWS load balancers, CDN caching lookup networks, and automated snapshots backup layers.",
+      "badgeText": "High Availability DevOps",
+      "badges": {
+        "0": "Multi-Zone Containers",
+        "1": "ECDSA TLS Security",
+        "2": "Nginx Route caching",
+        "3": "Grafana telemetry metrics"
+      },
+      "btn_primary": "Deploy High-Speed Cloud",
+      "btn_secondary": "Get Server Quote",
+      "agent": {
+        "role": "Security Cluster Supervisor",
+        "msg": "Port 3000 secure. Active ping rate of 8.4ms."
+      },
+      "mockup": {
+        "terminal": "SHELL SECURITY TERMINAL",
+        "status": "CLUSTERS_ONLINE",
+        "cpu_title": "Core CPU Load",
+        "cpu_util": "Utilization",
+        "deploy_cmds": "Deploy sandbox commands",
+        "btn_webhooks": "Webhooks Ready",
+        "btn_scale": "Scale Container"
+      }
+    },
+    "ai": {
+      "title": {
+        "1": "Custom AI",
+        "2": "Integration &",
+        "3": "LLM Agents"
+      },
+      "subtitle": "Seamlessly integrate robust enterprise LLMs on secure local databases. Build automated pipeline ticket routers, conversational knowledge bases, and automatic data categorization nodes.",
+      "badgeText": "AI Engine Integrators",
+      "badges": {
+        "0": "Gemini / OpenAI API",
+        "1": "Vector database sync",
+        "2": "Autonomous routing AI",
+        "3": "CRM system webhooks"
+      },
+      "btn_primary": "Integrate Custom AI",
+      "btn_secondary": "Draft AI Strategy",
+      "agent": {
+        "role": "Principal LLM Architect",
+        "msg": "Vector database synchronization completed successfully."
+      },
+      "mockup": {
+        "orchestrator": "AI WORKFLOW ORCHESTRATOR",
+        "active_module": "ACTIVE MODULE",
+        "user_role": "Visitor Request User",
+        "agent_role": "Autonomous Router Agent",
+        "processing": "Processing response through neural pipelines...",
+        "select_params": "Select simulated request parameters",
+        "btn_trigger_secp": "🚀 Trigger SECP node parameter integration",
+        "btn_generate_vector": "🤖 Generate Vector schemas optimization"
+      },
+      "online_msg": "Systems online. Select an automated workflow parameter below to generate a live sandbox response.",
+      "default_response": "Autonomous routing workflow synchronizations active.",
+      "streaming": {
+        "0": "Securing route parameters... API layers ready to bind at Peshawar corporate nodes.",
+        "1": "Syncing schemas. Generated 14 dynamic classification vectors with OpenAI/Gemini logic.",
+        "2": "Optimizing. Outputting fully response-ready semantic structures supporting continuous crawl."
+      }
+    },
+    "uiux": {
+      "title": {
+        "1": "UI/UX Design",
+        "2": "& Interactive",
+        "3": "Prototypes"
+      },
+      "subtitle": "We deliver wireframes, interactive prototypes, full design systems, and developer-ready Figma handoffs. Every pixel earns its place and is built to convert.",
+      "badgeText": "UI/UX Design Studio",
+      "badges": {
+        "0": "Figma Workspace",
+        "1": "Interactive Prototypes",
+        "2": "Developer Hand-off",
+        "3": "User-Tested Layouts"
+      },
+      "btn_primary": "Hire UI/UX Designer",
+      "btn_secondary": "Request UI/UX Quote",
+      "agent": {
+        "role": "Lead UI Designer",
+        "msg": "Figma design system updated."
+      },
+      "mockup": {
+        "workbench": "CREATIVE DESIGN WORKBENCH",
+        "canvas": "FIGMA CANVAS",
+        "zoom": "100% Zoom",
+        "switch": "Switch Canvas Viewports",
+        "btn_wireframes": "Wireframes",
+        "btn_system": "Design System",
+        "btn_mobile": "Mobile Prototype"
+      }
+    },
+    "video": {
+      "title": {
+        "1": "Video Editing",
+        "2": "& Motion",
+        "3": "Graphics"
+      },
+      "subtitle": "Product demo videos, explainer animations, and high-impact social content optimized for YouTube, Instagram Reels, TikTok, and LinkedIn algorithms.",
+      "badgeText": "Motion Graphics Lab",
+      "badges": {
+        "0": "After Effects",
+        "1": "Premiere Pro",
+        "2": "explainer video",
+        "3": "Reels/TikTok ready"
+      },
+      "btn_primary": "Start Video Project",
+      "btn_secondary": "Get Editing Proposal",
+      "agent": {
+        "role": "Lead Motion Designer",
+        "msg": "Social video timelines optimized."
+      },
+      "mockup": {
+        "renderer": "TIMELINE RENDERER",
+        "comp": "4K_ULTRA_COMP",
+        "live_preview": "LIVE PREVIEW",
+        "telemetry": "Video Render Telemetry",
+        "encoder": "Active Encoder",
+        "encoder_val": "AV1 High Profile",
+        "latency": "Timeline Latency",
+        "latency_val": "0.8ms (Zero Frame Lag)"
+      }
+    },
+    "saas": {
+      "title": {
+        "1": "SaaS Systems",
+        "2": "& Custom",
+        "3": "Software"
+      },
+      "subtitle": "We architect and build full-featured SaaS platforms from the ground up — multi-tenant database architecture, Stripe/Paddle subscription billing, admin super-dashboards, and role-based access control.",
+      "badgeText": "Enterprise SaaS Studio",
+      "badges": {
+        "0": "Multi-Tenancy",
+        "1": "Role-Based Access",
+        "2": "Stripe Billing",
+        "3": "AWS Horizontal Scale"
+      },
+      "btn_primary": "Build SaaS System",
+      "btn_secondary": "Get SaaS Consultation",
+      "agent": {
+        "role": "Principal SaaS Architect",
+        "msg": "System architecture review completed."
+      },
+      "mockup": {
+        "admin_metrics": "SAAS ADMIN METRICS",
+        "active_clusters": "ACTIVE CLUSTERS",
+        "db_conn": "Database Connection",
+        "active": "● Active",
+        "api_health": "API Health Index",
+        "tenancies": "Total Tenancies Active",
+        "nodes": "Nodes"
+      }
+    },
+    "graphics": {
+      "title": {
+        "1": "Graphics &",
+        "2": "Brand",
+        "3": "Identity"
+      },
+      "subtitle": "Establish sovereign commercial identity assets. Modern typography formulas, integrated Figma systems, color harmony metrics, and editable high-quality branding assets.",
+      "badgeText": "Creative UX/UI Design Labs",
+      "badges": {
+        "0": "Brand strategy systems",
+        "1": "High-fidelity Figma vectors",
+        "2": "Branding manuals source",
+        "3": "Flexible layout frameworks"
+      },
+      "btn_primary": "Get Custom UI Design",
+      "btn_secondary": "Get Brand Design Quote",
+      "agent": {
+        "role": "Principal Product Designer",
+        "msg": "Created fresh typography manuals & brand styles guides."
+      },
+      "mockup": {
+        "workbench": "CREATIVE DESIGN WORKBENCH",
+        "figma_canvas": "FIGMA CANVAS",
+        "identity_pro": "Lumio Identity Pro",
+        "dimensions": "Vector Dimensions:",
+        "angle": "Angle:",
+        "select_themes": "Select simulated color theme palettes",
+        "width": "Width:"
+      }
+    },
+    "slogan": {
+      "squad": "Squad",
+      "connect": "Connect",
+      "conquer": "Conquer"
+    },
+    "robot": {
+      "click_me": "Click Me!",
+      "switch_service": "To switch service"
+    },
+    "short_name": {
+      "website_development": "Enterprise Web Dev",
+      "mobile_apps": "Mobile Application",
+      "digital_marketing": "Growth SEO Marketing",
+      "hosting": "Cloud Systems Hosting",
+      "ai_solutions": "Autonomous AI LLMs",
+      "graphic_designing": "Graphic Design",
+      "saas_systems": "SaaS Systems",
+      "web_development": "Web Development",
+      "ui_ux_design": "UI/UX Design",
+      "graphics_branding": "Branding & Graphics",
+      "video_editing": "Video & Motion",
+      "seo_marketing": "SEO Marketing"
+    },
+    "form": {
+      "validation": "Please fill out your Name and Email address.",
+      "error": "Communication error linking with backend services.",
+      "default_company": "Hero Intake Partner",
+      "default_rfp": "Hero Intake RFP Request for: {{service}} under {{level}}",
+      "default_level": "MID-SCALE",
+      "default_service": "Services"
+    },
+    "hosting_logs": {
+      "0": "SQODEX_CORE :: INITIALIZED LIVE STATUS",
+      "1": "INGRESS_ZONE :: PK_PESHAWAR_PRIMARY",
+      "2": "DDoS_SHIELD_WALL :: ACTIVATED ON PORT 3000",
+      "3": "READY TO RECEIVE COMMAND PACKS..."
+    },
+    "marketing_keywords": {
+      "0": {
+        "word": "Sqodex Peshawar",
+        "ranked": true
+      },
+      "1": {
+        "word": "Sovereign SEO App",
+        "ranked": true
+      },
+      "2": {
+        "word": "React Web Dev Pakistan",
+        "ranked": false
+      }
+    },
+    "pricing_tiers": {
+      "website-development": {
+        "0": {
+          "level": "Essentials Pack",
+          "range": "$100 - $300",
+          "desc": "Perfect for local startups looking to establish authority with simple layouts.",
+          "speed": "3-5 days delivery",
+          "metric": "SEO Audited Core"
+        },
+        "1": {
+          "level": "Professional Platform",
+          "range": "$300 - $800",
+          "desc": "For growing brands demanding custom portal integrations, APIs, and CMS control.",
+          "speed": "7-12 days delivery",
+          "metric": "Interactive Real-time CMS"
+        },
+        "2": {
+          "level": "Enterprise Suite",
+          "range": "$800 - $2000+",
+          "desc": "Bespoke high-scale custom design containing automated replications, SLAs and Dedicated Node.",
+          "speed": "15-25 days delivery",
+          "metric": "99.9% Cloud Ingress SLA"
+        }
+      },
+      "mobile-apps": {
+        "0": {
+          "level": "Custom App Shell",
+          "range": "$100 - $300",
+          "desc": "A sleek single-platform launcher templates for fast iOS or Android display.",
+          "speed": "10-14 days delivery",
+          "metric": "Local SQLite/Hive Store"
+        },
+        "1": {
+          "level": "Omni-Store Sync",
+          "range": "$1500 - $2500",
+          "desc": "Unified Flutter/React Native app supporting dynamic account auth & cross-store launch.",
+          "speed": "15-25 days delivery",
+          "metric": "Social Sign-On Ready"
+        },
+        "2": {
+          "level": "Enterprise App Suite",
+          "range": "$2500 - $8000",
+          "desc": "Highly complex secure corporate mobile system with backend API sync and payment terminals.",
+          "speed": "30-45 days delivery",
+          "metric": "6 Months Support Guarantee"
+        }
+      },
+      "digital-marketing": {
+        "0": {
+          "level": "Rank Launch Node",
+          "range": "$50 - $400/mo",
+          "desc": "Core crawl optimization, basic keywords tracking, and Google indexing repairs.",
+          "speed": "Ongoing monthly",
+          "metric": "12 High-Yield Keywords"
+        },
+        "1": {
+          "level": "Authority Amplifier",
+          "range": "$400 - $900/mo",
+          "desc": "Semantic page template creation, periodic backlink acquisitions, and targeted metrics tracking.",
+          "speed": "Ongoing monthly",
+          "metric": "50+ Target Keywords Tracker"
+        },
+        "2": {
+          "level": "Hyper-Velocity Scale",
+          "range": "$1200 - $2500/mo",
+          "desc": "Full funnel acceleration linking semantic SEO layouts, PPC, and Retargeting frameworks.",
+          "speed": "Ongoing monthly",
+          "metric": "Live Bi-Weekly Audits"
+        }
+      },
+      "hosting": {
+        "0": {
+          "level": "Cloud Shield Instance",
+          "range": "$25 - $50/mo",
+          "desc": "Virtual private node offering blazing fast CDN lookup and daily system snapshots.",
+          "speed": "Ongoing monthly",
+          "metric": "DDoS Mitigation"
+        },
+        "1": {
+          "level": "Load-Balanced Multi-Core",
+          "range": "$99 - $199/mo",
+          "desc": "High availability clusters for high performance SaaS hosting with geo replication.",
+          "speed": "Ongoing monthly",
+          "metric": "99.99% Availability Gtd"
+        },
+        "2": {
+          "level": "Kubernetes Enterprise Pod",
+          "range": "$350 - $800/mo",
+          "desc": "Autoscaling container stack built on distributed cloud instances for extreme traffic flows.",
+          "speed": "Ongoing monthly",
+          "metric": "Grafana Web UI Metrics"
+        }
+      },
+      "ai-solutions": {
+        "0": {
+          "level": "Orchestrator Kit",
+          "range": "$500 - $900",
+          "desc": "Deploy automated smart classification pipelines to organize customer inquiries.",
+          "speed": "7-10 days delivery",
+          "metric": "Gemini / OpenAI API Integration"
+        },
+        "1": {
+          "level": "Interactive Smart Chatbot",
+          "range": "$1200 - $2500",
+          "desc": "Custom knowledge-base trained chat assistant to serve client briefs contextually.",
+          "speed": "14-20 days delivery",
+          "metric": "Vector DB Synchronization"
+        },
+        "2": {
+          "level": "Autonomous Agent Suite",
+          "range": "$4500 - $9000",
+          "desc": "Bespoke operation workflows with multi-agent routing, LLM classifiers, and CRM sync.",
+          "speed": "25-40 days delivery",
+          "metric": "Sub-second AI routing pipeline"
+        }
+      },
+      "graphic-designing": {
+        "0": {
+          "level": "Core Identity Kit",
+          "range": "$150 - $300",
+          "desc": "High-contrast vector logo formats, brand style outlines, and editorial hierarchy.",
+          "speed": "3-5 days delivery",
+          "metric": "Modern Vector Formats"
+        },
+        "1": {
+          "level": "Creative Corporate Brand",
+          "range": "$400 - $800",
+          "desc": "Integrated visual systems, digital collaterals, and high-quality marketing assets.",
+          "speed": "6-10 days delivery",
+          "metric": "6 Custom Editable Templates"
+        },
+        "2": {
+          "level": "Comprehensive Product System",
+          "range": "$1200 - $2500",
+          "desc": "Immersive high-fidelity Figma components library, custom vector iconographies, and fully responsive layouts.",
+          "speed": "12-18 days delivery",
+          "metric": "Master Figma Source Access"
+        }
+      }
+    }
+  },
+  "workflow": {
+    "process": "Our Process",
+    "title_main": "From idea to launch in",
+    "title_highlight": "four clear steps.",
+    "desc": "A systematic, predictable lifecycle designed to deliver high-performance digital products from concept to scale.",
+    "steps": {
+      "0": {
+        "title": "Discovery Call",
+        "desc": "We learn your goals, users, timeline, and budget in a free 30-minute session. No fluff."
+      },
+      "1": {
+        "title": "Proposal & Scope",
+        "desc": "You receive a detailed project scope, timeline, and fixed-price proposal within 48 hours."
+      },
+      "2": {
+        "title": "Design & Build",
+        "desc": "Our squad gets to work. You stay in the loop with weekly check-ins and a shared project board."
+      },
+      "3": {
+        "title": "Launch & Support",
+        "desc": "We deploy, test, and hand over a polished product — then stay available for ongoing support."
+      }
+    }
+  },
+  "why_choose_us": {
+    "badge": "WHY SQODEX",
+    "title_main": "Why Choose",
+    "title_highlight": "SQODEX",
+    "desc": "We deliver high-performance digital products that help brands scale. Here is how we set ourselves apart from the competition.",
+    "card1": {
+      "title": "End-to-End Solutions",
+      "desc": "From strategic blueprinting to global deployment, we manage the entire technical lifecycle so your team can focus on market expansion."
+    },
+    "card2": {
+      "title": "Next-Gen Stack Integration",
+      "desc": "Engineered using modern stacks including React, Node.js, Flutter, and Kotlin with guaranteed performance and scalability."
+    },
+    "card3": {
+      "title": "Stack Flexibility",
+      "desc": "Tailor-made tech stack perfectly aligned with your business requirements, ensuring optimal performance, scalability, and long-term maintenance. Your vision, your stack, our expertise."
+    },
+    "card4": {
+      "title": "Performance, Analytics & Support",
+      "desc": "Comprehensive post-launch maintenance, performance monitoring, and continuous improvement services to ensure your digital assets evolve with your business goals."
+    },
+    "card5": {
+      "title": "Security Audits & Recovery",
+      "desc": "Protect your digital assets with our comprehensive security audit services. We identify vulnerabilities and provide robust recovery solutions to safeguard your data and operations."
+    },
+    "card6": {
+      "title": "Future-Proof Innovation",
+      "desc": "Gain an immediate competitive edge. We inject bleeding-edge capabilities—from AI/LLMs to autonomous microservices—into your core product today."
+    }
+  },
+  "services": {
+    "what_we_do": "WHAT WE DO",
+    "explore_our": "Explore Our",
+    "services": "Services",
+    "description": "From custom design to final launch, we build high-performing digital products that help your brand scale, attract customers, and increase revenue."
+  },
+  "footer": {
+    "corporate_services": "Corporate Services",
+    "newsletter_title": "Newsletter & Tech Bulletins",
+    "newsletter_desc": "Receive strategic updates on modern web architectures, product design, and AI strategies.",
+    "subscribe": "Subscribe",
+    "subscribe_alert": "Simulated Newsletter signup completed.",
+    "ssl_secured": "SSL Secured Layer",
+    "official_site": "Official Site",
+    "slogan": "Squad. Connect. Conquer.",
+    "description": "Custom web frameworks, hybrid mobile architectures, enterprise-tier Docker nodes and programmed SEO campaigns managed by senior digital engineers inside Peshawar, Pakistan.",
+    "hq": "HQ: Peshawar, KPK",
+    "copyright": "Sqodex Digital Service Provider. Sovereign Intellectual Rights Reserved.",
+    "ssl": "SSL Secured Layer",
+    "newsletter_placeholder": "name@company.com",
+    "back_to_top": "Back to top"
+  },
+  "about": {
+    "slogan": "Squad | Connect | Conquer",
+    "title_prefix": "Ready to Grow",
+    "title_suffix": "Your Business?",
+    "p1_text": "is a full-service digital agency. We combine creative marketing strategies with data-driven solutions to scale your brand, attract premium customers, and accelerate your revenue.",
+    "p2_text": "We turn your big ideas into high-performing digital campaigns. By combining market strategy with innovative tech, we build powerful brand identities that grab attention, boost customer engagement, and deliver measurable business growth.",
+    "values_title": "Our Core Values",
+    "stats": {
+      "0": {
+        "label": "Years of Excellence"
+      },
+      "1": {
+        "label": "Brands Worldwide"
+      },
+      "2": {
+        "label": "Projects Delivered"
+      },
+      "3": {
+        "label": "Client Satisfaction"
+      }
+    },
+    "values": {
+      "0": {
+        "title": "Happiness",
+        "desc": "Happy teams deliver extraordinary results for your brand."
+      },
+      "1": {
+        "title": "Honesty",
+        "desc": "Transparent communication builds unbreakable client trust."
+      },
+      "2": {
+        "title": "Dedication",
+        "desc": "A relentless focus on achieving your business growth goals."
+      },
+      "3": {
+        "title": "Transparency",
+        "desc": "Clear development processes and open reporting at every step."
+      },
+      "4": {
+        "title": "Empathy",
+        "desc": "Understanding your deep challenges to craft custom solutions."
+      }
+    }
+  },
+  "data": {
+    "categories": {
+      "website-development": {
+        "name": "Full Stack Web App Development",
+        "desc": "Modern full-stack web applications built with Next.js, React, Node.js, MongoDB, PostgreSQL, authentication, dashboards, APIs, and production deployment.",
+        "whatsIncluded": "I build complete full-stack web applications from idea to production using modern, fast, and scalable technologies. This service is ideal if you need a business app, SaaS platform, client portal, admin dashboard, booking system, marketplace, or custom web product.",
+        "bestFor": "Startups, agencies, founders, and businesses that need a reliable developer to build a serious web application, not just a static website.",
+        "whatICanBuild": {
+          "0": "Full-stack web apps with Next.js, React, TypeScript, and Node.js",
+          "1": "Authentication, protected routes, user roles, and admin dashboards",
+          "2": "REST APIs, database models, business logic, and backend workflows",
+          "3": "MongoDB or PostgreSQL database design and integration",
+          "4": "Responsive frontend UI with clean UX and fast loading speed",
+          "5": "Production deployment with environment variables, domains, and SSL"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Requirement review",
+            "desc": "I review your app idea, features, users, workflows, and technical needs."
+          },
+          "1": {
+            "title": "Architecture planning",
+            "desc": "I plan the frontend, backend, database models, APIs, and development flow."
+          },
+          "2": {
+            "title": "Development",
+            "desc": "I build the application with clean code, responsive UI, and backend logic."
+          },
+          "3": {
+            "title": "Testing and delivery",
+            "desc": "I test key flows, fix issues, and prepare the app for production or handoff."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Project idea or feature list",
+          "1": "Design file, reference website, or rough wireframe if available",
+          "2": "Preferred tech stack if already decided",
+          "3": "Database or API requirements",
+          "4": "Deployment details if you already have hosting"
+        },
+        "faqs": {
+          "0": {
+            "question": "Can you build both frontend and backend?",
+            "answer": "Yes, I provide complete end-to-end full stack development."
+          },
+          "1": {
+            "question": "Which stack do you use?",
+            "answer": "My primary stack is Next.js, React, Node.js, and MongoDB/PostgreSQL."
+          }
+        }
+      },
+      "mobile-apps": {
+        "name": "Mobile App Development",
+        "desc": "Native & cross-platform apps for iOS and Android that deliver exceptional user experiences with fluid frame rates, offline-first access, and clean architectures. React Native as well, automation, CI/CD, github, paywalls, and RevenueCat implementation.",
+        "whatsIncluded": "High-performance native and cross-platform mobile app development for iOS and Android. Covers clean mobile architectures, smooth animations, offline database states, app store submissions, and monetization flows.",
+        "bestFor": "Startups and enterprises needing mobile presence.",
+        "whatICanBuild": {
+          "0": "Cross-platform mobile apps (iOS & Android) via Flutter/React Native",
+          "1": "Interactive Google Maps & location-based tracking services",
+          "2": "On-device AI features & machine learning model integrations",
+          "3": "Biometric security (FaceID/Fingerprint authentication)",
+          "4": "Google AdMob & custom banner/interstitial ads integrations",
+          "5": "RevenueCat paywalls & subscription setups for monetization",
+          "6": "Offline-first databases (SQLite, Realm, WatermelonDB)",
+          "7": "Automated CI/CD pipelines & fastlane app store submissions"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Discovery",
+            "desc": "Analyze platform goals, user journeys, app store constraints, and monetization plans."
+          },
+          "1": {
+            "title": "Design",
+            "desc": "Create responsive mobile layouts, wireframes, and secure storage options."
+          },
+          "2": {
+            "title": "Development",
+            "desc": "Perform local device testing, offline data testing, and build delivery cycles."
+          },
+          "3": {
+            "title": "Delivery",
+            "desc": "Complete release execution to the Google Play Store and Apple App Store."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Your app idea",
+          "1": "Target audience",
+          "2": "Design preferences"
+        },
+        "faqs": {
+          "0": {
+            "question": "Do you publish to app stores?",
+            "answer": "Yes, we handle the entire publishing process end-to-end."
+          },
+          "1": {
+            "question": "Flutter or React Native?",
+            "answer": "We recommend Flutter for high-performance visual-first apps, and React Native for Javascript-heavy stacks."
+          }
+        }
+      },
+      "digital-marketing": {
+        "name": "Digital Marketing",
+        "desc": "Complete SEO optimization, semantic enhancements, Google PPC, targeted social campaigns, and strategic content planning that drive organic growth and measurable customer acquisition.",
+        "whatsIncluded": "Complete, data-driven online marketing campaigns that increase your traffic and conversion rates. Includes PPC setup, social advertising, growth analytics, email marketing, and conversion optimization audits.",
+        "bestFor": "Businesses looking to generate leads, scale monthly sales, and maximize return on advertising spend (ROAS).",
+        "whatICanBuild": {
+          "0": "High-converting search ad campaigns on Google Ads",
+          "1": "Targeted social media ad funnels (Meta, LinkedIn, TikTok)",
+          "2": "Optimized landing pages with strict A/B testing variations",
+          "3": "Automated lead tracking & CRM workflow integrations",
+          "4": "Detailed analytics dashboard mapping ROAS and customer acquisition",
+          "5": "Drip email campaigns with automated trigger sequences",
+          "6": "Performance copy designed specifically for conversions",
+          "7": "Pixel tracking and conversion API tracking (CAPI) setups"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Audit",
+            "desc": "Review your current acquisition funnel, target audience, and competition campaigns."
+          },
+          "1": {
+            "title": "Strategy",
+            "desc": "Establish clear keyword target lists, ad copy blueprints, and budget controls."
+          },
+          "2": {
+            "title": "Execution",
+            "desc": "Launch targeted ads, monitor tracking systems, and compile click metrics."
+          },
+          "3": {
+            "title": "Optimization",
+            "desc": "Run A/B copy tests, exclude poor-performing placements, and scale conversion actions."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Advertising budget guidelines",
+          "1": "Target audience profiles",
+          "2": "Brand collateral or visual assets"
+        },
+        "faqs": {
+          "0": {
+            "question": "How do you measure campaign success?",
+            "answer": "We track conversion metrics like cost-per-lead, cost-per-acquisition (CPA), and overall Return on Ad Spend (ROAS)."
+          },
+          "1": {
+            "question": "Which advertising networks should we start with?",
+            "answer": "Google Ads is best for high intent, while Meta and LinkedIn work best for visual and professional demographic outreach."
+          }
+        }
+      },
+      "hosting": {
+        "name": "Hosting & AWS DevOps",
+        "desc": "Enterprise-grade cloud hosting operations, persistent state safety, CDN load-balancing, and automated backups managed with maximum speed and near-zero latency.",
+        "whatsIncluded": "Professional cloud architecture configuration and server management. We optimize deployment speeds, set up load balancers, secure databases, plan backups, and minimize application latency.",
+        "bestFor": "SaaS products, high-traffic agencies, and active portals needing maximum reliability, scalability, and security.",
+        "whatICanBuild": {
+          "0": "High-performance Kubernetes and Docker cluster environments",
+          "1": "AWS (ECS/EKS), DigitalOcean, or Vercel cloud architecture setups",
+          "2": "CDN load-balancing & global content distribution setups",
+          "3": "Automated database backup schedules with instant recovery runs",
+          "4": "Server monitoring dashboards with instant SMS warning flags",
+          "5": "Custom Nginx or Apache load routing configurations",
+          "6": "SSL certificate installations and strict firewall rules",
+          "7": "Server migration paths migrating databases with zero downtime"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Audit",
+            "desc": "Inspect existing host speeds, resource usage, and active security vulnerabilities."
+          },
+          "1": {
+            "title": "Setup",
+            "desc": "Design virtual private cloud networks, deploy nodes, and install firewalls."
+          },
+          "2": {
+            "title": "Migration",
+            "desc": "Safely copy databases, configurations, and scripts with dry-run tests."
+          },
+          "3": {
+            "title": "Support",
+            "desc": "Configure monitoring metrics, log collectors, and warning alerts."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Current server access credentials",
+          "1": "Approximate traffic and database size metrics",
+          "2": "Scale expectations"
+        },
+        "faqs": {
+          "0": {
+            "question": "How do you guarantee uptime?",
+            "answer": "By using redundant server locations, automatic node failover routing, and active database mirroring."
+          },
+          "1": {
+            "question": "Can you migrate our databases without downtime?",
+            "answer": "Yes, by configuring read-replicas, syncing live transactions, and changing DNS routes at off-peak hours."
+          }
+        }
+      },
+      "ai-solutions": {
+        "name": "AI Solutions",
+        "desc": "Seamless enterprise integration of LLMs, automatic operational flows, smart conversational agents, and data categorization models designed to lower operational overhead.",
+        "whatsIncluded": "Integrating advanced artificial intelligence models into business software. Includes custom LLM fine-tuning, agentic workflows, conversational assistants, classification models, and intelligent data extraction.",
+        "bestFor": "Enterprises wanting to reduce operational overhead, automate manual tasks, and introduce intelligence to their software.",
+        "whatICanBuild": {
+          "0": "AI customer support agents with custom document retrieval (RAG)",
+          "1": "Automatic email sorting, classification & drafting scripts",
+          "2": "Intelligent document parsing and data extraction models",
+          "3": "Vector database integrations (Pinecone, pgvector) for memory",
+          "4": "Custom LLM integrations (OpenAI, Claude, Gemini API)",
+          "5": "Speech-to-text models & voice transcription integrations",
+          "6": "Automated workflow chains via LangChain or LlamaIndex",
+          "7": "Predictive analytics systems for trends & business planning"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Assessment",
+            "desc": "Pinpoint repetitive tasks, review available data structures, and define target accuracy."
+          },
+          "1": {
+            "title": "Design",
+            "desc": "Formulate prompt strategies, memory databases, and secure token budgets."
+          },
+          "2": {
+            "title": "Development",
+            "desc": "Build LLM scripts, implement RAG systems, and refine context responses."
+          },
+          "3": {
+            "title": "Deployment",
+            "desc": "Integrate into core dashboards, build monitoring systems, and run evaluation benchmarks."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "A clear definition of the task to automate",
+          "1": "Examples of successful task outcomes",
+          "2": "API keys or raw business documents"
+        },
+        "faqs": {
+          "0": {
+            "question": "How do you prevent AI model hallucination?",
+            "answer": "By grounding the LLM in vector databases using Retrieval-Augmented Generation (RAG) and applying strict system validation rules."
+          },
+          "1": {
+            "question": "Will my data be used to train public models?",
+            "answer": "No. We configure API routes that do not store or use your transactions for public model training."
+          }
+        }
+      },
+      "graphic-designing": {
+        "name": "Graphic Designing",
+        "desc": "Creative visual brand identities, interactive Figma systems, professional social visuals, and high-quality marketing collaterals that separate you from competition.",
+        "whatsIncluded": "High-end visual communication design. We create beautiful marketing assets, professional social media templates, pitch decks, infographics, and corporate design kits.",
+        "bestFor": "Brands needing high-quality visual content to raise their positioning, pitch investors, or convert customers on social media.",
+        "whatICanBuild": {
+          "0": "Premium marketing collaterals and corporate brochures",
+          "1": "High-converting custom pitch decks & presentation frameworks",
+          "2": "Social media templates (Instagram, LinkedIn, YouTube assets)",
+          "3": "Visual infographics mapping complex datasets",
+          "4": "Custom vector illustrations & icon sets",
+          "5": "Print-ready packaging & business stationary designs",
+          "6": "Interactive PDF files & digital ebooks",
+          "7": "Design systems in Figma with reusable text/layout styles"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Discovery",
+            "desc": "Explore brand identity, design preferences, and target message guidelines."
+          },
+          "1": {
+            "title": "Concept",
+            "desc": "Present draft visual routes, color palettes, and typographic style layouts."
+          },
+          "2": {
+            "title": "Production",
+            "desc": "Develop refined layouts, icons, and infographics in high-resolution."
+          },
+          "3": {
+            "title": "Delivery",
+            "desc": "Provide final vector outputs, vector assets, and editable Figma blueprints."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Logo and branding guidelines if available",
+          "1": "Draft text copy",
+          "2": "Inspirational reference images"
+        },
+        "faqs": {
+          "0": {
+            "question": "Do I get full ownership of the graphics?",
+            "answer": "Yes, you get complete copyright ownership and original source files."
+          },
+          "1": {
+            "question": "Can we get templates that we can edit later?",
+            "answer": "Yes, we build modular templates in Figma or Canva that your team can customize."
+          }
+        }
+      },
+      "saas-systems": {
+        "name": "SaaS Systems & Custom Software",
+        "desc": "We architect and build full-featured SaaS platforms from the ground up — multi-tenant architecture, subscription billing, admin dashboards, user management, and API integrations. If you have a SaaS idea, we'll turn it into a production-ready system.",
+        "whatsIncluded": "Complete architecture and building of Software-as-a-Service platforms. Includes multi-tenant databases, robust user organization models, Stripe Billing subscriptions, audit trails, and modern developer API key systems.",
+        "bestFor": "Entrepreneurs and companies launching a new SaaS startup or digitizing their internal business workflows into a cloud system.",
+        "whatICanBuild": {
+          "0": "SaaS systems with multi-tenant database designs",
+          "1": "Stripe or Paddle payment integrations with tiered plans",
+          "2": "Detailed billing portals showing usage metrics and invoices",
+          "3": "Admin dashboards for system monitoring and user overrides",
+          "4": "Automated transactional email systems (Postmark, SendGrid)",
+          "5": "API key management systems for integration clients",
+          "6": "Multi-factor authentication (MFA) & secure password flows",
+          "7": "Scalable server deployments with load routing rules"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Planning",
+            "desc": "Draft user workflows, permission rules, and subscription paths."
+          },
+          "1": {
+            "title": "Architecture",
+            "desc": "Establish secure data models, database scaling routes, and cloud environments."
+          },
+          "2": {
+            "title": "Development",
+            "desc": "Build modular client frontends, backend systems, and payment webhooks."
+          },
+          "3": {
+            "title": "Launch",
+            "desc": "Run security penetration tests, configure domains, and launch to production."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Detailed feature checklist",
+          "1": "Target user tiers & pricing models",
+          "2": "Mockups or reference portals"
+        },
+        "faqs": {
+          "0": {
+            "question": "How do you handle subscription events like cancellations?",
+            "answer": "By using secure webhooks that automatically listen to billing events and adjust user account privileges."
+          },
+          "1": {
+            "question": "Can we support subdomains for each client?",
+            "answer": "Yes, we set up dynamic routing so clients can access their platform via `clientname.yoursaas.com`."
+          }
+        }
+      },
+      "web-development": {
+        "name": "Web Development",
+        "desc": "High-performance web applications and marketing sites built on modern JavaScript stacks. React SPAs, Next.js SSR platforms, full-stack MERN applications — delivered with clean code, strong SEO foundations, and zero bloat.",
+        "whatsIncluded": "Building responsive, modern, and lightning-fast websites. Includes page speed optimization, clean HTML structure, interactive UI elements, and search engine friendly layouts.",
+        "bestFor": "Businesses wanting a clean web presence, maximum loading speeds, and modern visual design.",
+        "whatICanBuild": {
+          "0": "Fast React and Next.js single-page applications",
+          "1": "Responsive corporate websites with clean visual styles",
+          "2": "Optimized marketing landing pages designed to convert",
+          "3": "Custom blog layouts with search engine friendly schema codes",
+          "4": "Interactive UI animations using Framer Motion",
+          "5": "Websites connected to CMS platforms (Sanity, headless WordPress)",
+          "6": "Fully responsive CSS grids matching mobile and desktop screens",
+          "7": "Optimized image loading structures for fast rendering"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Wireframing",
+            "desc": "Agree on visual structure, typography, and page hierarchies."
+          },
+          "1": {
+            "title": "Development",
+            "desc": "Write clean, semantic code with optimized responsive styling."
+          },
+          "2": {
+            "title": "SEO Audit",
+            "desc": "Confirm fast page loading scores, add metadata tags, and audit layout elements."
+          },
+          "3": {
+            "title": "Handoff",
+            "desc": "Configure DNS, transfer hosting, and hand off original source files."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Page text content",
+          "1": "Branding guidelines or style references",
+          "2": "Preferred domain name"
+        },
+        "faqs": {
+          "0": {
+            "question": "How fast will the website load?",
+            "answer": "We optimize code, images, and delivery routes to target 90+ PageSpeed scores."
+          },
+          "1": {
+            "question": "Are the sites mobile friendly?",
+            "answer": "Yes, we code layouts dynamically to fit all mobile, tablet, and desktop viewports."
+          }
+        }
+      },
+      "ui-ux-design": {
+        "name": "UI/UX Design",
+        "desc": "Research-backed, user-tested design that converts visitors into customers. We deliver wireframes, interactive prototypes, full design systems, and developer-ready Figma handoffs. Every pixel earns its place.",
+        "whatsIncluded": "Research-driven interface and experience design. Includes detailed user journeys, clear wireframes, beautiful high-fidelity designs, interactive prototypes, and modular Figma design systems.",
+        "bestFor": "Teams launching a new software product or upgrading their current interface to improve active user metrics and lower churn.",
+        "whatICanBuild": {
+          "0": "High-fidelity UI designs for SaaS platforms & web apps",
+          "1": "Mobile app visual interfaces (iOS & Android) in Figma",
+          "2": "Interactive prototypes showing user flows and actions",
+          "3": "Figma Design Systems with reusable components & colors",
+          "4": "Wireframes mapping complex pages and layouts",
+          "5": "User journey diagrams & target usability maps",
+          "6": "Conversion-optimized landing page blueprints",
+          "7": "Development-ready asset packages & design specifications"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Research",
+            "desc": "Review user goals, analyze competitor layouts, and establish usability objectives."
+          },
+          "1": {
+            "title": "Wireframing",
+            "desc": "Create basic black-and-white page outlines to map screen hierarchy."
+          },
+          "2": {
+            "title": "Design",
+            "desc": "Build beautiful layouts, introduce colors, and setup the design system."
+          },
+          "3": {
+            "title": "Prototyping",
+            "desc": "Link layouts, configure animations, and test client flows."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "System feature list",
+          "1": "Target audience profiles",
+          "2": "Inspirational apps or website layouts"
+        },
+        "faqs": {
+          "0": {
+            "question": "What tools do you use for design?",
+            "answer": "We use Figma exclusively, as it allows real-time reviews and has great developer handoff tools."
+          },
+          "1": {
+            "question": "How do you hand off designs to developers?",
+            "answer": "By structuring pages cleanly, using CSS variable design tokens, and organizing assets."
+          }
+        }
+      },
+      "graphics-branding": {
+        "name": "Graphics & Brand Identity",
+        "desc": "Logos, brand kits, social templates, pitch deck design, marketing collateral, and everything in between. We make your brand impossible to ignore.",
+        "whatsIncluded": "Creating memorable corporate brand identities. Includes custom logo systems, unified brand guidelines, corporate typography setups, color books, and social media media kits.",
+        "bestFor": "New companies establishing their market positioning, or legacy brands executing a visual refresh.",
+        "whatICanBuild": {
+          "0": "Custom corporate logo systems (wordmarks & icons)",
+          "1": "Detailed brand guidelines & typography color books",
+          "2": "Pitch decks mapping corporate values & services",
+          "3": "Unified business card & company stationary designs",
+          "4": "Branded social media headers & templates",
+          "5": "Digital asset branding kits (icons, presentation slides)",
+          "6": "Packaging labels & corporate box graphics",
+          "7": "Vector asset guidelines mapping print and web limits"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Discovery",
+            "desc": "Uncover company values, industry positioning, and design styles."
+          },
+          "1": {
+            "title": "Identity",
+            "desc": "Sketch visual concepts, test logomarks, and construct color harmonies."
+          },
+          "2": {
+            "title": "Guidelines",
+            "desc": "Develop branding rules, specify font hierarchies, and establish spacing parameters."
+          },
+          "3": {
+            "title": "Delivery",
+            "desc": "Export scalable vector layouts (SVG, AI, PDF) and provide user guidelines."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Company name and values",
+          "1": "Target industry sector",
+          "2": "Reference logos you like"
+        },
+        "faqs": {
+          "0": {
+            "question": "What files do you deliver?",
+            "answer": "We provide clean vector files (AI, EPS, SVG) for print and digital use, along with transparent PNG images."
+          },
+          "1": {
+            "question": "Do you design business cards?",
+            "answer": "Yes, standard stationary items are included in our brand identity kit."
+          }
+        }
+      },
+      "video-editing": {
+        "name": "Video Editing & Motion",
+        "desc": "From product demo videos and social content to corporate testimonials and explainer animations — our editors make your brand move. Optimised for YouTube, Instagram Reels, TikTok, and LinkedIn.",
+        "whatsIncluded": "Professional video post-production and animation. Includes audio cleanups, color grading, title animations, motion graphics, sound design, and optimization for all social networks.",
+        "bestFor": "Businesses using video to market products, explain complex services, or scale their social channels.",
+        "whatICanBuild": {
+          "0": "High-converting product demo and SaaS promo videos",
+          "1": "Engaging social media videos (YouTube, Reels, TikTok)",
+          "2": "Explainer animation videos with voiceover integration",
+          "3": "Dynamic title typography & subtitle integrations",
+          "4": "Motion graphics mapping charts & application interfaces",
+          "5": "Corporate testimonial and interview edits",
+          "6": "Professional audio cleanups and sound design maps",
+          "7": "Cinematic color-grading and graphic overlays"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Review",
+            "desc": "Organize raw clips, review narration scripts, and define target pacing."
+          },
+          "1": {
+            "title": "Assembly",
+            "desc": "Align voice tracks, place main clips, and establish editing layouts."
+          },
+          "2": {
+            "title": "Polish",
+            "desc": "Introduce animations, write text captions, sync audio, and color grade files."
+          },
+          "3": {
+            "title": "Delivery",
+            "desc": "Render files in target dimensions (16:9, 9:16) optimized for web upload."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Raw video recordings or assets",
+          "1": "Narration scripts if any",
+          "2": "Editing style examples"
+        },
+        "faqs": {
+          "0": {
+            "question": "Do you supply stock music?",
+            "answer": "Yes, we integrate royalty-free music and sound effects in all edits."
+          },
+          "1": {
+            "question": "Can you edit vertical videos for social channels?",
+            "answer": "Yes, we render vertical crops optimized for Instagram, TikTok, and YouTube Shorts."
+          }
+        }
+      },
+      "seo-marketing": {
+        "name": "SEO & Digital Marketing",
+        "desc": "Technical SEO audits, on-page optimisation, content strategy, keyword research, backlink building, and local SEO. We get your product ranking where your customers are already searching.",
+        "whatsIncluded": "Complete search engine optimization services to increase organic keyword rankings. Includes detailed technical site audits, semantic content maps, keyword research, link-building outreach, and localized SEO.",
+        "bestFor": "Companies wanting sustainable, long-term organic lead growth with search visibility.",
+        "whatICanBuild": {
+          "0": "Keyword research reports targeting high-volume user searches",
+          "1": "Technical audits diagnosing site speed and crawling errors",
+          "2": "Programmatic SEO landing page layouts for search keywords",
+          "3": "Optimized meta descriptions, titles, and header hierarchies",
+          "4": "Structured data and schema markup setups for search pages",
+          "5": "Competitor analysis reports mapping ranking opportunities",
+          "6": "Content calendars planning target informational articles",
+          "7": "Localized SEO setups (Google Business Profile optimization)"
+        },
+        "howWeWork": {
+          "0": {
+            "title": "Audit",
+            "desc": "Run technical site health sweeps, check current rankings, and inspect index errors."
+          },
+          "1": {
+            "title": "Plan",
+            "desc": "Map informational keywords, plan text changes, and identify backlink options."
+          },
+          "2": {
+            "title": "Optimization",
+            "desc": "Update header tags, correct structural code, and rewrite description scripts."
+          },
+          "3": {
+            "title": "Growth",
+            "desc": "Develop target blog articles, build links, and track weekly indexing progress."
+          }
+        },
+        "whatINeedFromYou": {
+          "0": "Your target website URL",
+          "1": "Target services or locations",
+          "2": "Current search traffic analytics access"
+        },
+        "faqs": {
+          "0": {
+            "question": "How long does it take to see search results?",
+            "answer": "Initial crawling updates show in 2-4 weeks. Significant ranking growth shows in 3-6 months, depending on keyword competition."
+          },
+          "1": {
+            "question": "Do you write target articles?",
+            "answer": "Yes, we build a search-optimized content roadmap and write informational articles."
+          }
+        }
+      }
+    },
+    "projects": {
+      "proj-1": {
+        "title": "E-Commerce Velocity Hub",
+        "desc": "A fully custom head-less React & Node storefront optimized for ultra-low Core Web Vitals. Achieved 99+ on Google PageSpeed Insights, leading to an immediate 42% lift in standard conversion.",
+        "clientName": "Velocity Retail Global",
+        "results": {
+          "0": {
+            "value": "99+",
+            "label": "Google PageSpeed score",
+            "sublabel": "All Core Web Vitals green"
+          },
+          "1": {
+            "value": "42%",
+            "label": "Conversion rate lift",
+            "sublabel": "Immediate post-launch"
+          },
+          "2": {
+            "value": "<1s",
+            "label": "Time to interactive",
+            "sublabel": "On 4G mobile devices"
+          }
+        },
+        "challengesSolved": {
+          "0": {
+            "title": "Slow legacy storefront",
+            "description": "Previous platform scored below 40 on PageSpeed. Rebuild with ISR and edge caching pushed it past 99."
+          },
+          "1": {
+            "title": "High bounce on mobile",
+            "description": "Optimistic UI, skeleton loading, and sub-1s TTI eliminated the wait states driving mobile abandonment."
+          },
+          "2": {
+            "title": "Stale product data",
+            "description": "Webhook-driven cache invalidation ensures pages rebuild the moment inventory or pricing changes."
+          },
+          "3": {
+            "title": "Checkout drop-off",
+            "description": "Custom single-page checkout with persistent cart and autofill reduced abandonment by 28%."
+          }
+        },
+        "deliverables": {
+          "0": "Headless React frontend decoupled from the commerce backend for independent scaling",
+          "1": "Next.js ISR — product pages rebuild in the background, no full redeploys on content changes",
+          "2": "Custom Node.js API layer handling product catalogue, search, and personalisation",
+          "3": "Edge CDN deployment with webhook-triggered cache invalidation on inventory updates",
+          "4": "Single-page checkout with cart persistence, promo codes, and multi-currency",
+          "5": "Full Core Web Vitals audit and remediation — LCP, CLS, FID all green across all pages",
+          "6": "CI/CD pipeline with automated Lighthouse checks gating every deployment"
+        }
+      },
+      "proj-2": {
+        "title": "AI-Powered Patient Flow Systems",
+        "desc": "An intelligent healthcare triage portal that automatically categorizes medical requests, routes clinical tickets, and schedules calendar events under strict compliance policies.",
+        "clientName": "Sana Care MedLabs LLC",
+        "results": {
+          "0": {
+            "value": "85%",
+            "label": "Triage automation",
+            "sublabel": "Without human intervention"
+          },
+          "1": {
+            "value": "14m",
+            "label": "Avg patient wait saved",
+            "sublabel": "From arrival to routing"
+          },
+          "2": {
+            "value": "0",
+            "label": "Compliance violations",
+            "sublabel": "Under strict audit runs"
+          }
+        },
+        "challengesSolved": {
+          "0": {
+            "title": "Manual ticketing delays",
+            "description": "Incoming requests were queued manually, taking up to 45 minutes to route to standard clinics."
+          },
+          "1": {
+            "title": "Security vulnerabilities",
+            "description": "Sensitive medical records were handled over unsecured internal chats. Needed end-to-end encryption."
+          },
+          "2": {
+            "title": "Inflexible scheduling",
+            "description": "Double bookings and manual shifts caused high provider burnout rates."
+          }
+        },
+        "deliverables": {
+          "0": "Secure clinical patient triage portal using advanced LangChain flows",
+          "1": "End-to-end encrypted messaging routes with HIPAA compliance verification",
+          "2": "Multi-agent scheduling manager resolving calendar conflicts in real-time",
+          "3": "SMS alerts gateway notifying users of queue updates"
+        }
+      },
+      "proj-3": {
+        "title": "Zenith Real Estate iOS app",
+        "desc": "A location-aware native application featuring reactive real-time map clustering, multi-layered property filters, and virtual 3D tour experiences on-device.",
+        "clientName": "Zenith Property LLC",
+        "results": {
+          "0": {
+            "value": "250k+",
+            "label": "App downloads",
+            "sublabel": "In the first 3 months"
+          },
+          "1": {
+            "value": "3.2x",
+            "label": "User engagement time",
+            "sublabel": "Compared to mobile web"
+          },
+          "2": {
+            "value": "4.8★",
+            "label": "App Store rating",
+            "sublabel": "Over 5,000 active reviews"
+          }
+        },
+        "challengesSolved": {
+          "0": {
+            "title": "Sluggish map rendering",
+            "description": "Loading thousands of property pins caused standard maps to lag or crash on mid-range devices."
+          },
+          "1": {
+            "title": "High churn on registration",
+            "description": "Forced login structures prevented users from exploring. Needed a frictionless guest flow."
+          }
+        },
+        "deliverables": {
+          "0": "Custom Flutter application with native map clustering and memory management",
+          "1": "Dynamic search filters with multi-attribute sliders and instant results",
+          "2": "RevenueCat paywall integration for premium subscription listings",
+          "3": "Fastlane CI/CD pipeline automation for App Store deployment"
+        }
+      },
+      "proj-4": {
+        "title": "SaaS Organic Traffic Explosion",
+        "desc": "An engineered SEO structure campaign utilizing programmatic keywords, semantic page templates, high-quality backlink partnerships, and responsive Schema markup.",
+        "clientName": "Aura Metrics SaaS",
+        "results": {
+          "0": {
+            "value": "340%",
+            "label": "Organic traffic growth",
+            "sublabel": "Within first 4 months"
+          },
+          "1": {
+            "value": "18.5k",
+            "label": "Ranked keywords",
+            "sublabel": "Positioned in Top 10"
+          },
+          "2": {
+            "value": "$24k",
+            "label": "Monthly ad spend saved",
+            "sublabel": "Equivalent traffic value"
+          }
+        },
+        "challengesSolved": {
+          "0": {
+            "title": "Zero domain authority",
+            "description": "Fresh brand with zero backlink profile and indexation issues on Google Search Console."
+          },
+          "1": {
+            "title": "Thin content blockages",
+            "description": "Duplicate title structures and poor header semantics prevented high search ranking."
+          }
+        },
+        "deliverables": {
+          "0": "Technical audit resolving crawling blockages and speed improvements",
+          "1": "Semantic HTML outline updates across all target landing templates",
+          "2": "Dynamic schema schema markup integration for search rich snippets",
+          "3": "Structured backlink building campaign targeting niche resources"
+        }
+      },
+      "proj-5": {
+        "title": "High-Availability Docker Platform",
+        "desc": "A Kubernetes microservice infrastructure migrating a highly active legacy backend to scalable AWS ECS nodes with real-time replication and failover guarantees.",
+        "clientName": "Apex FinTech Services",
+        "results": {
+          "0": {
+            "value": "99.99%",
+            "label": "Uptime guarantee",
+            "sublabel": "Delivered consistently"
+          },
+          "1": {
+            "value": "2.4x",
+            "label": "Faster backend response",
+            "sublabel": "Through CDN load routing"
+          },
+          "2": {
+            "value": "0",
+            "label": "Service interruptions",
+            "sublabel": "During dynamic migrations"
+          }
+        },
+        "challengesSolved": {
+          "0": {
+            "title": "Legacy single-node server",
+            "description": "Previous platform was hosted on a single VPS with frequent memory leaks and outages during high traffic."
+          },
+          "1": {
+            "title": "Database lock failures",
+            "description": "Concurrent client write cycles caused table lockouts and transactional failures."
+          }
+        },
+        "deliverables": {
+          "0": "Containerized microservice environment with Docker and Kubernetes configurations",
+          "1": "AWS ECS clustering with multi-zone availability and health routing checks",
+          "2": "CDN load balancers configuring global caching and DDoS mitigation shields",
+          "3": "Automated hourly database snapshot replication scripts with quick recovery triggers"
+        }
+      },
+      "proj-6": {
+        "title": "Lumio Rebranding and Design Guidelines",
+        "desc": "Designed a clean, modern visual identity, complete with modular component kits, color harmony systems, interactive brand illustrations, and product design prototypes.",
+        "clientName": "Lumio Energy Corp",
+        "results": {
+          "0": {
+            "value": "100%",
+            "label": "Modular design kit",
+            "sublabel": "Reusable Figma components"
+          },
+          "1": {
+            "value": "40%",
+            "label": "Dev time saved",
+            "sublabel": "Using strict design tokens"
+          },
+          "2": {
+            "value": "2x",
+            "label": "Higher conversion rate",
+            "sublabel": "Through premium visual refresh"
+          }
+        },
+        "challengesSolved": {
+          "0": {
+            "title": "Incoherent visual identity",
+            "description": "Different teams built landing pages with varying color palettes, leading to a fragmented brand image."
+          },
+          "1": {
+            "title": "Slow component handoffs",
+            "description": "Engineers built buttons and forms from scratch for every new feature, wasting developer time."
+          }
+        },
+        "deliverables": {
+          "0": "Complete visual system covering custom logomark, colors, and typography hierarchies",
+          "1": "Figma design system with styled buttons, fields, forms, and layout grids",
+          "2": "Social media visual template kit for marketing asset production",
+          "3": "Print-ready packaging templates for physical product distributions"
+        }
+      }
+    },
+    "testimonials": {
+      "test-1": {
+        "clientName": "Ahmed R.",
+        "companyName": "PackFlow",
+        "role": "Founder",
+        "content": "Sqodex built our Flutter app in six weeks and it launched with zero crashes on day one. These guys are the real deal."
+      },
+      "test-2": {
+        "clientName": "Sara M.",
+        "companyName": "TradeHub",
+        "role": "Head of Marketing",
+        "content": "Our SEO traffic grew 340% in four months. The team is responsive, data-driven, and they actually explain what they're doing."
+      },
+      "test-3": {
+        "clientName": "Bilal K.",
+        "companyName": "MoneyMover",
+        "role": "CEO",
+        "content": "We needed a complete SaaS system and a brand identity. Sqodex handled everything — on time, on budget, and better than we imagined."
+      },
+      "test-ecommerce": {
+        "clientName": "Head of Digital",
+        "companyName": "Velocity Retail Global",
+        "role": "Head of Digital",
+        "content": "The new storefront didn't just look better — it immediately moved the needle on revenue. We saw the conversion lift within the first week of going live. The team's obsession with performance paid off in a very measurable way."
+      },
+      "test-ai": {
+        "clientName": "Clinical Director",
+        "companyName": "Sana Care MedLabs LLC",
+        "role": "Clinical Director",
+        "content": "The triage system has been a game-changer. We've automated over 85% of standard routings, and compliance audits have been flawless."
+      },
+      "test-hosting": {
+        "clientName": "Lead DevOps",
+        "companyName": "Apex FinTech Services",
+        "role": "Lead DevOps",
+        "content": "The server setup has been bulletproof. We handle over 10x traffic bursts with zero slowdowns or database lockouts."
+      },
+      "test-lumio": {
+        "clientName": "Director of Brand",
+        "companyName": "Lumio Energy Corp",
+        "role": "Director of Brand",
+        "content": "The new design tokens and Figma system have completely unified our products. Development time dropped immediately."
+      }
+    },
+    "pricing": {
+      "price-web-1": {
+        "name": "Growth Landing Node",
+        "description": "Ideal for fresh startups and premium brand launch displays wanting exceptional speed.",
+        "period": "one-off",
+        "features": {
+          "0": "Custom React Layout Design",
+          "1": "Tailwind Responsive Optimization",
+          "2": "Core SEO Metadata Integration",
+          "3": "reCAPTCHA Verified Form Integration",
+          "4": "3 Months Live Server Monitoring"
+        }
+      },
+      "price-web-2": {
+        "name": "Enterprise Multi-Core",
+        "description": "Comprehensive scalable application with custom portal, API linkages, and backend synchronization.",
+        "period": "one-off",
+        "features": {
+          "0": "Next.js Hybrid Static-SSR Server",
+          "1": "Full CMS Dashboard Hub Setup",
+          "2": "Automated Database Replications",
+          "3": "Instant Discord/Slack Alert Hooks",
+          "4": "Priority 24/7 Server Ops Access"
+        }
+      },
+      "price-mob-1": {
+        "name": "Dynamic Launch Shell",
+        "description": "Highly interactive React Native/Flutter single-platform application template.",
+        "period": "one-off",
+        "features": {
+          "0": "Single iOS or Android Platform",
+          "1": "Responsive Fluid Visual Frames",
+          "2": "Auth0 / Google Social Account Login",
+          "3": "Offline Storage Engine Enabled",
+          "4": "Store Deployment Preparation"
+        }
+      },
+      "price-mob-2": {
+        "name": "Universal Omni-Presence",
+        "description": "Native experience built simultaneously for both major app stores with full cloud syncing.",
+        "period": "one-off",
+        "features": {
+          "0": "Dual Store Release (iOS & Android)",
+          "1": "Secure Cloud Synchronization",
+          "2": "Real-time Local Push Updates",
+          "3": "Payment Terminal Integration",
+          "4": "6 Months Bug-Free Guarantee Code"
+        }
+      },
+      "price-mkt-1": {
+        "name": "Base Rank Launch",
+        "description": "Strategic campaign focused on building organic Authority and resolving indexing blockages.",
+        "period": "monthly",
+        "features": {
+          "0": "Complete Crawl Integrity Report",
+          "1": "Semantic HTML & Schema injects",
+          "2": "12 High-Yield Niche Keyword Tracks",
+          "3": "Performance Dashboard Tracking",
+          "4": "Monthly Growth Metrics Report"
+        }
+      },
+      "price-mkt-2": {
+        "name": "Hyper-Velocity Scale",
+        "description": "Full-funnel digital acceleration program linking SEO, PPC, and Retargeting frameworks.",
+        "period": "monthly",
+        "features": {
+          "0": "Comprehensive Organic & Paid System",
+          "1": "Automated Lead Ad Flow Webhooks",
+          "2": "Bimonthly Strategic Content Infusion",
+          "3": "High Authority Referral Links (6/mo)",
+          "4": "Bi-Weekly Real-Time Live Audits"
+        }
+      },
+      "price-hst-1": {
+        "name": "Cloud Shield Node",
+        "description": "Secure, reliable, managed virtual server node with globally fast content loading.",
+        "period": "monthly",
+        "features": {
+          "0": "High-Speed SSD Storage Tier",
+          "1": "Edge-Router CDN Global Cache",
+          "2": "Automated Daily Offline Backup",
+          "3": "SSL Certificate (ECDSA standard)",
+          "4": "DDoS Interception Safeguards"
+        }
+      },
+      "price-hst-2": {
+        "name": "Kubernetes Multi-Zone",
+        "description": "Autoscaling container stack distributed for modern high-traffic SaaS endpoints.",
+        "period": "monthly",
+        "features": {
+          "0": "High-Availability Container Pods",
+          "1": "Active-Active Geo replication",
+          "2": "Grafana Real-time Observability",
+          "3": "Custom Cloud Watch Alerts Setup",
+          "4": "Guaranteed 99.99% Node SLA Agreement"
+        }
+      },
+      "price-ai-1": {
+        "name": "Agent Orchestrator Kit",
+        "description": "Deploy helpful AI routing pipelines to instantly filter customer requests.",
+        "period": "one-off",
+        "features": {
+          "0": "Gemini / OpenAI API Integration",
+          "1": "Conversational Ticket Classifier",
+          "2": "Custom Knowledge-Base Document Sync",
+          "3": "Lead Context Injection Flow",
+          "4": "1 Month Integration Support"
+        }
+      },
+      "price-dsn-1": {
+        "name": "Core Brand Framework",
+        "description": "Fully structured identity asset pack ready to position your company for enterprise growth.",
+        "period": "one-off",
+        "features": {
+          "0": "Modern Vector Logo System",
+          "1": "Typography & Color Hierarchy Guides",
+          "2": "6 Editable High-Quality Social Templates",
+          "3": "Business Card & Stationary Kit",
+          "4": "Figma Assets Source Access"
+        }
+      }
+    }
+  },
+  "brands": {
+    "title": "Trusted by Top Brands",
+    "digital_boost_world": "DIGITAL BOOST WORLD",
+    "digital": "DIGITAL",
+    "shoplite": "shoplite",
+    "ezaashop": "EZAASHOP",
+    "usecs": "USECS",
+    "codevenator": "CODEVENATOR",
+    "nexiestech": "nexiestech"
+  },
+  "whyChooseUs": {
+    "title": "Why Choose Us",
+    "subtitle": "The Sqodex Advantage",
+    "cards": {
+      "0": {
+        "title": "Senior Engineering",
+        "desc": "All our code is written by senior engineers."
+      },
+      "1": {
+        "title": "Zero Bloat",
+        "desc": "We build highly optimized apps without unnecessary plugins."
+      },
+      "2": {
+        "title": "Scalable Architecture",
+        "desc": "Built to handle thousands of concurrent users."
+      }
+    }
+  },
+  "projects_page": {
+    "title": "Projects",
+    "subtitle": "Explore our recent work",
+    "view_project": "View Project Details",
+    "back": "Back to Home",
+    "title_span": "Portal",
+    "desc": "A secure repository of digital engineering success. Dive into our live websites, mobile software products, and advanced system integrations.",
+    "search_placeholder": "Search by title, technology, client...",
+    "show_favs": "Show Favorites Only",
+    "filter_cat": "Filter by Category",
+    "all_projects": "All Projects",
+    "no_matches": "No matching projects found",
+    "no_matches_fav": "You haven't bookmarked any projects yet. Try marking some with the heart icon.",
+    "no_matches_search": "Try adjusting your search terms or selecting another category to see other projects.",
+    "clear_favs": "Clear Favorites Filter"
+  },
+  "services_page": {
+    "seo_title": "Our Digital Services & Capabilities | Sqodex Peshawar",
+    "seo_description": "Explore the complete suite of digital services offered by Sqodex: web development, mobile apps, SaaS systems, UI/UX design, and SEO.",
+    "back_to_home": "Back to Home",
+    "title": "Our",
+    "title_span": "Services Portal",
+    "desc": "From initial wireframing and interactive prototypes to enterprise SaaS systems and high-ROI digital marketing, we deliver robust, SEO-engineered solutions tailored for business scale.",
+    "search_placeholder": "Search services, tech stacks, platforms...",
+    "no_results_title": "No matching services found",
+    "no_results_desc": "Try adjusting your search terms to explore our core offerings.",
+    "service_prefix": "SERVICE",
+    "more": "MORE",
+    "view_service": "Learn More",
+    "all_services": "All Services"
+  },
+  "project_card": {
+    "featured": "FEATURED",
+    "live_demo": "Live Demo",
+    "github": "GitHub",
+    "read_case_study": "Read Case Study"
+  },
+  "project_detail": {
+    "not_found_title": "Case Study Not Found",
+    "return_home": "Return Home",
+    "back": "Back",
+    "featured": "Featured",
+    "case_study": "Case Study",
+    "client": "Client",
+    "completed": "Completed",
+    "category": "Category",
+    "overview": "Overview",
+    "results": "Results",
+    "challenges": "Challenges We Solved",
+    "deliverables": "What We Delivered",
+    "tech_stack": "Tech Stack",
+    "client_feedback": "Client Feedback",
+    "gallery": "Case Study Gallery",
+    "zoom": "Zoom",
+    "cta_title": "Want results like these?",
+    "cta_desc": "Let's talk about your project and build a tailored solution.",
+    "start_project": "Start a project",
+    "ask_about": "Ask about this",
+    "similar_projects": "Similar Projects",
+    "image": "Image",
+    "of": "of",
+    "key_results": "Key Results",
+    "the_challenge": "The Challenge",
+    "the_solution": "The Solution",
+    "challenges_overcome": "Challenges Overcome",
+    "key_deliverables": "Key Deliverables",
+    "live_site": "Visit Live Site",
+    "related_projects": "Related Projects"
+  },
+  "service_detail": {
+    "not_found_title": "Service Not Found",
+    "return_home": "Return Home",
+    "back": "Back",
+    "service_label": "Service —",
+    "start_project": "Start a project",
+    "whats_included": "What's included",
+    "what_i_can_build": "What I can build",
+    "best_for": "Best for",
+    "how_we_work": "How we work",
+    "how_we_work_title": "A clear path from idea to delivery",
+    "what_i_need": "What I need from you",
+    "cta_title": "Ready to start your project?",
+    "cta_desc": "Tell me about your idea and we'll figure out the right path forward — no commitment needed.",
+    "start_conversation": "Start a conversation",
+    "learn_more": "Learn more ↗",
+    "our_work": "Our Work",
+    "related_projects": "Related Projects",
+    "back_to_services": "Back to Services",
+    "whats_included_label": "What's Included",
+    "what_we_build": "What We Build",
+    "how_we_work_label": "How We Work",
+    "what_we_need": "What We Need From You",
+    "faqs": "Frequently Asked Questions",
+    "pricing": "Pricing Plans",
+    "popular": "Most Popular",
+    "get_started": "Get Started",
+    "monthly": "/mo",
+    "one_off": "one-off"
+  },
+  "featured_projects": {
+    "badge": "Our Masterpieces",
+    "title": "Featured",
+    "title_span": "Projects",
+    "subtitle": "Recent deployments and case studies.",
+    "desc": "Explore some of our most impactful work, custom-built to deliver high performance, beautiful aesthetics, and measurable growth. Discover why ambitious brands choose Sqodex to build digital products that are ready to grow their business and accelerate revenue.",
+    "view_all": "Explore All Projects"
+  },
+  "testimonials_section": {
+    "badge": "Client Trust Ledger",
+    "title": "What Growing Brands Say About Sqodex",
+    "desc": "Verified partner opinions regarding our rapid delivery pipelines, structural code accuracy, and high-convertible design layouts.",
+    "title_span": "Feedback",
+    "subtitle": "What our partners say about us."
+  },
+  "app": {
+    "whatsapp_tooltip": "Chat with an Engineer",
+    "whatsapp_message": "Hi Sqodex, I would like to inquire about your digital services.",
+    "whatsapp_cta": "Contact Sqodex on WhatsApp",
+    "projects_delivered": "Projects Delivered",
+    "saas_systems": "SaaS Systems Live",
+    "trusted_by": "Trusted Partners"
+  },
+  "about_section": {
+    "slogan": "Sovereign Engineering Standard",
+    "title_prefix": "Driven By Passion",
+    "title_suffix": "Engineered For Scale.",
+    "p1_text": "is a collective of elite software engineers, creative architects, and digital strategists. We specialize in building secure, high-velocity digital products—from hyper-optimized web portals to complex, scalable enterprise SaaS systems.",
+    "p2_text": "We believe in sovereign development: writing clean, modular code without bloat. By combining state-of-the-art frameworks with uncompromising quality standards, we deliver robust solutions that give our partners a definitive edge in their market.",
+    "stats": {
+      "0": {
+        "label": "Years of Excellence"
+      },
+      "1": {
+        "label": "Brands Worldwide"
+      },
+      "2": {
+        "label": "Projects Delivered"
+      },
+      "3": {
+        "label": "Client Satisfaction"
+      }
+    },
+    "values_title": "Our Core Principles",
+    "values": {
+      "0": {
+        "title": "Happiness",
+        "desc": "Happy teams deliver extraordinary results for your brand."
+      },
+      "1": {
+        "title": "Honesty",
+        "desc": "Transparent communication builds unbreakable client trust."
+      },
+      "2": {
+        "title": "Dedication",
+        "desc": "A relentless focus on achieving your business growth goals."
+      },
+      "3": {
+        "title": "Transparency",
+        "desc": "Clear development processes and open reporting at every step."
+      },
+      "4": {
+        "title": "Empathy",
+        "desc": "Understanding your deep challenges to craft custom solutions."
+      }
+    }
+  },
+  "why_choose_us_section": {
+    "badge": "WHY SQODEX",
+    "title_main": "Why Choose",
+    "title_highlight": "SQODEX",
+    "desc": "We deliver high-performance digital products that help brands scale. Here is how we set ourselves apart from the competition.",
+    "card1": {
+      "title": "End-to-End Solutions",
+      "desc": "From strategic blueprinting to global deployment, we manage the entire technical lifecycle so your team can focus on market expansion."
+    },
+    "card2": {
+      "title": "Next-Gen Stack Integration",
+      "desc": "Engineered using modern stacks including React, Node.js, Flutter, and Kotlin with guaranteed performance and scalability."
+    },
+    "card3": {
+      "title": "Stack Flexibility",
+      "desc": "Tailor-made tech stack perfectly aligned with your business requirements, ensuring optimal performance, scalability, and long-term maintenance. Your vision, your stack, our expertise."
+    },
+    "card4": {
+      "title": "Performance, Analytics & Support",
+      "desc": "Comprehensive post-launch maintenance, performance monitoring, and continuous improvement services to ensure your digital assets evolve with your business goals."
+    },
+    "card5": {
+      "title": "Security Audits & Recovery",
+      "desc": "Protect your digital assets with our comprehensive security audit services. We identify vulnerabilities and provide robust recovery solutions to safeguard your data and operations."
+    },
+    "card6": {
+      "title": "Future-Proof Innovation",
+      "desc": "Gain an immediate competitive edge. We inject bleeding-edge capabilities—from AI/LLMs to autonomous microservices—into your core product today."
+    }
+  },
+  "workflow_section": {
+    "process": "Our Process",
+    "title_main": "From idea to launch in",
+    "title_highlight": "four clear steps.",
+    "desc": "A systematic, predictable lifecycle designed to deliver high-performance digital products from concept to scale.",
+    "steps": {
+      "0": {
+        "title": "Discovery Call",
+        "desc": "We learn your goals, users, timeline, and budget in a free 30-minute session. No fluff."
+      },
+      "1": {
+        "title": "Proposal & Scope",
+        "desc": "You receive a detailed project scope, timeline, and fixed-price proposal within 48 hours."
+      },
+      "2": {
+        "title": "Design & Build",
+        "desc": "Our squad gets to work. You stay in the loop with weekly check-ins and a shared project board."
+      },
+      "3": {
+        "title": "Launch & Support",
+        "desc": "We deploy, test, and hand over a polished product — then stay available for ongoing support."
+      }
+    }
+  }
+}
