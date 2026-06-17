@@ -28,7 +28,7 @@
     "validation_error": "Por favor, completa todos los campos obligatorios (Nombre Completo, Correo Electrónico y Brief del Proyecto).",
     "badge": "Ponte en Contacto",
     "title_main": "Hablemos de tu visión.",
-    "title_highlight": "Sin compromisos.",
+    "title_highlight": "Disponible Ahora",
     "desc": "¿Tienes un nuevo proyecto en mente o necesitas escalar un sistema existente? Déjanos un breve mensaje sobre lo que estás intentando lograr. Nuestro equipo revisará tus requisitos y resumirá los pasos exactos que daríamos para construirlo.",
     "success_title": "¡Brief del Proyecto Transmitido!",
     "success_button": "Enviar Otro Mensaje",
@@ -2114,5 +2114,10 @@
         "desc": "Desplegamos, probamos y entregamos un producto pulido, y luego permanecemos disponibles para soporte continuo."
       }
     }
+  },
+  "whatsapp": {
+    "reply_time": "Generalmente responde en unos minutos",
+    "greeting": "Hola 👋 ¿Cómo podemos ayudarte hoy?",
+    "placeholder": "Escribe un mensaje..."
   }
 }

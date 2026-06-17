@@ -2115,5 +2115,10 @@
         "desc": "We deploy, test, and hand over a polished product — then stay available for ongoing support."
       }
     }
+  },
+  "whatsapp": {
+    "reply_time": "Typically replies within a few minutes",
+    "greeting": "Hi 👋 How can we help you today?",
+    "placeholder": "Write a message..."
   }
 }

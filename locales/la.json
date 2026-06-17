@@ -28,7 +28,7 @@
     "validation_error": "Porrige omnes campos mandatorios (Nomen Plenum, Inscriptio Electronica, et Breviarium Incepti).",
     "badge": "Inisce Nobiscum",
     "title_main": "De visione tua disseramus.",
-    "title_highlight": "Sine ulla obligatione.",
+    "title_highlight": "Nunc praesto",
     "desc": "Habesne novum inceptum in animo vel opus est systema vigens amplificare? Mitte nobis brevem nuntium de eo quod efficere conaris. Turma nostra necessitates tuas perspicere et exactos gradus quos ad aedificandum caperemus adumbrabit.",
     "success_title": "Breviarium Incepti Transmissum!",
     "success_button": "Alium Nuntium Mitte",
@@ -868,7 +868,6 @@
   "data": {
     "categories": {
       "website-development": {
-        "name": "Evolutio Textuum Full Stack",
         "name": "Full Stack Web App Development",
         "desc": "Applicationes textuum full-stack modernae aedificatae cum Next.js, React, Node.js, MongoDB, PostgreSQL, authenticatione, moderaculis, API, et dispositione productionis.",
         "whatsIncluded": "Aedifico applicationes textuum full-stack completas ab idea usque ad productionem utendo technologiis modernis, celeribus, et scalabilibus. Hoc servitium utile est si eges app negotii, suggestum SaaS, portam clientium, moderaculum admin, systema praenotationis, forum, vel productum textus consuetudinis.",
@@ -2116,5 +2115,10 @@
         "desc": "Disponimus, probamus, et tradimus productum politum — deinde praesto manemus pro auxilio continuo."
       }
     }
+  },
+  "whatsapp": {
+    "reply_time": "Plerumque intra pauca minuta respondet",
+    "greeting": "Salve 👋 Quomodo te hodie adiuvare possumus?",
+    "placeholder": "Scribe nuntium..."
   }
 }

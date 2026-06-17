@@ -28,7 +28,7 @@
     "validation_error": "Bitte füllen Sie alle Pflichtfelder aus (Vollständiger Name, E-Mail und Projektbriefing).",
     "badge": "Kontaktieren Sie uns",
     "title_main": "Lassen Sie uns über Ihre Vision sprechen.",
-    "title_highlight": "Unverbindlich.",
+    "title_highlight": "Jetzt verfügbar",
     "desc": "Haben Sie ein neues Projekt im Sinn oder müssen Sie ein bestehendes System skalieren? Schreiben Sie uns eine kurze Nachricht darüber, was Sie erreichen möchten. Unser Team wird Ihre Anforderungen prüfen und die genauen Schritte skizzieren, die wir für den Aufbau des Systems vorschlagen.",
     "success_title": "Projektbriefing übermittelt!",
     "success_button": "Weitere Nachricht senden",
@@ -2115,5 +2115,10 @@
         "desc": "Wir stellen das  Produkt bereit, testen es und übergeben ein poliertes Ergebnis — und bleiben für fortlaufenden Support an Ihrer Seite."
       }
     }
+  },
+  "whatsapp": {
+    "reply_time": "Antwortet normalerweise innerhalb weniger Minuten",
+    "greeting": "Hallo 👋 Wie können wir Ihnen heute helfen?",
+    "placeholder": "Schreiben Sie eine Nachricht..."
   }
 }
