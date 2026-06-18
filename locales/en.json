@@ -35,12 +35,11 @@
     "mailto_success": "Your email client has been opened with your brief pre-filled. Please hit Send to complete your inquiry. We'll respond within 24 hours!",
     "info": {
       "email_label": "Email Us",
-      "email_value": "contact@sqodex.com",
+      "email_value": "sqodex7@gmail.com",
       "phone_label": "WhatsApp & Call",
       "phone_value": "+92 327 9048797",
       "address_label": "Headquarters",
-      "address_value": "Peshawar, KPK, Pakistan",
-      "response_time": "Response time guarantee: Under 24 Hours"
+      "address_value": "Peshawar, KPK, Pakistan"
     },
     "placeholders": {
       "name": "John Doe",

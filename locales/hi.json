@@ -35,12 +35,11 @@
     "mailto_success": "आपका ईमेल क्लाइंट आपके पहले से भरे हुए ब्रीफ के साथ खोल दिया गया है। अपनी पूछताछ पूरी करने के लिए कृपया सेंड पर क्लिक करें। हम 24 घंटे के भीतर जवाब देंगे!",
     "info": {
       "email_label": "हमें ईमेल करें",
-      "email_value": "contact@sqodex.com",
+      "email_value": "sqodex7@gmail.com",
       "phone_label": "व्हाट्सएप और कॉल",
       "phone_value": "+92 327 9048797",
       "address_label": "मुख्यालय",
-      "address_value": "पेशावर, केपीके, पाकिस्तान",
-      "response_time": "जवाब देने की समयसीमा की गारंटी: 24 घंटे से कम"
+      "address_value": "पेशावर, केपीके, पाकिस्तान"
     },
     "placeholders": {
       "name": "जॉन डो",

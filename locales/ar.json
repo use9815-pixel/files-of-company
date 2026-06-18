@@ -30,12 +30,11 @@
     "title_highlight": "متاح الآن",
     "info": {
       "email_label": "راسلنا إلكترونياً",
-      "email_value": "contact@sqodex.com",
+      "email_value": "sqodex7@gmail.com",
       "phone_label": "واتساب واتصال",
       "phone_value": "+92 327 9048797",
       "address_label": "المقر الرئيسي",
-      "address_value": "بيشاور، خيبر بختونخوا، باكستان",
-      "response_time": "ضمان وقت الرد: أقل من 24 ساعة"
+      "address_value": "بيشاور، خيبر بختونخوا، باكستان"
     },
     "placeholders": {
       "name": "جون دو",

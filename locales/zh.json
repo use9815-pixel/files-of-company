@@ -35,12 +35,11 @@
     "mailto_success": "您的邮件客户端已打开，且已为您预填好了项目简报。请点击发送以完成您的咨询。我们将在24小时内回复！",
     "info": {
       "email_label": "给我们发邮件",
-      "email_value": "contact@sqodex.com",
+      "email_value": "sqodex7@gmail.com",
       "phone_label": "WhatsApp 与 电话咨询",
       "phone_value": "+92 327 9048797",
       "address_label": "总部地址",
-      "address_value": "Peshawar, KPK, Pakistan",
-      "response_time": "响应时间保证：24小时内"
+      "address_value": "Peshawar, KPK, Pakistan"
     },
     "placeholders": {
       "name": "张三",

@@ -35,12 +35,11 @@
     "mailto_success": "آپ کا ای میل کلائنٹ آپ کے پہلے سے بھرے ہوئے بریف کے ساتھ کھول دیا گیا ہے۔ براہ کرم اپنی انکوائری مکمل کرنے کے لیے 'بھیجیں' (Send) پر کلک کریں۔ ہم 24 گھنٹوں کے اندر جواب دیں گے!",
     "info": {
       "email_label": "ہمیں ای میل کریں",
-      "email_value": "contact@sqodex.com",
+      "email_value": "sqodex7@gmail.com",
       "phone_label": "واٹس ایپ اور کال",
       "phone_value": "+92 327 9048797",
       "address_label": "ہیڈ کوارٹرز",
-      "address_value": "پشاور، خیبر پختونخوا، پاکستان",
-      "response_time": "جواب دینے کے وقت کی ضمانت: 24 گھنٹے سے کم"
+      "address_value": "پشاور، خیبر پختونخوا، پاکستان"
     },
     "placeholders": {
       "name": "جان ڈو",
