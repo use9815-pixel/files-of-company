@@ -15,7 +15,7 @@
       "service": "Wählen Sie eine Dienstleistung",
       "budget": "Geschätztes Budget",
       "message": "Projektdetails",
-      "submit": "Mein Briefing senden →",
+      "submit": "senden →",
       "success": "Nachricht erfolgreich gesendet!",
       "error_reject": "ABLEHNUNG DURCH ÜBERMITTLUNGSSYSTEM",
       "projectType": "Projekttyp",
